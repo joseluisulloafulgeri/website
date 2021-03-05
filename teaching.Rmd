@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+Curso de Estadística
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Generalidades [YouTube]</a>
+
+- ¿Qué es la estadística? y ¿para que sirve?
+- ¿Cómo se relaciona la estadística con la metodología?
+

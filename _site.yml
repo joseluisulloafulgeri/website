@@ -5,5 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Curso de estadística"     ##### the new
+      href: estadistica101.html  ##### stuff      
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

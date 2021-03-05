@@ -1,0 +1,64 @@
+---
+title: "Curso de estadística 101"
+---
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que sirve la estadística?</a>
+
+Contenido: 4 videos (27 minutos en total)
+
+- ¿Qué son los parámetros y los estadísticos?
+- ¿Cómo se relaciona la estadística con la metodología?
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGZdIZuvGySMRfKq2r1UKnCg" target="_blank">Capítulo 1b: ¿Que es lo más esencial que debería saber?</a>
+
+Contenido: 6 videos (41 minutos en total)
+
+- ¿Qué significa operacionalizar una variable?
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGYNH1thjd8KkRyr-JVPzvR3" target="_blank">Capítulo 2: ¿Por qué importanto tanto la curva normal?</a>
+
+Contenido: 8 videos (1 hora 32 minutos en total)
+
+- ¿Por qué es tan importante la curva normal?
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGbZKFJCnsK8Sxd840FatDm-" target="_blank">Capítulo 3: ¿Que es un t-test?</a>
+
+Contenido: 4 videos (45 minutos en total)
+
+- ¿Cómo comparamos dos grupos de datos?
+
+
+<a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGbZKFJCnsK8Sxd840FatDm-" target="_blank"><span style="color:blue">Ejercicio práctico 1</span></a>
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaAEQlidg92YdaCvYBCWoSj" target="_blank">Capítulo 4: ¿Que es un modelo estadístico?</a>
+
+Contenido: 3 videos (39 minutos en total)
+
+- ¿Qué es un modelo?
+- ¿Qué es un modelo estadístico?
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaJHRDX7kGcfA659l8FMRAO" target="_blank">Capítulo 5: ¿Que es un ANOVA?</a>
+
+Contenido: 4 videos (53 minutos en total)
+
+- ¿Cómo comparamos varias condiciones experimentales?
+
+<br/>
+
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaIAxM2bxJVkNDbKs5KnaId" target="_blank">Capítulo 6: ¿Y que hago después que calculo un ANOVA?</a>
+
+Contenido: 3 videos (35 minutos en total)
+
+- ¿Que hago después de una prueba omnibus?
