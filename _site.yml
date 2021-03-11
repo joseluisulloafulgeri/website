@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Curso de estadística"     ##### the new
+    - text: "Estadística 101"     ##### the new
       href: estadistica101.html  ##### stuff      
     - text: "About Me"
       href: about.html

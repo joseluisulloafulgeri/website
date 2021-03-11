@@ -1,5 +1,5 @@
 ---
-title: "Curso de estadística 101"
+title: "Estadística 101"
 ---
 
 <br/>
@@ -8,10 +8,26 @@ title: "Curso de estadística 101"
 
 Contenido: 4 videos (27 minutos en total)
 
-- ¿Qué son los parámetros y los estadísticos?
-- ¿Cómo se relaciona la estadística con la metodología?
+Preguntas clave:
 
-<br/>
+- ¿Qué es la estadística descriptiva?
+- ¿Qué es una población y una muestra?
+- ¿Qué son los parámetros y los estadísticos?
+- ¿Por qué necesitamos obtener una muestra para nuestros experimentos?
+- ¿Por qué necesitamos las probabilidades para análisis estadísticos?
+- ¿Qué es la estadística inferencial?
+- ¿Que tipos de variables nos sirven para describir una muestra?
+- ¿Que significa definir variables y operacionalizar?
+- ¿Que es una variable independiente? ¿Que es una variable dependiente?
+- ¿Cómo se construye una hipótesis?
+- En un diseño experimental ¿qué es un factor?
+- En un diseño experimental ¿qué es un nivel?
+- ¿Cuál es la diferencia entre un diseño intra-sujetos y un diseño entre-sujetos?
+- ¿Qué es un diseño experimental mixto?
+- ¿Qué tipo de prueba se utiliza para comparar dos grupos experimentales?
+- ¿Qué tipo de prueba se utiliza para comparar mas de dos grupos experimentales?
+
+<a href="https://www.youtube.com/watch?v=K0djrU94yvg&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica: Instalando Jamovi</span></a>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGZdIZuvGySMRfKq2r1UKnCg" target="_blank">Capítulo 1b: ¿Que es lo más esencial que debería saber?</a>
 
@@ -34,7 +50,6 @@ Contenido: 8 videos (1 hora 32 minutos en total)
 Contenido: 4 videos (45 minutos en total)
 
 - ¿Cómo comparamos dos grupos de datos?
-
 
 <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGbZKFJCnsK8Sxd840FatDm-" target="_blank"><span style="color:blue">Ejercicio práctico 1</span></a>
 
