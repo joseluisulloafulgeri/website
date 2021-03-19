@@ -2,24 +2,27 @@
 title: "Estadística 101"
 ---
 
+Este es un curso que parte desde cero. Sí. Realmente desde cero.
+<br/>
+0
 <br/>
 
-## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que sirve la estadística?</a>
+## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que nos sirve la estadística?</a>
 
 Contenido: 4 videos (27 minutos en total)
 
 Preguntas clave:
 
-- ¿Qué es la estadística descriptiva?
-- ¿Qué es una población y una muestra?
-- ¿Qué son los parámetros y los estadísticos?
+- ¿Qué es la estadística descriptiva? ¿Qué es la estadística inferencial?
+- ¿Qué es una población y una muestra? ¿Qué son los parámetros y los estadísticos?
 - ¿Por qué necesitamos obtener una muestra para nuestros experimentos?
 - ¿Por qué necesitamos las probabilidades para análisis estadísticos?
-- ¿Qué es la estadística inferencial?
+
 - ¿Que tipos de variables nos sirven para describir una muestra?
 - ¿Que significa definir variables y operacionalizar?
 - ¿Que es una variable independiente? ¿Que es una variable dependiente?
 - ¿Cómo se construye una hipótesis?
+
 - En un diseño experimental ¿qué es un factor?
 - En un diseño experimental ¿qué es un nivel?
 - ¿Cuál es la diferencia entre un diseño intra-sujetos y un diseño entre-sujetos?
@@ -27,15 +30,31 @@ Preguntas clave:
 - ¿Qué tipo de prueba se utiliza para comparar dos grupos experimentales?
 - ¿Qué tipo de prueba se utiliza para comparar mas de dos grupos experimentales?
 
-<a href="https://www.youtube.com/watch?v=K0djrU94yvg&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica: Instalando Jamovi</span></a>
-
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGZdIZuvGySMRfKq2r1UKnCg" target="_blank">Capítulo 1b: ¿Que es lo más esencial que debería saber?</a>
 
 Contenido: 6 videos (41 minutos en total)
 
-- ¿Qué significa operacionalizar una variable?
+Preguntas clave:
 
-<br/>
+- ¿Qué aspectos son importantes a la hora de diseñar un experimento?
+- ¿Qué es la validez de una medición?
+- ¿Qué es la replicabilidad de una medición?
+- ¿Qué es un factor confundente?
+
+- ¿Qué hace un prueba estadística (en términos de los cambios que experimenta una variable)?
+- ¿Qué es la variación sistemática? ¿Qué es la variación no sistemática?
+
+- ¿Cuál es la diferencia entre un diseño intra-sujetos y un diseño entre-sujetos?
+- ¿Cuál es la relación entre un diseño experimental y su análisis estadístico asociado?
+
+- ¿Quién fué Roland Fisher?
+- ¿Dé dónde viene el 5% (o p = 0.05) que usamos en estadística?
+
+- ¿Para que se usa la randomización?
+- ¿Qué son los efectos de práctica y de aburrimiento en un diseño intra-sujetos?
+- ¿Cómo podemos confeccionar un buen diseño entre-sujetos?
+
+<a href="https://www.youtube.com/watch?v=K0djrU94yvg&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 1: Instalando Jamovi (2.5 minutos)</span></a>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGYNH1thjd8KkRyr-JVPzvR3" target="_blank">Capítulo 2: ¿Por qué importanto tanto la curva normal?</a>
 
@@ -43,7 +62,7 @@ Contenido: 8 videos (1 hora 32 minutos en total)
 
 - ¿Por qué es tan importante la curva normal?
 
-<br/>
+<a href="https://www.youtube.com/watch?v=1DaF6lau7hA&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 2: Explorando mis datos (17 minutos)</span></a>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGbZKFJCnsK8Sxd840FatDm-" target="_blank">Capítulo 3: ¿Que es un t-test?</a>
 
@@ -51,9 +70,7 @@ Contenido: 4 videos (45 minutos en total)
 
 - ¿Cómo comparamos dos grupos de datos?
 
-<a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGbZKFJCnsK8Sxd840FatDm-" target="_blank"><span style="color:blue">Ejercicio práctico 1</span></a>
-
-<br/>
+<a href="https://www.youtube.com/watch?v=-XgeZ-cAtEc&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 3: T-test entre-sujetos (23 minutos)</span></a>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaAEQlidg92YdaCvYBCWoSj" target="_blank">Capítulo 4: ¿Que es un modelo estadístico?</a>
 
