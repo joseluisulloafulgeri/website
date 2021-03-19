@@ -2,9 +2,8 @@
 title: "Estadística 101"
 ---
 
-Este es un curso que parte desde cero. Sí. Realmente desde cero.
-<br/>
-0
+Este es un curso parte asumiendo que no sabes nada de estadística.
+Sin embargo, parte asumiendo que sabes lo básico de fracciones.
 <br/>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que nos sirve la estadística?</a>
