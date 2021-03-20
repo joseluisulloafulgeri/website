@@ -2,9 +2,9 @@
 title: "Estadística 101"
 ---
 
-Este es un curso parte asumiendo que no sabes nada de estadística.
-Sin embargo, parte asumiendo que sabes lo básico de fracciones.
-<br/>
+Este es un curso parte asumiendo que no sabes nada de estadística.<br/>
+Sin embargo, parte asumiendo que sabes lo básico de fracciones.<br/><br/>
+
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Capítulo 1a: ¿Para que nos sirve la estadística?</a>
 
@@ -28,6 +28,7 @@ Preguntas clave:
 - ¿Qué es un diseño experimental mixto?
 - ¿Qué tipo de prueba se utiliza para comparar dos grupos experimentales?
 - ¿Qué tipo de prueba se utiliza para comparar mas de dos grupos experimentales?
+<br/><br/>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGZdIZuvGySMRfKq2r1UKnCg" target="_blank">Capítulo 1b: ¿Que es lo más esencial que debería saber?</a>
 
@@ -54,6 +55,7 @@ Preguntas clave:
 - ¿Cómo podemos confeccionar un buen diseño entre-sujetos?
 
 <a href="https://www.youtube.com/watch?v=K0djrU94yvg&ab_channel=Jos%C3%A9LuisBlues" target="_blank"><span style="color:blue">Estadística en la práctica 1: Instalando Jamovi (2.5 minutos)</span></a>
+<br/><br/>
 
 ## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGYNH1thjd8KkRyr-JVPzvR3" target="_blank">Capítulo 2: ¿Por qué importanto tanto la curva normal?</a>
 
