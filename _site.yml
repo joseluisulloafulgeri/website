@@ -4,7 +4,7 @@ navbar:
   title: "JLUF"
   left:
     - text: "Home"
-      href: home.html
+      href: index.html
     - text: "Estadística 101"     ##### the new
       href: estadistica101.html  ##### stuff      
 output:
