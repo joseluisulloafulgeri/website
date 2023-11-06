@@ -1,14 +1,12 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "JLUF"
   left:
     - text: "Home"
-      href: index.html
+      href: home.html
     - text: "Estadística 101"     ##### the new
       href: estadistica101.html  ##### stuff      
-    - text: "About Me"
-      href: about.html
 output:
   html_document:
     theme: flatly
