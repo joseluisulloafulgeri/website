@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: "José Luis Ulloa Fulgeri"
 ---
 
-Mi nombre es José Luis Ulloa Fulgeri, soy profesor asistente en la Facultad de Psicología en la Universidad de Talca. Soy bioquímico de formación (Universidad de Chile) pero en algún punto de mi formación me volví un apasionado por el estudio de la conducta humana.
+Soy profesor asistente en la Facultad de Psicología en la Universidad de Talca. Soy bioquímico de formación (Universidad de Chile) pero en algún punto de mi formación me volví un apasionado por el estudio de la conducta humana.
 
 Vivo cerca de Pelarco.
 
