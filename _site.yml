@@ -5,8 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Estadística (con Jamovi)"     ##### the new
-      href: estadistica101.html  ##### stuff      
+    - text: "Estadística (con Jamovi)"
+      href: estadistica101.html
+    - text: "Links"
+      href: links.html
+      
 output:
   html_document:
     theme: flatly
