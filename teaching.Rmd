@@ -2,10 +2,10 @@
 title: "Teaching"
 ---
 
-Curso de Estadística
+Actualmente realizo cursos de psicología experimental, metodología de la investigación y estadística.
 
-## <a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaCt1fDe0vl-pBt_Y4A0uaU" target="_blank">Generalidades [YouTube]</a>
+Algunos de mis cursos de pueden encontar aquí:
 
-- ¿Qué es la estadística? y ¿para que sirve?
-- ¿Cómo se relaciona la estadística con la metodología?
+<a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">Curso de Estadística con Jamovi</a>
 
+<a href="https://doctoradoenpsicologiautal.github.io/estadistica//" target="_blank">Curso de Estadística con R</a>

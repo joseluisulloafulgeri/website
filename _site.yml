@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Estadística (con Jamovi)"
-      href: estadistica101.html
+    - text: "Teaching"
+      href: teaching.html
     - text: "Links"
       href: links.html
       
