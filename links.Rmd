@@ -2,14 +2,130 @@
 title: "Links"
 ---
 
-Películas
+Pelis\
+<a href="https://en.m.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari" target="_blank">The Cabinet of Dr. Caligari (1920)</a>\
+Un chien andalou (1929)\
+Wuthering Heights (1939)\
+The Letter (1940)\
+Spellbound (1945)\
+Shock (1946)\
+Notorious (1946)\
+Rope (1948)\
+Drunken Angel (1948)\
+Europe 51' (1951)\
+Johnny Guitar(1954)\
+Forbidden Planet (1956)\
+High Society (1956)\
+The Incredible Shrinking Man (1957)\
+The Blob (1958)\
+Ashes and Diamonds (1958)\
+Vertigo (1958)\
+House On Haunted Hill (1959)\
+Some Like It Hot (1959)\
+Battle Of The Worlds (1961)\
+Splendor in the Grass (1961)\
+The Innocents (1961) #TheTurnOfTheScrew\
+What Ever Happened to Baby Jane? (1962)
+The Birds (1963)\
+Dr. Strangelove (1964)\
+Belle de jour (1967)
+Colossus: The Forbin Project (1970)\
+Solaris (1972)\
+Soylent Green (1973)\
+Quién puede matar a un niño? (1976)\
+A Special Day (1977)\
+Eraserhead (1977)\
+Videodrome (1983)\
+Throw Momma from the Train (1987)\
+The Woman in Red (1984)\
+Children of the Corn (1984)\
+Tampopo (1985)\
+Lucas (1986)\
+Wings of desire (1987)\
+Hellraiser (1987)\ 
+They Live (1988)\
+976-EVIL (1988)\
+The Serpent and the Rainbow (1988)\
+Do the right thing (1989)\
+Highway to Hell (1991)\
+Knights Moves (1992)\
+Groundhog day (1993)\
+Benny & Joon (1993)\
+Event Horizon (1997)\
+Dark city (1998)\
+Session 9 (2001)\
+The Woodsman (2004)\
+Walk the line (2005)\
+The live of others (2006)\
+The Ramen Girl (2008)\
+Finale (2009)\
+Knowing (2009)\
+Blue Valentine (2010)\
+Detachment (2011)\
+The Great Beauty (2012)\
+Seeking a Friend for the End of the World (2012)\
+The Place Beyond the Pines (2013)\
+Cake (2014)\
+The Wait (2014)\
+The Martian (2015)\
+Personal Shopper (2016)\
+War & Peace (2016)\
+Tallo Falls (2017)\
+Veronica (2017)\
+The shape of water (2017)\
+The killing of a sacred dear (2017)\
+A ghost story (2017)\
+Hereditary (2018)\
+Isle of Dogs (2018)\
+Le Lion est mort ce soir (2018)\
+Burning (2018)\
+Border (2018)\
+Black '47 (2018)\
+Brightburn (2019)\
+Svart Cirkel (2019)\
+It own life (2019)\
+Ma (2019)\
+Finale (2019)\
+Harpoon (2019)\
+I See You (2019)\
+Us (2019)\
+De repente, el paraíso (2019)\
+Gretel & Hansel (2020)\
+Synchronic (2020)\
+The Wild Goose Lake (2020)\
+Amulet (2020)\
+The Antenna (2020)\
+Possessor (2020)\
+Koma (2020)\
+Double world (2020)\
+Tenet (2020)\ 
+Palm Springs (2020)\
+His house (2020)\
+Human nature (2020)\
+Tengo miedo torero (2020)\
+<a href="https://en.wikipedia.org/wiki/Bloody_Hell_(2020_film)" target="_blank">Bloody Hell (2020)</a>\
+Psycho Goreman (2021)\
+Magnetic Beats (2021)\
+The Innocents (2021)\
+Carajita (2021)\
+The Machinery Of Dreams (2021)\
+RRR (2022)\
+20th Century Girl (2022)\
+Synopsis of Everything Everywhere All at Once (2022)\
+Nope (2022)\
+Hypersleep (2022)\
+Sissy (2022)\
+The Electrical Life of Louis Wain (2022)\
+The World of Yesterday (2022)\
+Who Invited Them (2022)\
+Hypochondriac (2022)\
+Skinamarink (2022)\
+Knock at the Cabin (2023)\
+Landscape with Invisible Hand (2023)\
+White Noise (2022)\
+Music For Black Pigeons (2023)\
+Los renglones torcidos de Dios (2022)\
+Beau Is Afraid (2023)\
+When Evil Lurks (2023)\
 
-- The Cabinet of Dr. Caligari (1920)
-- Un chien andalou (1929)
-- Wuthering Heights (1939)
-- The Letter (1940)
-- Spellbound (1945)
-- Shock (1946)
-- Notorious (1946)
-- Rope (1948)
-- Drunken Angel (1948)
+% END
