@@ -3,7 +3,7 @@ title: "Links"
 ---
 
 Pelis\
-1920 - <a href="https://en.m.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari" target="_blank">The Cabinet of Dr. Caligari</a>\
+1920 - The Cabinet of Dr. Caligari <a href="https://www.youtube.com/watch?v=IAtpxqajFak" target="_blank">YouTube</a>\
 1929 - Un chien andalou\
 1939 - Wuthering Heights\
 1940 - The Letter\
