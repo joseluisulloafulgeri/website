@@ -7,6 +7,7 @@ Pelis\
 1929 Un chien andalou <a href="https://www.youtube.com/watch?v=JbBfHy2qNeA" target="_blank">Full movie</a>\
 1939 Wuthering Heights <a href="https://www.youtube.com/watch?v=XmuMd4FnnYo" target="_blank">Trailer</a>\
 1940 The Letter <a href="https://www.youtube.com/watch?v=qEWK9c-c12E" target="_blank">Trailer</a>\
+1941 Invisible Ghost <a href="https://www.youtube.com/watch?v=b8zuKPcdVWE" target="_blank">Full movie</a>\
 1945 Spellbound <a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a>\
 1946 Shock <a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full movie</a>\
 1946 Notorious\
@@ -35,6 +36,7 @@ Pelis\
 1976 Quién puede matar a un niño?\
 1977 A Special Day\
 1977 Eraserhead\
+1979 Stalker <a href="https://www.youtube.com/watch?v=Q3hBLv-HLEc" target="_blank">Full movie</a>\
 1983 Videodrome\
 1987 Throw Momma from the Train\
 1984 The Woman in Red\
@@ -82,6 +84,7 @@ Pelis\
 2018 Border\
 2018 Black '47\
 2019 Brightburn\
+2019 Doctor Sleep
 2019 Svart Cirkel\
 2019 It own life\
 2019 Ma\
