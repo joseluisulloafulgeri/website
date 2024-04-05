@@ -2,7 +2,11 @@
 title: "Toolkit"
 ---
 
-<a href="https://drive.google.com/drive/my-drive" target="_blank">Drive general use</a>\
+<a href="https://mail.google.com/mail" target="_blank">Gmail</a>\
+<a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a>\
+<a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a>\
+
+Link meetings Zoom: https://reuna.zoom.us/j/99816229969
 
 
 % END
