@@ -57,6 +57,7 @@ Pelis\
 1998 Dark city\
 2001 Session 9\
 2004 The Woodsman\
+2004 Primer <a href="https://www.youtube.com/watch?v=-vD-yj9o664" target="_blank">Trailer</a>\
 2005 Walk the line\
 2006 The live of others\
 2008 The Ramen Girl\
@@ -67,11 +68,13 @@ Pelis\
 2012 The Great Beauty\
 2012 Seeking a Friend for the End of the World\
 2013 The Place Beyond the Pines\
+2013 Upstream Color <a href="https://www.youtube.com/watch?v=SilYsr_3vrA" target="_blank">Trailer</a>\
 2014 Cake\
 2014 The Wait\
 2015 The Martian\
 2016 Personal Shopper\
 2016 War & Peace\
+2016 Swiss Army Man <a href="https://www.youtube.com/watch?v=yrK1f4TsQfM" target="_blank">Trailer</a>\
 2017 Tallo Falls\
 2017 Veronica\
 2017 The shape of water\
@@ -86,6 +89,7 @@ Pelis\
 2019 Brightburn\
 2019 Doctor Sleep
 2019 Svart Cirkel\
+2019 The Dead Center <a href="https://www.youtube.com/watch?v=DmC25jd1N5Q" target="_blank">Trailer</a>\
 2019 It own life\
 2019 Ma\
 2019 Finale\
@@ -94,6 +98,7 @@ Pelis\
 2019 Fractured  <a href="https://www.youtube.com/watch?v=S8obCz5NSog" target="_blank">Trailer</a>\
 2019 Us\
 2019 De repente, el paraíso\
+2020 Greenland <a href="https://www.youtube.com/watch?v=RTODtIQQRpA" target="_blank">Trailer</a>\
 2020 Gretel & Hansel\
 2020 Synchronic\
 2020 The Wild Goose Lake\
@@ -107,7 +112,7 @@ Pelis\
 2020 His house\
 2020 Human nature\
 2020 Tengo miedo torero\
-2020 <a href="https://en.wikipedia.org/wiki/Bloody_Hell_(2020_film)" target="_blank">Bloody Hell</a>\
+2020 Bloody Hell <a href="https://www.youtube.com/watch?v=dnPQ7x8HxA0" target="_blank">Trailer</a>\
 2021 Psycho Goreman\
 2021 Magnetic Beats\
 2021 The Innocents\
