@@ -8,7 +8,7 @@ title: "Toolkit"
 
 Link meetings Zoom: https://reuna.zoom.us/j/99816229969 \
 
-\n\n
+\n
 
 PROJECTS PSYMO \
 
@@ -22,7 +22,7 @@ PROJECTS PSYMO \
 <a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank">Decision making and MEG </a>\
 <a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank">Collab St Tomas </a>\
 
-\n\n
+\n
 
 PSYMO \
 
@@ -33,8 +33,48 @@ PSYMO \
 <a href="https://docs.google.com/spreadsheets/d/1A12vSa3O1UKPY6MNpiyjOFj32lPjLdbB_aDP-9xSFJs/edit#gid=1586062535" target="_blank">Estudio Psiquis - EEG (Respuestas) </a>\
 <a href="https://www.nombrerutyfirma.com/" target="_blank">Verificador de RUT </a>\
 
+\n
 
+UTILITIES \
 
+<a href="https://www.evernote.com/client/web?login=true" target="_blank">Evernote</a>\
+<a href="https://dictation.io/speech" target="_blank">Dictation</a>\
+<a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a>\
+<a href="https://www.quora.com/" target="_blank">Quora</a>\
+<a href="https://wise.com/home/" target="_blank">Wise</a>\
+<a href="https://outlook.office.com/mail/" target="_blank">Outlook</a>\
+<a href="https://www.zipgrade.com/" target="_blank">Zipgrade</a>\
 
+\n
+
+UTALCA \
+
+<a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank">UTalca main</a>\
+<a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank">UTalca casinos</a>\
+<a href="http://misequipos.utalca.cl/clientdti/" target="_blank">UTalca mis equipos</a>\
+<a href="https://www.dropbox.com/" target="_blank">Dropbox</a>\
+<a href="http://nube.utalca.cl/" target="_blank">UTalca cloud</a>\
+<a href="https://lms.educandus.cl/course/view.php?id=13084" target="_blank">Psicol. Direcc Escuela</a>\
+<a href="https://lms.educandus.cl/course/view.php?id=18519" target="_blank">Autoinstrucción</a>\
+
+\n
+
+JLUF \
+
+<a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">JLUF website</a>\
+<a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank">JLUF links</a>\
+<a href="https://scholar.google.com/citations?hl=en&user=jJVWkMUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">JLUF scholar</a>\
+
+\n
+
+JLUF bookdowns\
+
+<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a>\
+<a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>\
+<a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF stats 101 Jamovi</a>\
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank">JLUF R stats (old 1)</a>\
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF R stats (old 2)</a>\
+<a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF R stats</a>\
+<a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF R stats (GitHub)</a>\
 
 % END
