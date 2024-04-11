@@ -2,9 +2,9 @@
 title: "Toolkit"
 ---
 
-<a href="https://mail.google.com/mail" target="_blank">Gmail</a>\
-<a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a>\
-<a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a>\
+<a href="https://mail.google.com/mail" target="_blank">Gmail</a> || <a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a> || <a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a>\
+
+<a href="https://www.evernote.com/client/web?login=true" target="_blank">Evernote</a> || <a href="https://dictation.io/speech" target="_blank">Dictation</a> || 
 
 Link meetings Zoom: https://reuna.zoom.us/j/99816229969 \
 
@@ -36,9 +36,6 @@ PSYMO \
 \n
 
 UTILITIES \
-
-<a href="https://www.evernote.com/client/web?login=true" target="_blank">Evernote</a>\
-<a href="https://dictation.io/speech" target="_blank">Dictation</a>\
 <a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a>\
 <a href="https://www.quora.com/" target="_blank">Quora</a>\
 <a href="https://wise.com/home/" target="_blank">Wise</a>\
