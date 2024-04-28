@@ -12,66 +12,59 @@ Link meetings Zoom: https://reuna.zoom.us/j/99816229969 \
 
 PROJECTS PSYMO \
 
-<a href="https://drive.google.com/drive/folders/1VTLRVZ-dn6SY7yKhPZq46uT32SwZkdq-" target="_blank">Fondecyt 2024 </a>\
-<a href="https://drive.google.com/drive/folders/1MaYfXD_yrmAzaJ0k0k1zhsV0hI7WQadV" target="_blank">Fondequip 2024 </a>\
-<a href="https://drive.google.com/drive/folders/1ihGU5TmsY86uk-R-VvNtVmjF1zIzbptW" target="_blank">BRE 2024 </a>\
-<a href="https://drive.google.com/drive/folders/1sTN8bEMWKE1QSr3ZaUAnvBS1Zi6aOldT" target="_blank">Collab - Rendimiento Académico </a>\
-<a href="https://drive.google.com/drive/folders/1owkzaSoHAjgLgaXROzSrVvVIN--9YPZe" target="_blank">Cogn Modeling </a>\
-<a href="https://drive.google.com/drive/folders/1GaUJfFHPsRoCtKcH4LW0R6Vz0HoC0Xo8" target="_blank">Machine learning </a>\
-<a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank">Camouflaging </a>\
-<a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank">Decision making and MEG </a>\
-<a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank">Collab St Tomas </a>\
+<a href="https://drive.google.com/drive/folders/1VTLRVZ-dn6SY7yKhPZq46uT32SwZkdq-" target="_blank">Fondecyt 2024 </a>\ || <a href="https://drive.google.com/drive/folders/1MaYfXD_yrmAzaJ0k0k1zhsV0hI7WQadV" target="_blank">Fondequip 2024 </a>\ || <a href="https://drive.google.com/drive/folders/1ihGU5TmsY86uk-R-VvNtVmjF1zIzbptW" target="_blank">BRE 2024 </a>\ || <a href="https://drive.google.com/drive/folders/1sTN8bEMWKE1QSr3ZaUAnvBS1Zi6aOldT" target="_blank">Collab - Rendimiento Académico </a>\ || <a href="https://drive.google.com/drive/folders/1owkzaSoHAjgLgaXROzSrVvVIN--9YPZe" target="_blank">Cogn Modeling </a>\ || <a href="https://drive.google.com/drive/folders/1GaUJfFHPsRoCtKcH4LW0R6Vz0HoC0Xo8" target="_blank">Machine learning </a>\ || <a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank">Camouflaging </a>\ || <a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank">Decision making and MEG </a>\ || <a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank">Collab St Tomas </a>\
 
 \n
 
 PSYMO \
 
-<a href="https://drive.google.com/drive/folders/1SBC6yVQgah3iiCfDSFaDaumb86Nl80Xt" target="_blank">PSYMO online </a>\
-<a href="https://docs.google.com/spreadsheets/d/1Bvz2EHB6UMHNJjGD5QNnEqQ6_LcPaJRiGeJRj9FEgLw/edit#gid=582252154" target="_blank">PSYMO list subj </a>\
-<a href="https://docs.google.com/spreadsheets/d/19_4YIiZbrMw1382irE1QHDiM8p-v7EeSJGplI-y2wH4/edit#gid=0" target="_blank">PSYMO registros EEG </a>\
-<a href="https://docs.google.com/forms/d/1Bs1mLXNbhQa8c8PnN1E-ILK6uhykPTlte71Yr3BBJ9Y/edit?ts=62fd0ce6" target="_blank">Estudio Psiquis - EEG </a>\
-<a href="https://docs.google.com/spreadsheets/d/1A12vSa3O1UKPY6MNpiyjOFj32lPjLdbB_aDP-9xSFJs/edit#gid=1586062535" target="_blank">Estudio Psiquis - EEG (Respuestas) </a>\
-<a href="https://www.nombrerutyfirma.com/" target="_blank">Verificador de RUT </a>\
+<a href="https://drive.google.com/drive/folders/1SBC6yVQgah3iiCfDSFaDaumb86Nl80Xt" target="_blank">PSYMO online </a>\ || <a href="https://docs.google.com/spreadsheets/d/1Bvz2EHB6UMHNJjGD5QNnEqQ6_LcPaJRiGeJRj9FEgLw/edit#gid=582252154" target="_blank">PSYMO list subj </a>\ || <a href="https://docs.google.com/spreadsheets/d/19_4YIiZbrMw1382irE1QHDiM8p-v7EeSJGplI-y2wH4/edit#gid=0" target="_blank">PSYMO registros EEG </a>\ || <a href="https://docs.google.com/forms/d/1Bs1mLXNbhQa8c8PnN1E-ILK6uhykPTlte71Yr3BBJ9Y/edit?ts=62fd0ce6" target="_blank">Estudio Psiquis - EEG </a>\ || <a href="https://docs.google.com/spreadsheets/d/1A12vSa3O1UKPY6MNpiyjOFj32lPjLdbB_aDP-9xSFJs/edit#gid=1586062535" target="_blank">Estudio Psiquis - EEG (Respuestas) </a>\ || <a href="https://www.nombrerutyfirma.com/" target="_blank">Verificador de RUT </a>\
 
 \n
 
 UTILITIES \
-<a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a>\
-<a href="https://www.quora.com/" target="_blank">Quora</a>\
-<a href="https://wise.com/home/" target="_blank">Wise</a>\
-<a href="https://outlook.office.com/mail/" target="_blank">Outlook</a>\
-<a href="https://www.zipgrade.com/" target="_blank">Zipgrade</a>\
+<a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a>\ || <a href="https://www.quora.com/" target="_blank">Quora</a>\
+<a href="https://wise.com/home/" target="_blank">Wise</a>\ || <a href="https://outlook.office.com/mail/" target="_blank">Outlook</a>\ || <a href="https://www.zipgrade.com/" target="_blank">Zipgrade</a>\
 
 \n
 
 UTALCA \
 
-<a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank">UTalca main</a>\
-<a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank">UTalca casinos</a>\
-<a href="http://misequipos.utalca.cl/clientdti/" target="_blank">UTalca mis equipos</a>\
-<a href="https://www.dropbox.com/" target="_blank">Dropbox</a>\
-<a href="http://nube.utalca.cl/" target="_blank">UTalca cloud</a>\
-<a href="https://lms.educandus.cl/course/view.php?id=13084" target="_blank">Psicol. Direcc Escuela</a>\
-<a href="https://lms.educandus.cl/course/view.php?id=18519" target="_blank">Autoinstrucción</a>\
+<a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank">UTalca main</a>\ || <a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank">UTalca casinos</a>\ || <a href="http://misequipos.utalca.cl/clientdti/" target="_blank">UTalca mis equipos</a>\ || <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>\ || <a href="http://nube.utalca.cl/" target="_blank">UTalca cloud</a>\ || <a href="https://lms.educandus.cl/course/view.php?id=13084" target="_blank">Psicol. Direcc Escuela</a>\ || <a href="https://lms.educandus.cl/course/view.php?id=18519" target="_blank">Autoinstrucción</a>\
 
 \n
 
 JLUF \
 
-<a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">JLUF website</a>\
-<a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank">JLUF links</a>\
-<a href="https://scholar.google.com/citations?hl=en&user=jJVWkMUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">JLUF scholar</a>\
+<a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">JLUF website</a>\ || <a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank">JLUF links</a>\ || <a href="https://scholar.google.com/citations?hl=en&user=jJVWkMUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">JLUF scholar</a>\
 
 \n
 
 JLUF bookdowns\
 
-<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a>\
-<a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>\
-<a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF stats 101 Jamovi</a>\
-<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank">JLUF R stats (old 1)</a>\
-<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF R stats (old 2)</a>\
-<a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF R stats</a>\
-<a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF R stats (GitHub)</a>\
+<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a>\ || 
+<a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>\ || <a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF stats 101 Jamovi</a>\
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" || target="_blank">JLUF R stats (old 1)</a>\ || <a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF R stats (old 2)</a>\ || <a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF R stats</a>\ || <a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF R stats (GitHub)</a>\
 
-% END
+\n
+
+JLUF bookdowns\
+
+<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a>\ || 
+<a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>\ || <a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF stats 101 Jamovi</a>\
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" || target="_blank">JLUF R stats (old 1)</a>\ || <a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF R stats (old 2)</a>\ || <a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF R stats</a>\ || <a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF R stats (GitHub)</a>\
+
+\n
+
+YOUTUBE NATURE/NOISE AMBIANCE
+<a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank">Nature</a>\ || <a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank">Cafe music</a>\ || <a href="https://www.youtube.com/@RelaxingWhiteNoise" target="_blank">White noise</a>\
+
+\n
+
+YOUTUBE MUSIC
+<a href="https://www.youtube.com/@fansoftheconchords" target="_blank">Fan of the Conchords</a>\
+
+\n
+
+YOUTUBE CINEMA
+<a href="https://www.youtube.com/@enminutos" target="_blank">En Minutos</a>\
