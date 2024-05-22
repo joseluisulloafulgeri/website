@@ -30,6 +30,7 @@ Pelis\
 1963 The Birds\
 1964 Dr. Strangelove\
 1967 Belle de jour\
+1968 Targets <a href="https://www.youtube.com/watch?v=oiSc3xAXX5g" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/Targets" target="_blank">Wiki</a>\
 1970 Colossus: The Forbin Project\
 1972 Solaris\
 1973 Soylent Green\

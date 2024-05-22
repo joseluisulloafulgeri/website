@@ -13,6 +13,7 @@
 
 <title>Links</title>
 
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -178,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,17 +267,27 @@ $(document).ready(function () {
 
 
 <p>Pelis<br />
-1920 The Cabinet of Dr. Caligari <a href="https://www.youtube.com/watch?v=IAtpxqajFak" target="_blank">Trailer</a><br />
-1929 Un chien andalou <a href="https://www.youtube.com/watch?v=JbBfHy2qNeA" target="_blank">Full movie</a><br />
-1939 Wuthering Heights <a href="https://www.youtube.com/watch?v=XmuMd4FnnYo" target="_blank">Trailer</a><br />
-1940 The Letter <a href="https://www.youtube.com/watch?v=qEWK9c-c12E" target="_blank">Trailer</a><br />
-1941 Invisible Ghost <a href="https://www.youtube.com/watch?v=b8zuKPcdVWE" target="_blank">Full movie</a><br />
-1945 Spellbound <a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a><br />
-1946 Shock <a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full movie</a><br />
+1920 The Cabinet of Dr. Caligari
+<a href="https://www.youtube.com/watch?v=IAtpxqajFak" target="_blank">Trailer</a><br />
+1929 Un chien andalou
+<a href="https://www.youtube.com/watch?v=JbBfHy2qNeA" target="_blank">Full
+movie</a><br />
+1939 Wuthering Heights
+<a href="https://www.youtube.com/watch?v=XmuMd4FnnYo" target="_blank">Trailer</a><br />
+1940 The Letter
+<a href="https://www.youtube.com/watch?v=qEWK9c-c12E" target="_blank">Trailer</a><br />
+1941 Invisible Ghost
+<a href="https://www.youtube.com/watch?v=b8zuKPcdVWE" target="_blank">Full
+movie</a><br />
+1945 Spellbound
+<a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a><br />
+1946 Shock
+<a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full
+movie</a><br />
 1946 Notorious<br />
 1948 Rope<br />
 1948 Drunken Angel<br />
-1951 Europe 51'<br />
+1951 Europe 51’<br />
 1954 Johnny Guitar<br />
 1956 Forbidden Planet<br />
 1956 High Society<br />
@@ -298,15 +302,20 @@ $(document).ready(function () {
 1961 The Innocents #TheTurnOfTheScrew<br />
 1962 What Ever Happened to Baby Jane?<br />
 1963 The Birds<br />
-1964 Dr. Strangelove<br />
+1964 Dr. Strangelove<br />
 1967 Belle de jour<br />
+1968 Targets
+<a href="https://www.youtube.com/watch?v=oiSc3xAXX5g" target="_blank">Trailer</a>
+<a href="https://en.wikipedia.org/wiki/Targets" target="_blank">Wiki</a><br />
 1970 Colossus: The Forbin Project<br />
 1972 Solaris<br />
 1973 Soylent Green<br />
 1976 Quién puede matar a un niño?<br />
 1977 A Special Day<br />
 1977 Eraserhead<br />
-1979 Stalker <a href="https://www.youtube.com/watch?v=Q3hBLv-HLEc" target="_blank">Full movie</a><br />
+1979 Stalker
+<a href="https://www.youtube.com/watch?v=Q3hBLv-HLEc" target="_blank">Full
+movie</a><br />
 1983 Videodrome<br />
 1987 Throw Momma from the Train<br />
 1984 The Woman in Red<br />
@@ -327,7 +336,8 @@ $(document).ready(function () {
 1998 Dark city<br />
 2001 Session 9<br />
 2004 The Woodsman<br />
-2004 Primer <a href="https://www.youtube.com/watch?v=-vD-yj9o664" target="_blank">Trailer</a><br />
+2004 Primer
+<a href="https://www.youtube.com/watch?v=-vD-yj9o664" target="_blank">Trailer</a><br />
 2005 Walk the line<br />
 2006 The live of others<br />
 2008 The Ramen Girl<br />
@@ -338,13 +348,15 @@ $(document).ready(function () {
 2012 The Great Beauty<br />
 2012 Seeking a Friend for the End of the World<br />
 2013 The Place Beyond the Pines<br />
-2013 Upstream Color <a href="https://www.youtube.com/watch?v=SilYsr_3vrA" target="_blank">Trailer</a><br />
+2013 Upstream Color
+<a href="https://www.youtube.com/watch?v=SilYsr_3vrA" target="_blank">Trailer</a><br />
 2014 Cake<br />
 2014 The Wait<br />
 2015 The Martian<br />
 2016 Personal Shopper<br />
 2016 War &amp; Peace<br />
-2016 Swiss Army Man <a href="https://www.youtube.com/watch?v=yrK1f4TsQfM" target="_blank">Trailer</a><br />
+2016 Swiss Army Man
+<a href="https://www.youtube.com/watch?v=yrK1f4TsQfM" target="_blank">Trailer</a><br />
 2017 Tallo Falls<br />
 2017 Veronica<br />
 2017 The shape of water<br />
@@ -355,19 +367,22 @@ $(document).ready(function () {
 2018 Le Lion est mort ce soir<br />
 2018 Burning<br />
 2018 Border<br />
-2018 Black '47<br />
+2018 Black ’47<br />
 2019 Brightburn<br />
 2019 Doctor Sleep 2019 Svart Cirkel<br />
-2019 The Dead Center <a href="https://www.youtube.com/watch?v=DmC25jd1N5Q" target="_blank">Trailer</a><br />
+2019 The Dead Center
+<a href="https://www.youtube.com/watch?v=DmC25jd1N5Q" target="_blank">Trailer</a><br />
 2019 It own life<br />
 2019 Ma<br />
 2019 Finale<br />
 2019 Harpoon<br />
 2019 I See You<br />
-2019 Fractured <a href="https://www.youtube.com/watch?v=S8obCz5NSog" target="_blank">Trailer</a><br />
+2019 Fractured
+<a href="https://www.youtube.com/watch?v=S8obCz5NSog" target="_blank">Trailer</a><br />
 2019 Us<br />
 2019 De repente, el paraíso<br />
-2020 Greenland <a href="https://www.youtube.com/watch?v=RTODtIQQRpA" target="_blank">Trailer</a><br />
+2020 Greenland
+<a href="https://www.youtube.com/watch?v=RTODtIQQRpA" target="_blank">Trailer</a><br />
 2020 Gretel &amp; Hansel<br />
 2020 Synchronic<br />
 2020 The Wild Goose Lake<br />
@@ -380,7 +395,8 @@ $(document).ready(function () {
 2020 His house<br />
 2020 Human nature<br />
 2020 Tengo miedo torero<br />
-2020 Bloody Hell <a href="https://www.youtube.com/watch?v=dnPQ7x8HxA0" target="_blank">Trailer</a><br />
+2020 Bloody Hell
+<a href="https://www.youtube.com/watch?v=dnPQ7x8HxA0" target="_blank">Trailer</a><br />
 2021 Psycho Goreman<br />
 2021 Magnetic Beats<br />
 2021 The Innocents<br />
@@ -404,7 +420,8 @@ $(document).ready(function () {
 2022 Los renglones torcidos de Dios<br />
 2023 Beau Is Afraid<br />
 2023 When Evil Lurks<br />
-% END</p>
+</p>
+<p>% END</p>
 
 
 
