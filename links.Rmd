@@ -10,8 +10,8 @@ Pelis\
 1941 Invisible Ghost <a href="https://www.youtube.com/watch?v=b8zuKPcdVWE" target="_blank">Full movie</a>\
 1945 Spellbound <a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a>\
 1946 Shock <a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full movie</a>\
-1946 Notorious\
-1948 Rope\
+1946 Notorious <a href="https://www.youtube.com/watch?v=7LwPhO2qPcQ" target="_blank">Full movie</a>\
+1948 Rope  <a href="https://www.youtube.com/watch?v=8xkQoH8QbVs" target="_blank">Trailer</a>\
 1948 Drunken Angel\
 1951 Europe 51'\
 1954 Johnny Guitar\
