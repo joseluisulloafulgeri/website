@@ -11,8 +11,8 @@ Pelis\
 1945 Spellbound <a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a>\
 1946 Shock <a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full movie</a>\
 1946 Notorious <a href="https://www.youtube.com/watch?v=7LwPhO2qPcQ" target="_blank">Full movie</a>\
-1948 Rope  <a href="https://www.youtube.com/watch?v=8xkQoH8QbVs" target="_blank">Trailer</a>\
-1948 Drunken Angel\
+1948 Rope <a href="https://www.youtube.com/watch?v=8xkQoH8QbVs" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Rope_%28film%29" target="_blank">Wikipedia</a>\
+1948 Drunken Angel <a href="https://www.youtube.com/watch?v=U7aciSwf43o" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/Drunken_Angel" target="_blank">Wiki</a> <a href="https://www.youtube.com/watch?v=-FYhv39l8jE" target="_blank">Full movie</a>\
 1951 Europe 51'\
 1954 Johnny Guitar\
 1956 Forbidden Planet\
@@ -29,6 +29,7 @@ Pelis\
 1962 What Ever Happened to Baby Jane?\
 1963 The Birds\
 1964 Dr. Strangelove\
+1965 Crónica de un niño solo <a href="https://www.youtube.com/watch?v=VDGUX7zRqGs" target="_blank">Full movie</a>\
 1967 Belle de jour\
 1968 Targets <a href="https://www.youtube.com/watch?v=oiSc3xAXX5g" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/Targets" target="_blank">Wiki</a>\
 1970 Colossus: The Forbin Project\
