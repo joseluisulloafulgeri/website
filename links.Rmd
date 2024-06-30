@@ -59,7 +59,7 @@ Pelis\
 1998 Dark city\
 2001 Session 9\
 2004 The Woodsman\
-2004 Primer <a href="https://www.youtube.com/watch?v=-vD-yj9o664" target="_blank">Trailer</a>\
+2004 Primer <a href="https://www.youtube.com/watch?v=-vD-yj9o664" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Primer_(film)" target="_blank">Wikipedia</a>\
 2005 Walk the line\
 2006 The live of others\
 2008 The Ramen Girl\
@@ -70,8 +70,11 @@ Pelis\
 2012 The Great Beauty\
 2012 Seeking a Friend for the End of the World\
 2013 The Place Beyond the Pines\
+2013 Coherence <a href="https://www.youtube.com/watch?v=kxAOewNzz-8" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Coherence_(film)" target="_blank">Wikipedia</a>\
+2013 Enemy <a href="https://www.youtube.com/watch?v=FJuaAWrgoUY" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Enemy_(2013_film)" target="_blank">Wikipedia</a>\
 2013 Upstream Color <a href="https://www.youtube.com/watch?v=SilYsr_3vrA" target="_blank">Trailer</a>\
 2014 Cake\
+2014 Predestination <a href="https://www.youtube.com/watch?v=xxG-YfedrfU" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Predestination_(film)" target="_blank">Wikipedia</a>\
 2014 The Wait\
 2015 The Martian\
 2015 The Hallow <a href="https://www.youtube.com/watch?v=8fDo3-mluOs" target="_blank">Trailer</a>\
