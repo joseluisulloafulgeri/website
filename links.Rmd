@@ -8,6 +8,7 @@ Pelis\
 1939 Wuthering Heights <a href="https://www.youtube.com/watch?v=XmuMd4FnnYo" target="_blank">Trailer</a>\
 1940 The Letter <a href="https://www.youtube.com/watch?v=qEWK9c-c12E" target="_blank">Trailer</a>\
 1941 Invisible Ghost <a href="https://www.youtube.com/watch?v=b8zuKPcdVWE" target="_blank">Full movie</a>\
+1941 The Little Foxes <a href="https://www.youtube.com/watch?v=d_Lfa4jyTCI" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Little_Foxes_(film)" target="_blank">Wikipedia</a>\
 1945 Spellbound <a href="https://www.youtube.com/watch?v=HIBaGIUbXqI" target="_blank">Trailer</a>\
 1946 Shock <a href="https://www.youtube.com/watch?v=lZuHHzKdovM" target="_blank">Full movie</a>\
 1946 Notorious <a href="https://www.youtube.com/watch?v=7LwPhO2qPcQ" target="_blank">Full movie</a>\
@@ -22,6 +23,7 @@ Pelis\
 1958 Ashes and Diamonds <a href="https://www.youtube.com/watch?v=L6CAOVuO-t0" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Ashes_and_Diamonds_%28film%29" target="_blank">Wikipedia</a>\
 1958 Vertigo <a href="https://www.youtube.com/watch?v=Z5jvQwwHQNY" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Vertigo_(film)" target="_blank">Wikipedia</a>\
 1959 House on Haunted Hill <a href="https://www.youtube.com/watch?v=GZ5paTwRA_k" target="_blank">Full movie</a>\ <a href="https://en.wikipedia.org/wiki/House_on_Haunted_Hill" target="_blank">Wikipedia</a>\
+1959 A Bucket of Blood <a href="https://www.youtube.com/watch?v=hEfzyjJe0iY" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/A_Bucket_of_Blood" target="_blank">Wikipedia</a>\
 1959 Some Like It Hot\
 1961 Battle Of The Worlds\
 1961 Splendor in the Grass\
@@ -40,6 +42,7 @@ Pelis\
 1977 Eraserhead\
 1979 Stalker <a href="https://www.youtube.com/watch?v=Q3hBLv-HLEc" target="_blank">Full movie</a>\
 1980 Somewhere in Time <a href="https://www.youtube.com/watch?v=9uicvPZSKIM" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)" target="_blank">Wikipedia</a>\
+1980 The Shining <a href="https://www.youtube.com/watch?v=S014oGZiSdI" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Shining_(novel)" target="_blank">Novel</a>\
 1983 Videodrome\
 1987 Throw Momma from the Train\
 1984 The Woman in Red\
@@ -87,9 +90,10 @@ Pelis\
 2016 Personal Shopper\
 2016 War & Peace\
 2016 Swiss Army Man <a href="https://www.youtube.com/watch?v=yrK1f4TsQfM" target="_blank">Trailer</a>\
+2017 Downsizing <a href="https://www.youtube.com/watch?v=UCrBICYM0yM" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Downsizing_(film)" target="_blank">Wikipedia</a>\
 2017 Tallo Falls\
 2017 Veronica\
-2017 The shape of water\
+2017 The Shape of Water <a href="https://www.youtube.com/watch?v=XFYWazblaUA" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Shape_of_Water" target="_blank">Wikipedia</a>\
 2017 The killing of a sacred dear\
 2017 A ghost story\
 2018 Hereditary\
@@ -100,6 +104,7 @@ Pelis\
 2018 Black '47\
 2018 The Strangers: Prey at Night <a href="https://www.youtube.com/watch?v=91-Z20uttEk" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Strangers:_Prey_at_Night" target="_blank">Wikipedia</a>\
 2018 He's Out There <a href="https://www.youtube.com/watch?v=Bai2ktAZpM8" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/He%27s_Out_There" target="_blank">Wikipedia</a>\
+2019 Wounds <a href="https://www.youtube.com/watch?v=81uxmIO_lps" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Wounds_(film)" target="_blank">Wikipedia</a>\
 2019 Brightburn\
 2019 Doctor Sleep
 2019 Svart Cirkel\
@@ -135,6 +140,7 @@ Pelis\
 2021 Carajita\
 2021 The Machinery Of Dreams\
 2022 RRR\
+2022 Hatching <a href="https://www.youtube.com/watch?v=VtRNqe78x4o" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Hatching_(film)" target="_blank">Wikipedia</a>\
 2022 20th Century Girl\
 2022 Synopsis of Everything Everywhere All at Once\
 2022 Nope\
@@ -153,7 +159,7 @@ Pelis\
 2023 Music For Black Pigeons\
 2022 Los renglones torcidos de Dios\
 2023 Beau Is Afraid\
-2023 When Evil Lurks\
+2023 Cuando el mal acecha\
 2023 Il sol dell'avvenire <a href="https://www.youtube.com/watch?v=2wG9YADIH3c" target="_blank">Trailer</a>\
 2023 Fallen Leaves <a href="https://www.youtube.com/watch?v=a7n8IXlIcS4" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Fallen_Leaves_(film)" target="_blank">Wikipedia</a>\
 2023 The Zone of Interest <a href="https://www.youtube.com/watch?v=r-vfg3KkV54" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Zone_of_Interest_%28film%29" target="_blank">Wikipedia</a>\
