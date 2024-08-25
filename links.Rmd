@@ -37,6 +37,7 @@ Pelis\
 1970 Colossus: The Forbin Project\
 1972 Solaris\
 1973 Soylent Green\
+1974 Nos Habíamos Amado Tanto <a href="https://www.youtube.com/watch?v=L5E8xkpQsMs" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/We_All_Loved_Each_Other_So_Much" target="_blank">Wikipedia</a>
 1976 Quién puede matar a un niño?\
 1977 A Special Day\
 1977 Eraserhead\
@@ -117,6 +118,8 @@ Pelis\
 2019 Fractured  <a href="https://www.youtube.com/watch?v=S8obCz5NSog" target="_blank">Trailer</a>\
 2019 Us\
 2019 De repente, el paraíso\
+2019 First Cow <a href="https://www.youtube.com/watch?v=SRUWVT87mt8" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/First_Cow" target="_blank">Wikipedia</a>
+2019 A Night of Horror: Nightmare Radio <a href="https://www.youtube.com/watch?v=9RMTYzdMiaU" target="_blank">Trailer</a> <a href="https://www.theguardian.com/film/2023/apr/26/nightmare-radio-the-night-stalker-review-dj-scares-up-grab-bag-of-horror-stories" target="_blank">The Guardian review</a>
 2020 Greenland <a href="https://www.youtube.com/watch?v=RTODtIQQRpA" target="_blank">Trailer</a>\
 2020 Gretel & Hansel\
 2020 Synchronic\
