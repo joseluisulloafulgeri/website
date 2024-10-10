@@ -9,3 +9,7 @@ Algunos de mis cursos de pueden encontar aquí:
 <a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">Curso de Estadística con Jamovi</a>
 
 <a href="https://doctoradoenpsicologiautal.github.io/estadistica//" target="_blank">Curso de Estadística con R</a>
+
+Algunas tareas que aplico en mis experimentos:
+
+<a href="https://efhgseqwcc.cognition.run" target="_blank">Tarea de imitación-inhibición</a>
