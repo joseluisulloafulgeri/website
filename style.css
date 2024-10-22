@@ -1,5 +1,34 @@
+/* Image styling */
 img {
   width: 400px;
   display: block;
   margin: 0 auto;
+}
+
+/* Global font size for the body */
+body {
+    font-size: 17px;  /* Adjust this value to change global font size */
+}
+
+/* Specific font size for headers */
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+/* Font size for the navbar links */
+.navbar-nav > li > a {
+    font-size: 17px;
+}
+
+/* Font size for the content in paragraphs */
+p {
+    font-size: 17px;
 }
