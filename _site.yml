@@ -3,12 +3,10 @@ output_dir: "."
 navbar:
   title: "JLUF"
   left:
-    - text: "Home"
+    - text: "Investigación"
       href: index.html
-    - text: "Teaching"
+    - text: "Docencia"
       href: teaching.html
-    - text: "Research"
-      href: research.html      
       
 output:
   html_document:
