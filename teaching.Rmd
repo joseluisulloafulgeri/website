@@ -9,3 +9,7 @@ Algunos de mis cursos de pueden encontar aquí:
 <a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">Curso de Estadística con Jamovi</a>
 
 <a href="https://doctoradoenpsicologiautal.github.io/estadistica//" target="_blank">Curso de Estadística con R</a>
+
+También mentoreo estudiantes de tesis en pregrado y postgrado. Mi guía para el trabajo académico lo puedes encontrar aquí:
+
+<a href="https://joseluisulloafulgeri.github.io/academia/" target="_blank">Academia</a>
