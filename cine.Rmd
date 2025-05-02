@@ -1,8 +1,6 @@
 ---
-title: "Links"
+title: "Cine"
 ---
-
-Pelis\
 
 **1895 L'arrivée d'un train**
 [Auguste & Louis Lumière](https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re){target="_blank"}
@@ -126,6 +124,11 @@ Pelis\
 [Jack Arnold](https://en.wikipedia.org/wiki/Jack_Arnold){target="_blank"}
 [Trailer](https://www.youtube.com/watch?v=VnDfrveCADo){target="_blank"}
 [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Shrinking_Man){target="_blank"}
+
+**1957 12 Angry Men**
+[Sidney Lumet](https://en.wikipedia.org/wiki/Sidney_Lumet){target="_blank"}
+[Trailer](https://www.youtube.com/watch?v=TEN-2uTi2c0){target="_blank"}
+[Wikipedia](https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)){target="_blank"}
 
 **1958 The Blob**
 [Irvin S. Yeaworth Jr.](https://en.wikipedia.org/wiki/Irvin_S._Yeaworth_Jr.){target="_blank"}
@@ -272,6 +275,11 @@ Pelis\
 
 1974 Lacombe, Lucien | Louis Malle <a href="https://www.youtube.com/watch?v=J7ZHtmyt4BY" target="_blank">Trailer</a> <a href="https://en.wikipedia.org/wiki/Lacombe,_Lucien" target="_blank">Wikipedia</a>\
 
+**1975 Dog Day Afternoon**
+[Sidney Lumet](https://en.wikipedia.org/wiki/Sidney_Lumet){target="_blank"}
+[Trailer](https://www.youtube.com/watch?v=Ne6KMHLTvik){target="_blank"}
+[Wikipedia](https://en.wikipedia.org/wiki/Dog_Day_Afternoon){target="_blank"}
+
 1975 Diálogos de exiliados | Raúl Ruiz <a href="https://www.youtube.com/watch?v=luGPPNGYn1M  " target="_blank">Trailer</a> <a href="https://es.wikipedia.org/wiki/Di%C3%A1logos_de_exiliados" target="_blank">Wikipedia</a>\
 
 1976 Quién puede matar a un niño? <a href="https://www.youtube.com/watch?v=mIVvKbMbXXs" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Who_Can_Kill_a_Child%3F" target="_blank">Wikipedia</a>\
@@ -291,6 +299,11 @@ Pelis\
 1980 The Shining <a href="https://www.youtube.com/watch?v=S014oGZiSdI" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/The_Shining_(novel)" target="_blank">Novel</a>\ <a href="https://en.wikipedia.org/wiki/The_Shining_(film)" target="_blank">Wikipedia</a>\
 
 1983 Videodrome <a href="https://www.youtube.com/watch?v=UFHey3utk0I" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Videodrome" target="_blank">Wikipedia</a>\
+
+**1982 The Verdict**
+[Sidney Lumet](https://en.wikipedia.org/wiki/Sidney_Lumet){target="_blank"}
+[Trailer](https://www.youtube.com/watch?v=NF-F4ys3hHE){target="_blank"}
+[Wikipedia](https://en.wikipedia.org/wiki/The_Verdict){target="_blank"}
 
 1983 Scarface <a href="https://www.youtube.com/watch?v=7pQQHnqBa2E" target="_blank">Trailer</a> \ <a href="https://en.wikipedia.org/wiki/Scarface_(1983_film)" target="_blank">Wikipedia</a> \
 
@@ -341,6 +354,14 @@ Pelis\
 1997 Welcome to Sarajevo <a href="https://www.youtube.com/watch?v=IOmm1OD2ArQ" target="_blank">Trailer</a> \ <a href="https://en.wikipedia.org/wiki/Welcome_to_Sarajevo" target="_blank">Wikipedia</a> \
 
 1998 Dark city <a href="https://www.youtube.com/watch?v=gt9HkO-cGGo" target="_blank">Trailer</a>\ <a href="https://en.wikipedia.org/wiki/Dark_City_(1998_film)" target="_blank">Wikipedia</a>\
+
+**1998 Le Dîner de Cons**
+[Francis Veber](https://en.wikipedia.org/wiki/Francis_Veber){target="_blank"}
+[Trailer](https://www.youtube.com/watch?v=4FANGIUNbiA){target="_blank"}
+[Wikipedia](https://en.wikipedia.org/wiki/The_Dinner_Game){target="_blank"}
+[Extract](https://www.youtube.com/watch?v=hdPdyJAIXlc){target="_blank"}
+[Extract](https://www.youtube.com/watch?v=UYYwaFy05-U&list=LL){target="_blank"}
+[Extract](https://www.youtube.com/watch?v=HElyGTXbBUg){target="_blank"}
 
 1999 Magnolia <a href="https://www.youtube.com/watch?v=KnamcFv_N9Q" target="_blank">Trailer</a> \ <a href="https://en.wikipedia.org/wiki/Magnolia_(film)" target="_blank">Wikipedia</a> \
 
