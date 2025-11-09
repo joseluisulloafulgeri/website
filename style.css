@@ -12,7 +12,7 @@ body {
 
 /* Specific font size for headers */
 h1 {
-    font-size: 32px;
+    font-size: 28px;
 }
 
 h2 {
@@ -31,4 +31,8 @@ h3 {
 /* Font size for the content in paragraphs */
 p {
     font-size: 17px;
+}
+
+a {
+  text-decoration: none;
 }

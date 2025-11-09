@@ -2,14 +2,16 @@ name: "personal-website"
 output_dir: "."
 navbar:
   title: "JLUF"
+  bg: dark
   left:
     - text: "Investigación"
       href: index.html
     - text: "Docencia"
       href: teaching.html
-      
+
 output:
   html_document:
     theme:
-      bootswatch: superhero
+      version: 5
+      bootswatch: cyborg
     css: style.css
