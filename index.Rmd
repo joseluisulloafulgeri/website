@@ -6,7 +6,7 @@ title: "José Luis Ulloa Fulgeri"
 
 <span style="color:red">**Mi motivación?**</span> Me interesa entender las bases psicológicas y biológicas de la experiencia emocional, la cognición social y la cognición motora. 
 
-<span style="color:red">**Cómo lo hecho?**</span> Estudié bioquímica (U. de Chile) y luego neurociencias cognitivas (ENS; Paris 6). Me especialicé en psicología experimental y neurociencia cognitiva. Actualmente soy profesor asistente en la Facultad de Psicología de la Universidad de Talca.
+<span style="color:red">**Cómo lo he hecho?**</span> Estudié bioquímica (U. de Chile) y luego neurociencias cognitivas (ENS; Paris 6). Me especialicé en psicología experimental y neurociencia cognitiva. Actualmente soy profesor asistente en la Facultad de Psicología de la Universidad de Talca.
 
 Mis focos de investigación:
 
@@ -51,7 +51,7 @@ Mis focos de investigación:
     
    * ¿Hay alguna relación entre el estrés, la regulación emocional y las habilidades de distinción yo/otro? <a href="https://doi.org/10.1002/smi.70099" target="_blank">(REF)</a>.  
    
-   * ¿Puede la publicidad afectar la percepción de peso y de autoestima de mujeres chilenas? <a href="10.56754/2810-6598.2025.0041" target="_blank">(REF)</a>.
+   * ¿Puede la publicidad afectar la imagen corporal y la autoestima de mujeres chilenas? <a href="https://doi.org/10.56754/2810-6598.2025.0041" target="_blank">(REF)</a>.
    
 * `r knitr::asis_output("\U0001F92F")` <span style="color:green">**Otros**</span>
 

@@ -13,7 +13,7 @@ PASADO
     * <strong>Relación entre la Imitación Automática y la Empatía en estudiantes universitarios de Talca</strong><br>
     <em>Tesis Psicología 2019</em><br>
     <em>Daniela Meza & Camila Robles</em><br>
-    <em>La tarea se puede ver <a href="https://efhgseqwcc.cognition.run/" target="_blank">aquí</a>.</em><br>
+    La tarea se puede ver <a href="https://efhgseqwcc.cognition.run/" target="_blank">aquí</a>.
     </p>
 
 * `r knitr::asis_output("\U0001F3B5")` <span style="color:green">**¿Afectan las características físicas del sonido su percepción emocional?**</span>
@@ -67,7 +67,8 @@ PASADO
 * `r knitr::asis_output("\U0001F4FA")` <span style="color:green">**¿Puede la publicidad afectar nuestra percepción?**</span>
     * <strong>Impacto de la publicidad en la imagen corporal y autoestima de las mujeres chilenas</strong><br>
     <em>Tesis Psicología 2023</em><br>
-    Raquel Corales & Millaray Correa
+    <em>Raquel Corales & Millaray Correa</em><br>
+    Publicada <a href="https://doi.org/10.56754/2810-6598.2025.0041" target="_blank">aquí</a>.
     </p>
 
 FUTURO
@@ -78,9 +79,10 @@ FUTURO
 
 * `r knitr::asis_output("\U00023F3")` <span style="color:green">**¿Es lo mismo estimar el tiempo vacío que estimar el tiempo lleno? (con Martín)**</span>
 
-* `r knitr::asis_output("\U0001F916")` <span style="color:green">**¿Qué aspectos de un diálogo (vía chat) nos indican que estamos hablando con una persona real y no con un bot? (con Sofía & Jorge)**</span>
+* `r knitr::asis_output("\U0001F916")` <span style="color:green">**¿Qué aspectos de un diálogo (vía chat) nos indican que estamos hablando con una persona (y no con un bot)? (con Sofía & Jorge)**</span>
 
 * `r knitr::asis_output("\U0001F937")` <span style="color:green">**¿Cómo se expresa la rabia en el cuerpo? (con Nerea)**</span>
 
-* `r knitr::asis_output("\U0001F9E0")` <span style="color:green">**¿Qué aspectos indviduales de una persona se reflejan en la actividad cerebral en reposo**</span>
+* `r knitr::asis_output("\U0001F9E0")` <span style="color:green">**¿Qué aspectos individuales de una persona se reflejan en la actividad cerebral en reposo?**</span>
 
+* `r knitr::asis_output("\U0001F9E0")` <span style="color:green">**¿Podemos controlar un robot con nuestros pensamientos?**</span>
