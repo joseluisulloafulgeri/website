@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "Investigación"
       href: index.html
+    - text: "Ideas en gestación"
+      href: OtrasIdeas.html
     - text: "Docencia"
       href: teaching.html
 

@@ -1,0 +1,86 @@
+---
+title: "José Luis Ulloa Fulgeri"
+---
+
+## Ideas en gestación, desarrolladas o por desarrollar
+
+En el contexto de tesis de pregrado/postgrado, y bajo el alero de otro proyectos, han surgido otras preguntas:
+
+PASADO
+
+* `r knitr::asis_output("\U0001F9E9")` <span style="color:green">**¿El control de la imitación está relacionado con la empatia?**</span>
+
+    * <strong>Relación entre la Imitación Automática y la Empatía en estudiantes universitarios de Talca</strong><br>
+    <em>Tesis Psicología 2019</em><br>
+    <em>Daniela Meza & Camila Robles</em><br>
+    <em>La tarea se puede ver <a href="https://efhgseqwcc.cognition.run/" target="_blank">aquí</a>.</em><br>
+    </p>
+
+* `r knitr::asis_output("\U0001F3B5")` <span style="color:green">**¿Afectan las características físicas del sonido su percepción emocional?**</span>
+
+    * <strong>Influencia de las tonalidades en las respuestas emocionales de hombres y mujeres</strong><br>
+    <em>Tesis Psicología 2024</em><br>
+    Vicente Eyzaguirre & Jesús Quevedo
+    </p>
+
+* `r knitr::asis_output("\U0001F937")` <span style="color:green">**¿Cómo se expresan las emociones en el cuerpo?**</span>
+    * <strong>Mapeo corporal de las emociones en estudiantes de Psicología</strong><br>
+    <em>Tesis Psicología 2023</em><br>
+    Matías Alarcón & Camila rojas
+    </p>
+
+    * <strong>Del contexto a la corporalidad: la expresión del enojo en distintas situaciones</strong><br>
+    <em>Tesis Psicología 2024</em><br>
+    Javiera Ignacia González Torres & Francisca María Magdalena Molina Pérez
+    </p>
+
+* `r knitr::asis_output("\U0001F469")` <span style="color:green">**¿El género de una persona observada influye en nuestra interpretación de sus emociones?**</span>
+    * <strong>Percepción de caras emocionales: un estudio online</strong><br>
+    <em>Tesis Psicología 2024</em><br>
+    Alejandra Cornejo & Daniela Orellana
+    </p>
+
+* `r knitr::asis_output("\U0001F630")` <span style="color:green">**¿La vivencia de un evento triste se queda más en la memoria que un evento alegre?**</span>
+    * <strong>Emociones y memoria autobiográfica: ¿La tristeza potencia los recuerdos?</strong><br>
+    <em>Tesis Psicología 2025</em><br>
+    Constanza Astudillo & Valentina Quezada
+    </p>
+
+* `r knitr::asis_output("\U00026C8")` <span style="color:green">**¿Cómo combinamos nuestras suposiciones iniciales con nueva evidencia para tomar decisiones?**</span>
+    * <strong>El impacto del sesgo cognitivo en el rendimiento académico</strong><br>
+    <em>Tesis Psicología 2024</em><br>
+    José Palma & Katherine Navarro
+    </p>
+    
+* `r knitr::asis_output("\U00023F3")` <span style="color:green">**¿Qué factores afectan nuestra percepción del tiempo?**</span>
+    * <strong>Influencia de la ansiedad en la percepción temporal</strong><br>
+    <em>Tesis Psicología 2025</em><br>
+    Luis Cubillos & Cristóbal Vallejos
+    </p>
+    
+* `r knitr::asis_output("\U0001F4FD")` <span style="color:green">**¿Qué impacto tiene asistir a un taller de cine?**</span>
+    * <strong>El efecto del cine en la mente de los adolescentes</strong><br>
+    <em>Tesis Psicología 2025</em><br>
+    Martín Castro & Martín Palacios
+    </p>
+
+* `r knitr::asis_output("\U0001F4FA")` <span style="color:green">**¿Puede la publicidad afectar nuestra percepción?**</span>
+    * <strong>Impacto de la publicidad en la imagen corporal y autoestima de las mujeres chilenas</strong><br>
+    <em>Tesis Psicología 2023</em><br>
+    Raquel Corales & Millaray Correa
+    </p>
+
+FUTURO
+
+* `r knitr::asis_output("\U0001F4FD")` <span style="color:green">**Cuando vemos películas, ¿los movimientos de los ojos se apegan a las reglas de los tercios? (con Marco)**</span>
+
+* `r knitr::asis_output("\U0001F4FD")` <span style="color:green">**¿Cuál es el impacto emocional de distintos tipos de planos? (con Marco)**</span>
+
+* `r knitr::asis_output("\U00023F3")` <span style="color:green">**¿Es lo mismo estimar el tiempo vacío que estimar el tiempo lleno? (con Martín)**</span>
+
+* `r knitr::asis_output("\U0001F916")` <span style="color:green">**¿Qué aspectos de un diálogo (vía chat) nos indican que estamos hablando con una persona real y no con un bot? (con Sofía & Jorge)**</span>
+
+* `r knitr::asis_output("\U0001F937")` <span style="color:green">**¿Cómo se expresa la rabia en el cuerpo? (con Nerea)**</span>
+
+* `r knitr::asis_output("\U0001F9E0")` <span style="color:green">**¿Qué aspectos indviduales de una persona se reflejan en la actividad cerebral en reposo**</span>
+
