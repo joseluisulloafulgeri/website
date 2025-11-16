@@ -4,62 +4,61 @@ title: "José Luis Ulloa Fulgeri"
 
 ## Sobre mi investigación
 
-<span style="color:red">**Mi motivación?**</span> Me interesa entender las bases psicológicas y biológicas de la experiencia emocional, la cognición social y la cognición motora. 
+[**Mi motivación?**]{style="color:red"} Me interesa comprender las bases psicológicas y biológicas de la experiencia emocional, la cognición social y la cognición motora.
 
-<span style="color:red">**Cómo lo he hecho?**</span> Estudié bioquímica (U. de Chile) y luego neurociencias cognitivas (ENS; Paris 6). Me especialicé en psicología experimental y neurociencia cognitiva. Actualmente soy profesor asistente en la Facultad de Psicología de la Universidad de Talca.
+[**Cómo lo he hecho?**]{style="color:red"} Estudié bioquímica (U. de Chile) y luego neurociencias cognitivas (ENS; Paris 6). Me especialicé en psicología experimental y neurociencia cognitiva. Actualmente soy profesor asistente en la Facultad de Psicología de la Universidad de Talca.
 
 Mis focos de investigación:
 
-* `r knitr::asis_output("\U0001F9E9")` <span style="color:green">**El control de la imitación**</span>
+-   `r knitr::asis_output("\U0001F9E9")` [**El control de la imitación**]{style="color:green"}
 
-    * ¿Podrían las habilidades para controlar la imitación predecir experiencias psicóticas? <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1470030/full" target="_blank">(REF)</a>.
+    -   ¿Podrían las habilidades para controlar la imitación predecir experiencias psicóticas? <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1470030/full" target="_blank">(REF)</a>.
 
-    * ¿Podemos mejorar habilidades socio-emocionales si entrenamos el control imitativo?  (<a href="https://doi.org/10.1037/emo0001442" target="_blank">REF)</a>.
-    
-    * ¿Podríamos usar las habilidades de control imitativo para predecir rasgos autistas? <a href="https://doi.org/10.1016/j.actpsy.2023.104056" target="_blank">(REF)</a>. 
-    
-* `r knitr::asis_output("\U0001F63E")` <span style="color:green">**Cognición social, emociones y agencia**</span>    
+    -   ¿Podemos mejorar habilidades socio-emocionales si entrenamos el control imitativo? (<a href="https://doi.org/10.1037/emo0001442" target="_blank">REF)</a>.
 
-    * ¿Cómo afecta mi percepción de objetos el hecho de que alguien más los mire? 
-<a href="https://doi.org/10.1080/02699931.2014.919899" target="_blank">(REF)</a>.
+    -   ¿Podríamos usar las habilidades de control imitativo para predecir rasgos autistas? <a href="https://doi.org/10.1016/j.actpsy.2023.104056" target="_blank">(REF)</a>.
 
-   * ¿Puede el contacto por la mirada afectar el sentido de agencia? <a href="https://doi.org/10.1016/j.concog.2019.102794" target="_blank">(REF).</a> 
-   
-    * ¿Cómo la sincronización de ritmos cognitivos y fisiológicos dentro de una audiencia afecta la experiencia estética de los espectadores? <a href="https://doi.org/10.3389/fnhum.2015.00179" target="_blank">(REF)</a>.
-    
-    * ¿Cuál es el rol de las interacciones sociales en la creación de mundos imaginarios como los Fanfic? <a href="https://doi.org/10.1017/S0140525X21002235" target="_blank">(REF)</a>.
+-   `r knitr::asis_output("\U0001F63E")` [**Cognición social, emociones y agencia**]{style="color:green"}
 
-* `r knitr::asis_output("\U0001F9E0")` <span style="color:green">**Dinámica cerebral**</span>
+    -   ¿Cómo afecta mi percepción de objetos el hecho de que alguien más los mire? <a href="https://doi.org/10.1080/02699931.2014.919899" target="_blank">(REF)</a>.
 
-    * ¿Cómo los ritmos rápidos del cerebro contribuyen al control motor? <a href="https://doi.org/10.3389/fnhum.2021.787157" target="_blank">(REF).</a>
+    -   ¿Puede el contacto por la mirada afectar el sentido de agencia? <a href="https://doi.org/10.1016/j.concog.2019.102794" target="_blank">(REF).</a>
 
-    * ¿Qué ritmos cerebrales subyancen al sentido de agencia? <a href="https://doi.org/10.1016/j.bandc.2025.106362" target="_blank">(REF)</a>.
+    -   ¿Cómo la sincronización de ritmos cognitivos y fisiológicos dentro de una audiencia afecta la experiencia estética de los espectadores? <a href="https://doi.org/10.3389/fnhum.2015.00179" target="_blank">(REF)</a>.
 
-    * ¿Cómo la fluidez de una acción afecta la agencia? ¿Y cuáles son sus correlates neuronales? <a href="https://doi.org/10.1016/j.cortex.2020.01.013" target="_blank">REF)</a>.
+    -   ¿Cuál es el rol de las interacciones sociales en la creación de mundos imaginarios como los Fanfic? <a href="https://doi.org/10.1017/S0140525X21002235" target="_blank">(REF)</a>.
 
-    * ¿En qué momento del procesamiento visual se codifica la información atencional asociada con la mirada? <a href="https://doi.org/10.1016/j.neuropsychologia.2017.12.029" target="_blank">(REF)</a>.
-    
-    * ¿Cómo se combina en el cerebro la información atencional y emocional de una escena social? <a href="https://doi.org/10.1093/scan/nss141" target="_blank">(REF)</a>.
-    
-* `r knitr::asis_output("\U0001F426")` <span style="color:green">**Psicopatología a varios niveles**</span>
+-   `r knitr::asis_output("\U0001F9E0")` [**Dinámica cerebral**]{style="color:green"}
 
-    * ¿Puede la sertralina (un inhibidor de la recaptación de serotonina) revertir cambios conductuales y moleculares inducidos por estrés crónico en un modelo animal de depresión? <a href="https://doi.org/10.1097/FBP.0b013e32832c70d9" target="_blank">(REF)</a>.
-    
-    * ¿Puede la sertralina revertir cambios conductuales inducidos por estrés o por corticosterona en ratas? <a href="https://doi.org/10.1016/j.pbb.2010.08.001" target="_blank">(REF)</a>.
-    
-    * ¿Hay alguna relación entre la ideación suicida y la labilidad afectiva en pacientes con trastorno depresivo mayor? <a href="https://doi.org/10.1016/j.jad.2020.04.004" target="_blank">(REF)</a>.
-    
-   * ¿Hay alguna relación entre el estrés, la regulación emocional y las habilidades de distinción yo/otro? <a href="https://doi.org/10.1002/smi.70099" target="_blank">(REF)</a>.  
-   
-   * ¿Puede la publicidad afectar la imagen corporal y la autoestima de mujeres chilenas? <a href="https://doi.org/10.56754/2810-6598.2025.0041" target="_blank">(REF)</a>.
-   
-* `r knitr::asis_output("\U0001F92F")` <span style="color:green">**Otros**</span>
+    -   ¿Cómo los ritmos rápidos del cerebro contribuyen al control motor? <a href="https://doi.org/10.3389/fnhum.2021.787157" target="_blank">(REF).</a>
 
-    * ¿Cómo afectan las pequeñas decisiones (como tratar valores atípicos) los resultados de un análisis de datos? <a href="https://doi.org/10.1037/met0000770" target="_blank">(REF)</a>.   
-   
-    * ¿Cómo podemos hacer reuniones científicas más amigables con el medio ambiente? <a href="https://doi.org/10.1371/journal.
-pstr.0000177" target="_blank">(REF)</a>.     
+    -   ¿Qué ritmos cerebrales subyancen al sentido de agencia? <a href="https://doi.org/10.1016/j.bandc.2025.106362" target="_blank">(REF)</a>.
 
-    * ¿Puede reproducirse el priming semántico en diferentes idiomas? <a href="https://doi.org/10.1038/s41562-025-02254-x" target="_blank">(REF)</a>.
-    
+    -   ¿Cómo la fluidez de una acción afecta la agencia? ¿Y cuáles son sus correlates neuronales? <a href="https://doi.org/10.1016/j.cortex.2020.01.013" target="_blank">REF)</a>.
+
+    -   ¿En qué momento del procesamiento visual se codifica la información atencional asociada con la mirada? <a href="https://doi.org/10.1016/j.neuropsychologia.2017.12.029" target="_blank">(REF)</a>.
+
+    -   ¿Cómo se combina en el cerebro la información atencional y emocional de una escena social? <a href="https://doi.org/10.1093/scan/nss141" target="_blank">(REF)</a>.
+
+-   `r knitr::asis_output("\U0001F426")` [**Psicopatología a varios niveles**]{style="color:green"}
+
+    -   ¿Puede la sertralina (un inhibidor de la recaptación de serotonina) revertir cambios conductuales y moleculares inducidos por estrés crónico en un modelo animal de depresión? <a href="https://doi.org/10.1097/FBP.0b013e32832c70d9" target="_blank">(REF)</a>.
+
+    -   ¿Puede la sertralina revertir cambios conductuales inducidos por estrés o por corticosterona en ratas? <a href="https://doi.org/10.1016/j.pbb.2010.08.001" target="_blank">(REF)</a>.
+
+    -   ¿Hay alguna relación entre la ideación suicida y la labilidad afectiva en pacientes con trastorno depresivo mayor? <a href="https://doi.org/10.1016/j.jad.2020.04.004" target="_blank">(REF)</a>.
+
+    -   ¿Hay alguna relación entre el estrés, la regulación emocional y las habilidades de distinción yo/otro? <a href="https://doi.org/10.1002/smi.70099" target="_blank">(REF)</a>.
+
+    -   ¿Puede la publicidad afectar la imagen corporal y la autoestima de mujeres chilenas? <a href="https://doi.org/10.56754/2810-6598.2025.0041" target="_blank">(REF)</a>.
+
+-   `r knitr::asis_output("\U0001F92F")` [**Otros**]{style="color:green"}
+
+    -   ¿Cómo afectan las pequeñas decisiones (como tratar valores atípicos) los resultados de un análisis de datos? <a href="https://doi.org/10.1037/met0000770" target="_blank">(REF)</a>.
+
+    -   ¿Cómo podemos hacer reuniones científicas más amigables con el medio ambiente? <a href="https://doi.org/10.1371/journal.
+        pstr.0000177" target="_blank">(REF)</a>.
+
+    -   ¿Puede reproducirse el priming semántico en diferentes idiomas? <a href="https://doi.org/10.1038/s41562-025-02254-x" target="_blank">(REF)</a>.
+
 Mis pasatiempos incluyen la estadística, la ficción, los juegos de mesa y caminar.
