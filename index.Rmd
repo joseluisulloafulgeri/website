@@ -4,11 +4,17 @@ title: "José Luis Ulloa Fulgeri"
 
 ## Sobre mi investigación
 
-[**Mi motivación?**]{style="color:red"} Me interesa comprender las bases psicológicas y biológicas de la experiencia emocional, la cognición social y la cognición motora.
+Soy profesor asistente en la Facultad de Psicología de la Universidad de Talca y soy investigador principal dentro del Centro de Investigación en Ciencias Cognitivas (CICC) de la misma unidad.
 
-[**Cómo lo he hecho?**]{style="color:red"} Estudié bioquímica (U. de Chile) y luego neurociencias cognitivas (ENS; Paris 6). Me especialicé en psicología experimental y neurociencia cognitiva. Actualmente soy profesor asistente en la Facultad de Psicología de la Universidad de Talca.
+Estudié Bioquímica (U. de Chile) y luego Neurociencias Cognitivas (Master en Ciencias Cognitivas [ENS, Paris 5]; Doctorado en Neurociencias [Paris 6]) en París. Allí me especialicé en psicología experimental y neurociencia cognitiva bajo la dirección de Nathalie George.
 
-Mis focos de investigación:
+Luego del doctorado he desarrollado proyectos de investigación en Francia (Paris 8), Bélgica (Ghent University) y Reino Unido (Birmingham). Soy miembro de la Sociedad Científica de Psicología y de la Sociedad Chilena de Neurociencia.
+
+Actualmente soy investigador principal (PI) del Fondecyt regular NºXXX, “Unpacking the inhibitory basis of impulsive decision-making” y anteriormente fui PI de un Fondecyt de iniciación N° 11190673, "Overthrowing clinical psychosis before its onset: Detection of sensorimotor abnormalities in healthy young people with psychotic-like experiences".
+
+Mis áreas de interés son: la electrofisiología cognitiva, el control motor, las emociones, la cognición social, la psicosis, la toma de decisiones, entre otros.
+
+Algunos de los proyectos en que he estado involucrado han tratado de responder:
 
 -   `r knitr::asis_output("\U0001F9E9")` [**El control de la imitación**]{style="color:green"}
 
