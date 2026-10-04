@@ -53,7 +53,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 1 MAIN
+### MAIN
 
 - <a href="https://mail.google.com/mail" target="_blank">Gmail</a>
 - <a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a>
@@ -66,7 +66,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 2 STUFF
+### STUFF
 
 - <a href="https://drive.google.com/drive/folders/1owkzaSoHAjgLgaXROzSrVvVIN--9YPZe" target="_blank">Cogn Modeling </a>
 - <a href="https://drive.google.com/drive/folders/1GaUJfFHPsRoCtKcH4LW0R6Vz0HoC0Xo8" target="_blank">Machine learning </a>
@@ -78,7 +78,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 3 PSYMO
+### PSYMO
 
 - <a href="https://drive.google.com/drive/folders/1SBC6yVQgah3iiCfDSFaDaumb86Nl80Xt" target="_blank">PSYMO online </a>
 - <a href="https://docs.google.com/spreadsheets/d/1Bvz2EHB6UMHNJjGD5QNnEqQ6_LcPaJRiGeJRj9FEgLw/edit#gid=582252154" target="_blank">PSYMO list subj </a>
@@ -91,7 +91,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 4 UTILITIES
+### UTILITIES
 
 - <a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a>
 - <a href="https://www.quora.com/" target="_blank">Quora</a>
@@ -105,7 +105,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 1 UTALCA
+### UTALCA
 
 - <a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank">UTalca main</a>
 - <a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank">UTalca casinos</a>
@@ -119,7 +119,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 2 JLUF
+### JLUF
 
 <a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">JLUF website</a>
 <a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank">JLUF links</a>
@@ -129,7 +129,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 3 JLUF bookdowns
+### JLUF bookdowns
 
 - <a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a> 
 - <a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>
@@ -143,7 +143,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 4 JLUF bookdowns
+### JLUF bookdowns
 
 - <a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF R repo</a>
 - <a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF stats for good</a>
@@ -157,7 +157,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 1 SOUNDS
+### SOUNDS
 
 - <a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank">Nature</a>
 - <a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank">Cafe music</a>
@@ -167,7 +167,7 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 2 MUSIC
+### MUSIC
 
 - <a href="https://www.youtube.com/@fansoftheconchords" target="_blank">Fan of the Conchords</a>
 - <a href="https://www.youtube.com/playlist?list=PLFB2A700B1A28B590" target="_blank">Pomplamoose Covers</a>
@@ -177,8 +177,16 @@ title: "Toolkit"
 
 <div class="toolkit-box">
 
-### 3 CINEMA
+### CINEMA
 
 - <a href="https://www.youtube.com/@enminutos" target="_blank">En Minutos</a>
+
+</div>
+
+<div class="toolkit-box">
+
+### INSTAGRAM
+
+- <a href="https://www.instagram.com/theblackbarsofficial/" target="_blank">the blackbars official</a>
 
 </div>
