@@ -261,220 +261,2286 @@ $(document).ready(function () {
 
 
 <style>
-
 .toolkit-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   column-gap: 40px;
   row-gap: 30px;
   width: 100%;
 }
 
-.toolkit-box {
-  min-width: 0;
-}
-
-.toolkit-box h3 {
-  margin-top: 0;
-  margin-bottom: 12px;
-  font-size: 20px;
-}
-
-.toolkit-box ul {
-  margin-top: 0;
-  padding-left: 20px;
-}
-
-.toolkit-box li {
-  margin-bottom: 7px;
-}
-
-.toolkit-box a {
-  overflow-wrap: anywhere;
-}
+.toolkit-box { min-width: 0; }
+.toolkit-box h3 { margin-top: 0; margin-bottom: 12px; font-size: 20px; }
+.toolkit-box ul { margin-top: 0; padding-left: 20px; }
+.toolkit-box li { margin-bottom: 7px; }
+.toolkit-box a { overflow-wrap: anywhere; }
 
 @media (max-width: 1100px) {
-  .toolkit-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
+  .toolkit-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
-
 @media (max-width: 800px) {
-  .toolkit-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
+  .toolkit-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
-
+@media (max-width: 500px) {
+  .toolkit-grid { grid-template-columns: minmax(0, 1fr); }
+}
 </style>
 <div class="toolkit-grid">
-
-<div id="main" class="section level3 toolkit-box">
-<h3>MAIN</h3>
+<div class="toolkit-box">
+<h3>
+START
+</h3>
 <ul>
-<li><a href="obsidian://open">Obsidian</a></li>
-<li><a href="https://mail.google.com/mail" target="_blank">Gmail</a></li>
-<li><a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a></li>
-<li><a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a><br />
+<li>
+<a href="obsidian://open">Obsidian</a>
 </li>
-<li><a href="https://www.evernote.com/client/web?login=true" target="_blank">Evernote</a></li>
-<li><a href="https://dictation.io/speech" target="_blank">Dictation</a></li>
-<li><a href="https://translate.google.com/?sl=en&tl=es&op=translate" target="_blank">Translate</a></li>
-<li>My Zoom: <a href="https://reuna.zoom.us/j/99816229969"
-class="uri">https://reuna.zoom.us/j/99816229969</a><br />
+<li>
+<a href="https://calendar.google.com/calendar/u/0/r" target="_blank" rel="noopener noreferrer" >Calendar</a>
+</li>
+<li>
+<a href="https://dictation.io/speech" target="_blank" rel="noopener noreferrer">Dictation</a>
 </li>
 </ul>
 </div>
-<div id="stuff" class="section level3 toolkit-box">
-<h3>STUFF</h3>
+<div class="toolkit-box">
+<h3>
+MAIN
+</h3>
 <ul>
-<li><a href="https://drive.google.com/drive/folders/1owkzaSoHAjgLgaXROzSrVvVIN--9YPZe" target="_blank">Cogn
-Modeling </a></li>
-<li><a href="https://drive.google.com/drive/folders/1GaUJfFHPsRoCtKcH4LW0R6Vz0HoC0Xo8" target="_blank">Machine
-learning </a></li>
-<li><a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank">Camouflaging
-</a></li>
-<li><a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank">Decision
-making and MEG </a></li>
-<li><a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank">Collab
-St Tomas </a></li>
+<li>
+<a href="https://mail.google.com/mail" target="_blank" rel="noopener noreferrer">Gmail</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/my-drive" target="_blank" rel="noopener noreferrer">Drive</a>
+</li>
+<li>
+<a href="https://www.evernote.com/client/web?login=true" target="_blank" rel="noopener noreferrer">Evernote</a>
+</li>
+<li>
+<a href="https://translate.google.com/?sl=en&amp;tl=es&amp;op=translate" target="_blank" rel="noopener noreferrer">Translate</a>
+</li>
+<li>
+<a href="https://reuna.zoom.us/j/99816229969" target="_blank" rel="noopener noreferrer" title="My Zoom">My
+Zoom</a>
+</li>
 </ul>
 </div>
-<div id="psymo" class="section level3 toolkit-box">
-<h3>PSYMO</h3>
+<div class="toolkit-box">
+<h3>
+IN STUDY NOW
+</h3>
 <ul>
-<li><a href="https://drive.google.com/drive/folders/1SBC6yVQgah3iiCfDSFaDaumb86Nl80Xt" target="_blank">PSYMO
-online </a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1Bvz2EHB6UMHNJjGD5QNnEqQ6_LcPaJRiGeJRj9FEgLw/edit#gid=582252154" target="_blank">PSYMO
-list subj </a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/19_4YIiZbrMw1382irE1QHDiM8p-v7EeSJGplI-y2wH4/edit#gid=0" target="_blank">PSYMO
-registros EEG </a></li>
-<li><a href="https://docs.google.com/forms/d/1Bs1mLXNbhQa8c8PnN1E-ILK6uhykPTlte71Yr3BBJ9Y/edit?ts=62fd0ce6" target="_blank">Estudio
-Psiquis - EEG </a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1A12vSa3O1UKPY6MNpiyjOFj32lPjLdbB_aDP-9xSFJs/edit#gid=1586062535" target="_blank">Estudio
-Psiquis - EEG (Respuestas) </a></li>
-<li><a href="https://www.nombrerutyfirma.com/" target="_blank">Verificador
-de RUT </a></li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63quuKvMHCt3cmTmt0O2qpv" target="_blank" rel="noopener noreferrer">Economic
+Applications of Game Theory</a>
+</li>
 </ul>
 </div>
-<div id="utilities" class="section level3 toolkit-box">
-<h3>UTILITIES</h3>
+<div class="toolkit-box">
+<h3>
+STUFF
+</h3>
 <ul>
-<li><a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank">BrainModes2022</a></li>
-<li><a href="https://www.quora.com/" target="_blank">Quora</a></li>
-<li><a href="https://wise.com/home/" target="_blank">Wise</a></li>
-<li><a href="https://outlook.office.com/mail/" target="_blank">Outlook</a></li>
-<li><a href="https://www.zipgrade.com/" target="_blank">Zipgrade</a></li>
-<li><a href="https://thebestpdf.com/" target="_blank">TheBestPDF (do
-many things)</a></li>
-<li><a href="https://www.youtube-transcript.io/" target="_blank">Youtube-trasncript
-(transcripts from YouTube)</a></li>
-<li><a href="https://www.opensubtitles.org/en/search/subs" target="_blank">Get
-subtitles</a></li>
-<li><a href="https://downsub.com/" target="_blank">Get
-subtitles</a></li>
-<li><a href="https://my-subs.co/" target="_blank">Get subtitles</a></li>
-<li><a href="https://subtitletools.com/" target="_blank">Subtitle
-tools</a></li>
+<li>
+<a href="https://drive.google.com/drive/folders/1owkzaSoHAjgLgaXROzSrVvVIN--9YPZe" target="_blank" rel="noopener noreferrer" title="Also saved as: Cognitive_modeling (Bookmarks Toolbar / Work / Reference)">Cogn
+Modeling</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1GaUJfFHPsRoCtKcH4LW0R6Vz0HoC0Xo8" target="_blank" rel="noopener noreferrer" title="Also saved as: Machine Learning (Bookmarks Toolbar / Work / Reference)">Machine
+learning</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank" rel="noopener noreferrer">Camouflaging</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank" rel="noopener noreferrer">Decision
+making and MEG</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank" rel="noopener noreferrer">Collab
+St Tomas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1g7wQR9Auuq6NrOka90EyV0NjYKbMhbAj" target="_blank" rel="noopener noreferrer">CognitionRun
+JSFiles</a>
+</li>
 </ul>
 </div>
-<div id="utalca" class="section level3 toolkit-box">
-<h3>UTALCA</h3>
+<div class="toolkit-box">
+<h3>
+PSYMO
+</h3>
 <ul>
-<li><a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank">UTalca
-main</a></li>
-<li><a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank">UTalca
-casinos</a></li>
-<li><a href="http://misequipos.utalca.cl/clientdti/" target="_blank">UTalca
-mis equipos</a></li>
-<li><a href="https://www.dropbox.com/" target="_blank">Dropbox</a></li>
-<li><a href="http://nube.utalca.cl/" target="_blank">UTalca
-cloud</a></li>
-<li><a href="https://lms.educandus.cl/course/view.php?id=13084" target="_blank">Psicol.
-Direcc Escuela</a></li>
-<li><a href="https://lms.educandus.cl/course/view.php?id=18519" target="_blank">Autoinstrucción</a></li>
+<li>
+<a href="https://drive.google.com/drive/folders/1SBC6yVQgah3iiCfDSFaDaumb86Nl80Xt" target="_blank" rel="noopener noreferrer" title="Also saved as: PSYMO online (Bookmarks Toolbar / Work / Reference / PSYMO)">PSYMO
+online</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/1Bvz2EHB6UMHNJjGD5QNnEqQ6_LcPaJRiGeJRj9FEgLw/edit#gid=582252154" target="_blank" rel="noopener noreferrer" title="Also saved as: PSYMO_list_subj (Bookmarks Toolbar / Work / Reference / PSYMO)">PSYMO
+list subj</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/19_4YIiZbrMw1382irE1QHDiM8p-v7EeSJGplI-y2wH4/edit#gid=0" target="_blank" rel="noopener noreferrer" title="Also saved as: PSYMO Registros EEG (Bookmarks Toolbar / Work / Reference / PSYMO)">PSYMO
+registros EEG</a>
+</li>
+<li>
+<a href="https://docs.google.com/forms/d/1Bs1mLXNbhQa8c8PnN1E-ILK6uhykPTlte71Yr3BBJ9Y/edit?ts=62fd0ce6" target="_blank" rel="noopener noreferrer" title="Also saved as: Estudio Psiquis - EEG (Bookmarks Toolbar / Work / Reference / PSYMO)">Estudio
+Psiquis - EEG</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/1A12vSa3O1UKPY6MNpiyjOFj32lPjLdbB_aDP-9xSFJs/edit#gid=1586062535" target="_blank" rel="noopener noreferrer" title="Also saved as: Estudio Psiquis - EEG (Respuestas) (Bookmarks Toolbar / Work / Reference / PSYMO)">Estudio
+Psiquis - EEG (Respuestas)</a>
+</li>
+<li>
+<a href="https://www.nombrerutyfirma.com/" target="_blank" rel="noopener noreferrer" title="Also saved as: Nombre Rut y Firma - Rutificador (Bookmarks Toolbar / Work / Reference / PSYMO)">Verificador
+de RUT</a>
+</li>
+<li>
+<a href="https://fondecyt.conicyt.cl/hc/es" target="_blank" rel="noopener noreferrer">Mi
+Fondecyt</a>
+</li>
+<li>
+<a href="https://mibeca.conicyt.cl/hc/es" target="_blank" rel="noopener noreferrer">Mi
+Conicyt</a>
+</li>
+<li>
+<a href="https://evalcyt.conicyt.cl/declaracion/" target="_blank" rel="noopener noreferrer">Declaración
+de Gastos en Línea</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/1ZMi4GtVfuqJoHx1Fwfc_ACD-YmPZ-OMbJYmyuylFM9Q/edit" target="_blank" rel="noopener noreferrer">Evaluaciones
+neuropsicológicas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1v1lBeSp0w6OQz76XAMf0ziWquhr0ShiU" target="_blank" rel="noopener noreferrer">Fondecyt
+2019 PSYMO</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1X8zODm9j_mvJ4jG69g1WhblElOS5FcsY" target="_blank" rel="noopener noreferrer">Fondecyt
+2019 PSYMO extra</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1pCUWqL2ueH7xFca8JTPCcveraI7aTOKh" target="_blank" rel="noopener noreferrer">Explora_Salud_mental_2020</a>
+</li>
 </ul>
 </div>
-<div id="jluf" class="section level3 toolkit-box">
-<h3>JLUF</h3>
-<p><a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank">JLUF
+<div class="toolkit-box">
+<h3>
+UTILITIES
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank" rel="noopener noreferrer">BrainModes2022</a>
+</li>
+<li>
+<a href="https://www.quora.com/" target="_blank" rel="noopener noreferrer">Quora</a>
+</li>
+<li>
+<a href="https://wise.com/home/" target="_blank" rel="noopener noreferrer">Wise</a>
+</li>
+<li>
+<a href="https://outlook.office.com/mail/" target="_blank" rel="noopener noreferrer">Outlook</a>
+</li>
+<li>
+<a href="https://www.zipgrade.com/" target="_blank" rel="noopener noreferrer">Zipgrade</a>
+</li>
+<li>
+<a href="https://thebestpdf.com/" target="_blank" rel="noopener noreferrer">TheBestPDF
+(do many things)</a>
+</li>
+<li>
+<a href="https://www.youtube-transcript.io/" target="_blank" rel="noopener noreferrer">Youtube-trasncript
+(transcripts from YouTube)</a>
+</li>
+<li>
+<a href="https://www.opensubtitles.org/en/search/subs" target="_blank" rel="noopener noreferrer">Get
+subtitles</a>
+</li>
+<li>
+<a href="https://downsub.com/" target="_blank" rel="noopener noreferrer">Get
+subtitles</a>
+</li>
+<li>
+<a href="https://my-subs.co/" target="_blank" rel="noopener noreferrer">Get
+subtitles</a>
+</li>
+<li>
+<a href="https://subtitletools.com/" target="_blank" rel="noopener noreferrer">Subtitle
+tools</a>
+</li>
+<li>
+<a href="https://www.psychometrica.de/effect_size.html" target="_blank" rel="noopener noreferrer">Effects
+size comparisons (14)</a>
+</li>
+<li>
+<a href="https://github.com/giocomai/ganttrify" target="_blank" rel="noopener noreferrer">ganttrify</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+UTALCA
+</h3>
+<ul>
+<li>
+<a href="http://www.utalca.cl/link.cgi/#/link.cgi/" target="_blank" rel="noopener noreferrer">UTalca
+main</a>
+</li>
+<li>
+<a href="https://casinos.utalca.cl/#/ver?casino=Talca" target="_blank" rel="noopener noreferrer" title="Also saved as: Menus Casinos (Bookmarks Toolbar / Work / UTalca)">UTalca
+casinos</a>
+</li>
+<li>
+<a href="http://misequipos.utalca.cl/clientdti/" target="_blank" rel="noopener noreferrer" title="Also saved as: Mis Equipos (DTI UTalca) (Bookmarks Toolbar / Work / UTalca)">UTalca
+mis equipos</a>
+</li>
+<li>
+<a href="https://www.dropbox.com/" target="_blank" rel="noopener noreferrer" title="Also saved as: Dropbox (Bookmarks Toolbar / Work / UTalca)">Dropbox</a>
+</li>
+<li>
+<a href="http://nube.utalca.cl/" target="_blank" rel="noopener noreferrer" title="Also saved as: Nube UTalca (Bookmarks Toolbar / Work / UTalca)">UTalca
+cloud</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=13084" target="_blank" rel="noopener noreferrer" title="Also saved as: Dirección Escuela (Psicología) (Bookmarks Toolbar / Work / UTalca)">Psicol.
+Direcc Escuela</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=18519" target="_blank" rel="noopener noreferrer" title="Also saved as: Curso de Autoinstrucción [Educandus] (Bookmarks Toolbar / Work / UTalca)">Autoinstrucción</a>
+</li>
+<li>
+<a href="https://outlook.office.com/mail/" target="_blank" rel="noopener noreferrer">UTalca</a>
+</li>
+<li>
+<a href="https://udetalca-my.sharepoint.com/" target="_blank" rel="noopener noreferrer">UTalca
+- Sharepoint</a>
+</li>
+<li>
+<a href="https://forms.cloud.microsoft/" target="_blank" rel="noopener noreferrer">UTalca
+- Forms</a>
+</li>
+<li>
+<a href="https://onedrive.live.com/login" target="_blank" rel="noopener noreferrer">Microsoft
+OneDrive</a>
+</li>
+<li>
+<a href="http://reservasalas.utalca.cl:3000/login" target="_blank" rel="noopener noreferrer">Reserva
+de Salas - Facultad de Psicología</a>
+</li>
+<li>
+<a href="https://udetalca.sharepoint.com/sites/interno2" target="_blank" rel="noopener noreferrer">interno
+- Inicio</a>
+</li>
+<li>
+<a href="https://www.utalca.cl/" target="_blank" rel="noopener noreferrer">Universidad
+de Talca</a>
+</li>
+<li>
+<a href="https://universidaddetalca.atlassian.net/servicedesk/customer/portals" target="_blank" rel="noopener noreferrer">Jira</a>
+</li>
+<li>
+<a href="https://doctoradopsicologia.utalca.cl/repositorio/" target="_blank" rel="noopener noreferrer">Doctorado
+de Psicología (repositorio)</a>
+</li>
+<li>
+<a href="https://hotspot.utalca.cl/login?dst=http%3A%2F%2Fwww.gstatic.com%2Fgenerate_204" target="_blank" rel="noopener noreferrer">Hotspot</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+JLUF
+</h3>
+<ul>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/website/index.html" target="_blank" rel="noopener noreferrer" title="Also saved as: My website (Bookmarks Toolbar / Work / JLUF)">JLUF
 website</a>
-<a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank">JLUF
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/website/links.html" target="_blank" rel="noopener noreferrer">JLUF
 links</a>
-<a href="https://scholar.google.com/citations?hl=en&user=jJVWkMUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">JLUF
-scholar</a></p>
-</div>
-<div id="jluf-bookdowns" class="section level3 toolkit-box">
-<h3>JLUF bookdowns</h3>
-<ul>
-<li><a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF
-R repo</a></li>
-<li><a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF
-stats for good</a></li>
-<li><a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF
-stats 101 Jamovi</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank">JLUF
-R stats (old 1)</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF
-R stats (old 2)</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF
-R stats</a></li>
-<li><a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF
-R stats (GitHub)</a></li>
+</li>
+<li>
+<a href="https://scholar.google.com/citations?hl=en&amp;user=jJVWkMUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer" title="Also saved as: ‪José Luis Ulloa‬ (Bookmarks Toolbar / Work / JLUF)">JLUF
+scholar</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/cienciaabierta/" target="_blank" rel="noopener noreferrer">Ciencia
+abierta. ¿Cómo?</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/academia/" target="_blank" rel="noopener noreferrer">Academia</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank" rel="noopener noreferrer">–
+Stats con Jamovi –</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank" rel="noopener noreferrer">–
+Stats con R –</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/statsforgood/" target="_blank" rel="noopener noreferrer">StatsForGood</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank" rel="noopener noreferrer">Estadística
+101 con R (Doc Psicol.)</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank" rel="noopener noreferrer">Estadística
+101 con R (Doc Psicol.) v2.0</a>
+</li>
+<li>
+<a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank" rel="noopener noreferrer">doctoradoenpsicologiautal/estadistica</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/psychocinematics/" target="_blank" rel="noopener noreferrer">Una
+mirada a la psicocinemática</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLzyW6TZJNgGaczDGBrsNwYCrAZ66Hxmkw" target="_blank" rel="noopener noreferrer">Taller
+de cine</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1m0X8A5HaFCWDeJmsmziSDlulJOur0H2x" target="_blank" rel="noopener noreferrer">Cine
+clips</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank" rel="noopener noreferrer">R
+repository</a>
+</li>
 </ul>
 </div>
-<div id="jluf-bookdowns-1" class="section level3 toolkit-box">
-<h3>JLUF bookdowns</h3>
+<div class="toolkit-box">
+<h3>
+JLUF bookdowns
+</h3>
 <ul>
-<li><a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank">JLUF
-R repo</a></li>
-<li><a href="https://sites.google.com/site/statsforgood/" target="_blank">JLUF
-stats for good</a></li>
-<li><a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank">JLUF
-stats 101 Jamovi</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank">JLUF
-R stats (old 1)</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank">JLUF
-R stats (old 2)</a></li>
-<li><a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank">JLUF
-R stats</a></li>
-<li><a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank">JLUF
-R stats (GitHub)</a></li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank" rel="noopener noreferrer">R
+repo</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/statsforgood/" target="_blank" rel="noopener noreferrer">Stats
+for good</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/estadistica101/" target="_blank" rel="noopener noreferrer">Stats
+101 Jamovi</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/contents/index.html" target="_blank" rel="noopener noreferrer">R
+stats (old 1)</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadisticaconR/" target="_blank" rel="noopener noreferrer">R
+stats (old 2)</a>
+</li>
+<li>
+<a href="https://doctoradoenpsicologiautal.github.io/estadistica/" target="_blank" rel="noopener noreferrer">R
+stats</a>
+</li>
+<li>
+<a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank" rel="noopener noreferrer">R
+stats (GitHub)</a>
+</li>
 </ul>
 </div>
-<div id="sounds" class="section level3 toolkit-box">
-<h3>SOUNDS</h3>
+<div class="toolkit-box">
+<h3>
+SOUNDS
+</h3>
 <ul>
-<li><a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank">Nature</a></li>
-<li><a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank">Cafe
-music</a></li>
-<li><a href="https://www.youtube.com/@RelaxingWhiteNoise" target="_blank">White
-noise</a></li>
+<li>
+<a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank" rel="noopener noreferrer">Nature</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank" rel="noopener noreferrer">Cafe
+music</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@RelaxingWhiteNoise" target="_blank" rel="noopener noreferrer">White
+noise</a>
+</li>
 </ul>
 </div>
-<div id="music" class="section level3 toolkit-box">
-<h3>MUSIC</h3>
+<div class="toolkit-box">
+<h3>
+MUSIC
+</h3>
 <ul>
-<li><a href="https://www.youtube.com/@fansoftheconchords" target="_blank">Fan
-of the Conchords</a></li>
-<li><a href="https://www.youtube.com/playlist?list=PLFB2A700B1A28B590" target="_blank">Pomplamoose
-Covers</a></li>
-<li><a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank">Daft
-Punk | Something About Us | Pomplamoose</a></li>
+<li>
+<a href="https://www.youtube.com/@fansoftheconchords" target="_blank" rel="noopener noreferrer">Fan
+of the Conchords</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLFB2A700B1A28B590" target="_blank" rel="noopener noreferrer">Pomplamoose
+Covers</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank" rel="noopener noreferrer">Daft
+Punk | Something About Us | Pomplamoose</a>
+</li>
 </ul>
 </div>
-<div id="cinema" class="section level3 toolkit-box">
-<h3>CINEMA</h3>
+<div class="toolkit-box">
+<h3>
+CINEMA
+</h3>
 <ul>
-<li><a href="https://www.youtube.com/@enminutos" target="_blank">En
-Minutos</a></li>
+<li>
+<a href="https://www.youtube.com/@enminutos" target="_blank" rel="noopener noreferrer">YT
+- En Minutos</a>
+</li>
+<li>
+<a href="https://www.instagram.com/theblackbarsofficial/" target="_blank" rel="noopener noreferrer">IG
+- the blackbars official</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Cine</a>
+</li>
+<li>
+<a href="https://deepwebnest.com/" target="_blank" rel="noopener noreferrer">Deep
+Web Nest</a>
+</li>
+<li>
+<a href="https://flixer.cx/" target="_blank" rel="noopener noreferrer">FLIXER</a>
+</li>
+<li>
+<a href="https://www.instagram.com/cine.y.psicologia/" target="_blank" rel="noopener noreferrer">cine.y.psicología</a>
+</li>
+<li>
+<a href="https://www.instagram.com/estudio_psiquis" target="_blank" rel="noopener noreferrer">estudio_psiquis</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLrwUnL23zrPvip0v2HuFysocXdw8Ut_k8" target="_blank" rel="noopener noreferrer">Hitchcock-Truffaut
+Interview</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/18O-UsQDqAQc66TrKegTUVlzJrwh_T_K4" target="_blank" rel="noopener noreferrer">Cine_y_psicologia_Oct_2026</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1-xHynRUI_pHE7Fo01-wBvG8LU_H6Y7v0" target="_blank" rel="noopener noreferrer" title="Also saved as: Taller de Cine (Fac Psicol) 2025 (Bookmarks Toolbar / Cine)">Taller_de_cine</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1HN3JqC28JQZL-g4xfWw7uCKtOXRfNMWc" target="_blank" rel="noopener noreferrer">Cine_de_Cine_Miradas_Cruzadas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1_QRpz6NxuTNGlo4G80FbU3lWkrZYCMCK" target="_blank" rel="noopener noreferrer">Cine_y_Psicol</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">StudioBinder</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj" target="_blank" rel="noopener noreferrer">MIT
+21L.011 The Film Experience, Fall 2013</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX" target="_blank" rel="noopener noreferrer">Film
+History</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw" target="_blank" rel="noopener noreferrer">Film
+Criticism</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx" target="_blank" rel="noopener noreferrer">Film
+Production</a>
+</li>
+<li>
+<a href="https://www.opensubtitles.org/en/search/subs" target="_blank" rel="noopener noreferrer">Subtitles</a>
+</li>
 </ul>
 </div>
-<div id="instagram" class="section level3 toolkit-box">
-<h3>INSTAGRAM</h3>
+<div class="toolkit-box">
+<h3>
+FONDECYT 2026
+</h3>
 <ul>
-<li><a href="https://www.instagram.com/theblackbarsofficial/" target="_blank">the
-blackbars official</a></li>
+<li>
+<a href="https://drive.google.com/drive/folders/1pT7i3PNUvK3I-T88TyzDrPIRfeJlg18r" target="_blank" rel="noopener noreferrer">2026_1_Fondecyt</a>
+</li>
+<li>
+<a href="https://forms.office.com/Pages/DesignPagev2.aspx" target="_blank" rel="noopener noreferrer" title="Also saved as: Microsoft Forms (Bookmarks Toolbar / Work / Projects / Fondecyt_2026)">Forms2</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1irhZgPVm4Ef8YrV1QPzExFuzUtEZo3DL" target="_blank" rel="noopener noreferrer">Fondecyt_2026_finanzas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ORkFe4KUloAVZSnS7cx-EgErfOep2Ddq" target="_blank" rel="noopener noreferrer">EEG_preregistration</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ErPC0z8ImI-DPmer71Yi4svWLrn4xJUw" target="_blank" rel="noopener noreferrer">Pre_registro</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1noUd7WIvIhYp3sJ31DUiOlTxpgPghNcZ" target="_blank" rel="noopener noreferrer">2026_1_Fondecyt_Ulloa
+(internal group)</a>
+</li>
 </ul>
+</div>
+<div class="toolkit-box">
+<h3>
+GUIOMAR / FOVI
+</h3>
+<ul>
+<li>
+<a href="https://docs.google.com/document/d/18NS9_YaFbFDRO4JxyY85Sny40hiCq2VEG0eesXrhgUk/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Colaboracion
+Hispana w Guiomar</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1K1meCrjsT5TRrJGi2CnkQZ_-omKOFdmZ" target="_blank" rel="noopener noreferrer">2026_FOVI</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1G7BnIhLWIJim4rYAdO0qAjQtTA3x_LXm" target="_blank" rel="noopener noreferrer">2026_Madrid</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+COLLABORATIONS
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/16F8tD4x7P_U_SsHvzbi87Wg2vLmD3zPW" target="_blank" rel="noopener noreferrer">Bayesian
+cognitive modeling [w.FMR]</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">2026_EAM_Oliveros_2024_reanalys</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank" rel="noopener noreferrer">DM-MEG</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank" rel="noopener noreferrer">Camouflage</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ihGU5TmsY86uk-R-VvNtVmjF1zIzbptW" target="_blank" rel="noopener noreferrer">BodilyAnger</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1da7X9BUeFrKLy7W_thQ_hetO24bU25Ec" target="_blank" rel="noopener noreferrer">Daniel_InvTecnol</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Sx6_8g6bh3_aGoCOKrkypX5sZd0QOwkV" target="_blank" rel="noopener noreferrer">MAnalys</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank" rel="noopener noreferrer">EEG_St.Tomas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola
+Salas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/11emv1NSX78xywmby9jNHFlXKaL8GzCsw" target="_blank" rel="noopener noreferrer">JC
+Fondecyt</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1bUYmPFnjizXWnYOzUVc7TJqfEnuCKY_t" target="_blank" rel="noopener noreferrer">JC
+Fondeyct 2</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1CZzg5GfV8b47nKYN02p3BoUVcKkJ_xDq" target="_blank" rel="noopener noreferrer">2025_Innov_Escolar_Valentin_Letelier</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Rs3L76Q3qQZ7htDWPX08bDh2AeR8xqOr" target="_blank" rel="noopener noreferrer">Proyecto
+Martina</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/1XGhaQRMqVDXacjA9t7Dv68fLsi-vOzo3mQb07kQQDxE/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Monica_in_Chile_2026</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1t01BjxFwpzW_Th5cb0iHEIU_ne_myiNK" target="_blank" rel="noopener noreferrer">2026_Alejandra_emBODY</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1NqYXbKhOP3IYTdltY32ism42lhK2OBqz" target="_blank" rel="noopener noreferrer">Grupo
+Investigación IA</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+CICC
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1gAJ75tNi9orb_ARipeUBnMih3xj0zYM_" target="_blank" rel="noopener noreferrer">Exploracion</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1eo9dHuuBzh-ed4Dz9aptpD8NJtanONDY" target="_blank" rel="noopener noreferrer">Martin_Schaffernicht</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/1-_X2W-BKSChYKaOA4DX3l9xI2R1N9NTjukWGIYySvSw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Calendario
+CICC</a>
+</li>
+<li>
+<a href="https://www.dropbox.com/home/PIA%20Psicolog%C3%ADa%20UTALCA" target="_blank" rel="noopener noreferrer">PIA
+UTalca</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+LAB &amp; COMMUNITY
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1U1Dsjc35pBwOsnQAKoExH6x4j8dABgLz" target="_blank" rel="noopener noreferrer">Onda
+Cerebral Club</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1YOuem8P1FrZIfQymU2_GJZnrECFyJoRS" target="_blank" rel="noopener noreferrer">Onda_Cerebral_Club_rsEEG_workshop</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/pulpo_eeg/" target="_blank" rel="noopener noreferrer">Pulpo_EEG</a>
+</li>
+<li>
+<a href="https://onedrive.live.com/login" target="_blank" rel="noopener noreferrer">Microsoft
+OneDrive</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/my-drive" target="_blank" rel="noopener noreferrer">Drive</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1FWIT6exWVI4WWZYyLNnuocJBfBufp3O9" target="_blank" rel="noopener noreferrer">Asistencia
+investigacion</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1uEq48E0Sg5ou0QPmaQ9iapWBmj2AHnd8" target="_blank" rel="noopener noreferrer">LAB</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1zXO8k1TXye5PM4QpdWIigfiez09RmU3a" target="_blank" rel="noopener noreferrer">Colab
+Notebooks</a>
+</li>
+<li>
+<a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer">Welcome
+To Colab</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Wh8_ptXLYmZ0blgjoS0dirZ_1JClbugs" target="_blank" rel="noopener noreferrer">Speechnotes_Rxiv</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1hCucPATbWjwT_reI6rz-kGamhvNNNYcX" target="_blank" rel="noopener noreferrer">Audios_Notebook_LM</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1SRFF4a2h8JYfB850CrCma0lZHqkwfHZP" target="_blank" rel="noopener noreferrer">MASH_1</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+EEG &amp; MEG
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/198WMNfjLCVcTvg1MfS3mn2eRNWwrM0Cb" target="_blank" rel="noopener noreferrer">LinAlgCourse-main</a>
+</li>
+<li>
+<a href="https://forum.cuttingeeg.org/" target="_blank" rel="noopener noreferrer">CuttingEEG
+forum</a>
+</li>
+<li>
+<a href="https://brainlife.io/about/" target="_blank" rel="noopener noreferrer">brainlife</a>
+</li>
+<li>
+<a href="https://neuroimage.usc.edu/brainstorm/Tutorials/RestingOmega" target="_blank" rel="noopener noreferrer">BS</a>
+</li>
+<li>
+<a href="https://eegnewsletter.substack.com/p/22-single-trial-eeg-analyses" target="_blank" rel="noopener noreferrer">Raquel</a>
+</li>
+<li>
+<a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer">Udemy</a>
+</li>
+<li>
+<a href="https://github.com/crisglav/discover-eeg" target="_blank" rel="noopener noreferrer">discover-eeg</a>
+</li>
+<li>
+<a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.00284/full" target="_blank" rel="noopener noreferrer">Niso
+2019 Brainstorm</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+CUTTING GARDENS 2026
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1LtKL1wA4jZH96Ugo9V9Ysx9g4HKZbbTn" target="_blank" rel="noopener noreferrer">CuttingGarden
+2026</a>
+</li>
+<li>
+<a href="https://cuttingeeg.org/cuttinggardens2026/gardens/talca/" target="_blank" rel="noopener noreferrer">CGT2026</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/10fJB_g7MlRYcGWkITe9ixn0TFHaeCk5t" target="_blank" rel="noopener noreferrer">2026_CTG2026_EEG_workshop</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+MANUSCRIPTS
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1fbOcxv-UnX2Kp7OY_u_fU_u2yU9k7WYh" target="_blank" rel="noopener noreferrer">Paper
+PSYMO-EEG</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1S-POYTamj8bkSui58O-QDioXYN5TVz_P" target="_blank" rel="noopener noreferrer">Paper_EmoMaps_2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/1guyC2FCF8JoUXAZlAayBYrYWUs5Nx8Tc" target="_blank" rel="noopener noreferrer">Paper
+- Theory of automatic imitation</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1QfGntLu5tAToqtpM9ca9CJZPg2sK7lZ9" target="_blank" rel="noopener noreferrer">Paper
+Percepción del tiempo</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAPER LIBRARY
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1ejjCvmpd296_Ah0nEJmtQI-CY_bcW0RY" target="_blank" rel="noopener noreferrer">Read</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1oQrFM6cngo9C8bwbPnWBAJcSub0prslQ" target="_blank" rel="noopener noreferrer">Read_1</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1BxvO5vcRweKzrrN40vmuZr6igi8sBnx8" target="_blank" rel="noopener noreferrer">Read_1_methods</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1mE3wNkGhTywOH4WU9KHTRaCUOOIxS4Nh" target="_blank" rel="noopener noreferrer">Read_1_Ok</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1D7Sh2LmrgCz_6qm8pSv5ICA-Kckl58LO" target="_blank" rel="noopener noreferrer">Read_1_in_sight</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1s09BmVbpYicNDYoTtaMghI5FnbEy3UeC" target="_blank" rel="noopener noreferrer">Read_2_waiting</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1KV1w4ydPjnrAYwhwcOCr0_OGUrClUzdM" target="_blank" rel="noopener noreferrer">Read_3_else</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1wD93JOEjL3pwfxU0ej3uiOjBzxuClCMf" target="_blank" rel="noopener noreferrer">Automatic_Imitation</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1I4fcM_7GdGk2hSe-x5j5K9iXapLSPtYN" target="_blank" rel="noopener noreferrer">Emo
+Maps</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAST PROJECTS
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1T53NKq_qzrlsSx0uXwgngyasalqYY9jb" target="_blank" rel="noopener noreferrer">2025_Fondequip</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1yxFJ7cpC49bF5kj12hmD8WPlrtDPXBNr" target="_blank" rel="noopener noreferrer">EEG
+club 2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1l0ZdB1Jj0Tv6LyLT6iso2DubNGmnKYKk" target="_blank" rel="noopener noreferrer">PSA008_intertemporal_decisions</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1rGHXFzXBIm4XvCymR1MoyUwpzP9JmHav" target="_blank" rel="noopener noreferrer">Pelarco
+Asociacion Casona La Masia</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Zi2Bq9RjmJaTqvXRqk0iR4Aj6teP0vaf" target="_blank" rel="noopener noreferrer">Fondos_DAAD_2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1wUWGgRZY_damiWFmKjPd8nEwPmU6aKuf" target="_blank" rel="noopener noreferrer">Fondo_UTalca_DI_Equip_Intermedio_2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1fOm2ASgnLeqU_D6AceW4D4jZpuORvQbR" target="_blank" rel="noopener noreferrer">EEGMany</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1j1mKBug_zu9a60oWwoBkyvmovcKOwEp4" target="_blank" rel="noopener noreferrer">TT_team</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1s_PDiHRPnDjNcUVyBpXKltJgGhhRSJtA" target="_blank" rel="noopener noreferrer">TT_team_perso</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1-WGaSpAuSk9oai_gvtp6rDYNIu8cSWuM" target="_blank" rel="noopener noreferrer">Ciencia
+bajo las estrellas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Fvwf8o1Tdmp-nh2T944k2iEsRtguwA5C" target="_blank" rel="noopener noreferrer">Milenio
+2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/13Z7rjnM5V86XlsUwFhT4VKHghkdYHXx0" target="_blank" rel="noopener noreferrer">Mentorxs_en_accion</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1JKZZNYi6HQJoWPV0XknYhmXnsM51auQV" target="_blank" rel="noopener noreferrer">2025_jornada_salud_mental</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ExE3RACC6aJQSlOJVFQoGclJh6818XQ1" target="_blank" rel="noopener noreferrer">Collab_Chile_Suiza_2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1sTN8bEMWKE1QSr3ZaUAnvBS1Zi6aOldT" target="_blank" rel="noopener noreferrer">Collab
+Estudio_Rendimiento_Académico</a>
+</li>
+<li>
+<a href="https://github.com/nnapolitx/taller_R" target="_blank" rel="noopener noreferrer">nnapolitx/taller_R:
+taller_R</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+CUTTING GARDENS 2023
+</h3>
+<ul>
+<li>
+<a href="https://www.crowdcast.io/c/cuttinggardens2023" target="_blank" rel="noopener noreferrer">Cutting
+Gardens 2023</a>
+</li>
+<li>
+<a href="https://forum.cuttingeeg.org/" target="_blank" rel="noopener noreferrer">CuttingEEG
+forum</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1kY3NJZa10DHqKn8bIBYBjAvF1FOJ15YT" target="_blank" rel="noopener noreferrer">CuttingEEG_Gardens
+CORE</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/12M2UTaBmG9pKcAVwYt89dwRss8kErkJn" target="_blank" rel="noopener noreferrer">CuttingGardens</a>
+</li>
+<li>
+<a href="https://cuttinggardens2023.org/gardens/santiago/" target="_blank" rel="noopener noreferrer">Santiago
+| Cutting Gardens 2023</a>
+</li>
+<li>
+<a href="https://cuttinggardens2023.org/" target="_blank" rel="noopener noreferrer">Cutting
+Gardens 2023</a>
+</li>
+<li>
+<a href="https://neuro.udp.cl/gardencl/" target="_blank" rel="noopener noreferrer">CuttingGardens
+@ Santiago, Chile</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PSA &amp; SPAM-L
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/1mAn5ZhOx4q1gyrbQw8h0XnQ5oVEix_v6" target="_blank" rel="noopener noreferrer">PSA
+007 SPAM-L</a>
+</li>
+<li>
+<a href="https://canvas.psysciacc.org/" target="_blank" rel="noopener noreferrer">Canvas</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1uFY1DuH52sJwVbATKJApqf-wIz3G3bmR" target="_blank" rel="noopener noreferrer">PSA
+008 In-Group Biases</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+TEACHING 2026
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1ipN_JWQenHE2yd7iyVVK9QdykpS37lH9" target="_blank" rel="noopener noreferrer">2026_MIP1</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=40742" target="_blank" rel="noopener noreferrer">MIP1C</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1G_TK17XkSsQntIFSWQrmNuQWzW8I6fRC" target="_blank" rel="noopener noreferrer">2026_FIP</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=39153" target="_blank" rel="noopener noreferrer">2026_FIP</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1rp3B426AXz90MIOiOyCXnAT-V_uPGNhn" target="_blank" rel="noopener noreferrer">2026_PPF1</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/12FedfFtrFFHMjCaq0RvOVpBlZCNEcVcd" target="_blank" rel="noopener noreferrer">2026_PPF1_scan</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=39150" target="_blank" rel="noopener noreferrer">2026_PPF1–B</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=39149" target="_blank" rel="noopener noreferrer">2026_PPF-1–A</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1IJKT5JXWgQNQG_WQ9lZK0hjrh2IT5L36" target="_blank" rel="noopener noreferrer">2026_MITO</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=37892" target="_blank" rel="noopener noreferrer">2026
+MITO</a>
+</li>
+<li>
+<a href="https://formacioncontinua.educandus.cl/my/courses.php" target="_blank" rel="noopener noreferrer">Mis
+cursos</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=32766" target="_blank" rel="noopener noreferrer">Trabajo
+de Licenciatura T.O. (sección A)</a>
+</li>
+<li>
+<a href="https://educacioncontinua.educandus.cl/course/view.php?id=280" target="_blank" rel="noopener noreferrer">Autoinstruccional
+(Wooclap)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/my/" target="_blank" rel="noopener noreferrer">Área
+personal</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESES 2026–2027
+</h3>
+<ul>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/academia/organizaci%C3%B3n.html" target="_blank" rel="noopener noreferrer">Capítulo
+2 Organización | Academia</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1289YjWDldY5sypebhUtn5r-6-qkL7pOX" target="_blank" rel="noopener noreferrer">G1_Diego_Valentina</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1qXc0m18G9Z2KXkEs4OTeTXW5SsxAwS-M" target="_blank" rel="noopener noreferrer">G2_Katherine_Carolina</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1ww2OBU7s32MOq35X8TSILoSMdPkQXvWA" target="_blank" rel="noopener noreferrer">G3_Gabriela</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1L4i7ekiksUu62O9aEgN6uzItVt0P5lG9" target="_blank" rel="noopener noreferrer">G4_Renato_Benjamin</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1nxxGZ5ig2qLvd5Fx1OZtRkgxPzUnKQJp" target="_blank" rel="noopener noreferrer">Tesis_2027_G1</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1uVybLSSoe87QJ3-U9z40ToTCQCCLcdl_" target="_blank" rel="noopener noreferrer">Tesis_2027_G2</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESIS SUPERVISION
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1b-_7KfVSPlOXLE4pAlZ1CmLx_rrijOL0" target="_blank" rel="noopener noreferrer">.Arxv
+Tesis - UTalca</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/1eytyacledbE9hx1tlIgLCFteDPQWkmiZKDyyISvxTEM/edit?gid=284671642#gid=284671642" target="_blank" rel="noopener noreferrer">Horario_Reuniones_Tesis_2025</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=34747" target="_blank" rel="noopener noreferrer">Proyecto
+de Memoria J</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=36012" target="_blank" rel="noopener noreferrer">MEMORIA
+- Sección J</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=30764" target="_blank" rel="noopener noreferrer">Proyecto
+de Memoria (C)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=32561" target="_blank" rel="noopener noreferrer">Memoria
+(C)</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESES 2025
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/17PW3F16cbkvzuPLrDId7ATDSU3VN8vYX" target="_blank" rel="noopener noreferrer">Tesis
+Terapia Ocupacional</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1eKmmWcfY1DKgN8_Pvx0xQM13ffRDCevA" target="_blank" rel="noopener noreferrer">TESIS
+:)</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1mc69aIJnEn2zAcTty4G7bfEY2GPEwSvJ" target="_blank" rel="noopener noreferrer">Cris
+&amp; Luih_Tesis2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1TOE0pUmXN52FaPgqGK7dNpi2d-EkeL8e" target="_blank" rel="noopener noreferrer">Ignacia/MJ</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1lAIxzlHINlIgx5Fp2dK2WGbi2sWggyMj" target="_blank" rel="noopener noreferrer">Sensaciones
+corporales y cine</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESES 2024
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1G564COcenshbHUUoUvQAO1DRiQd-JuWb" target="_blank" rel="noopener noreferrer">1
+Jose/Kathy</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Yr-YNJqrVVKMOJh1-beUdeih4IeCwN2i" target="_blank" rel="noopener noreferrer">2
+Jesús/Vicente</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1orgwOtZrhthEQ6I4eZOxm8vz2uk6szes" target="_blank" rel="noopener noreferrer">3
+Daniela/Alejandra</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/11M7mV5OftXc1Xz935DcfjHp2ze0C2tLl" target="_blank" rel="noopener noreferrer">4
+Francisca/Javiera</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESES 2023
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1XdmCJphuKeLQ0rXbd0evFgwqgWnOJJk2" target="_blank" rel="noopener noreferrer">1
+Camila &amp; Matías</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1Uv0Ks2_a6usDEEuroUIjPz5nOwwrZ15H" target="_blank" rel="noopener noreferrer">2
+Paola &amp; Isidora</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1T7Xot9Q7Ch7QmyeJni4-OpBBC-aotxq3" target="_blank" rel="noopener noreferrer">3
+Gustavo</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1XPggDXCCeIDz4jB8fokKDBkAnEYwFRPD" target="_blank" rel="noopener noreferrer">3b
+Gustavo</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/10kHEs7YvgOlrSzsxRMBpvQJAfIhAQnSN" target="_blank" rel="noopener noreferrer">4
+Raquel &amp; Millaray</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+THESES 2022
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/1D-Fz3K85HsZ-fG28iXuDsSKU5dNIOl2J" target="_blank" rel="noopener noreferrer">Amanda
+&amp; Nicolás</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1-4fydG0bfC2CEbo85UnYkOsJQaakQYkg" target="_blank" rel="noopener noreferrer">Isaac
+&amp; Luis</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1y591UjyaZXqjbQrQBZf1kHH5-go61bL-" target="_blank" rel="noopener noreferrer">Karla
+&amp; Natalia</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/1ZFuWy9ayPA7xeODJxYbrLex1wur3m2a3" target="_blank" rel="noopener noreferrer">MJ
+&amp; Sofía</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+OLDER THESES
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/19v7lPLpekuXR7f0lu4iF2YnqU4JhOO8Y" target="_blank" rel="noopener noreferrer">Vicente</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1YsyxyRYV3rAta2QV970BtRV1f7j85h0T" target="_blank" rel="noopener noreferrer">Johanna</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/19aGdwYS0O33goDvPq3RTu68ZAfY3-3Xi" target="_blank" rel="noopener noreferrer">JC</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAST COURSES — MIP
+</h3>
+<ul>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=26270" target="_blank" rel="noopener noreferrer">MIP
+2025 (C)</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/1mx9DpdaPblwMeOxOD39-jvBDGe7_sJ1V4G3wHB2mXZY/edit?tab=t.0" target="_blank" rel="noopener noreferrer">PROYECTOS_MIPc_2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1HZepWzU9ooPL5RkClK-aecr50nS_kqgY" target="_blank" rel="noopener noreferrer">2025_MIP</a>
+</li>
+<li>
+<a href="https://bookdown.org/pkaldunn/SRM-Textbook/" target="_blank" rel="noopener noreferrer">Scientific
+Research and Methodology</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/10GV1R4rAyUv4huC7Orkz5ePAl1FacZaC" target="_blank" rel="noopener noreferrer">Drive_Colab_data</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1d8PNegJa79c8aPOxX4iY9pW3ZrGYrVli" target="_blank" rel="noopener noreferrer">Drive_Colab_scripts</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1pwTsklr3UvqkabejuYx_hxZWYpJBMe9r" target="_blank" rel="noopener noreferrer">MIPc_2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1nMbeNAEx6ii-pLpz5jO4neVXC9vFALNe" target="_blank" rel="noopener noreferrer">MIPcd_2024</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=31966" target="_blank" rel="noopener noreferrer">MIP
+(D)</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1pX2ejcLVn6DGhohU4DWrB268gEpQr6wA" target="_blank" rel="noopener noreferrer">MIPc_2023_stud</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/19RotXUjffh6xVXpnpWPTS8A8fEIzmr5I" target="_blank" rel="noopener noreferrer">MIPc_2023</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=26269" target="_blank" rel="noopener noreferrer">MIP
+(B)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=24046" target="_blank" rel="noopener noreferrer">MIP
+(B)</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAST COURSES — 2025
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1McGV6G4aYU8SsKYXpQP4smkRPYp4DWc9" target="_blank" rel="noopener noreferrer">2025_PC1</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=28872" target="_blank" rel="noopener noreferrer">PC1
+A</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=22798" target="_blank" rel="noopener noreferrer">PC1
+B</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23114" target="_blank" rel="noopener noreferrer">PC1
+C</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=33300" target="_blank" rel="noopener noreferrer">PC1
+D</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1BKFIzaSXsnv2UIFzAf0v7JgUpoOVOriq" target="_blank" rel="noopener noreferrer">2025_PC2</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23589" target="_blank" rel="noopener noreferrer">PC2
+2025 (B)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23657" target="_blank" rel="noopener noreferrer">PC2
+2025 (C)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/user/index.php?id=23453" target="_blank" rel="noopener noreferrer">PC2
+A</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAST COURSES — 2024
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1U5qUMLckHzpKbNb5Eotle8kgVzTD40PE" target="_blank" rel="noopener noreferrer">PC1_2024</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=22798" target="_blank" rel="noopener noreferrer">PC1
+B</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1WP7y_GpAlcJDGXgokfvqAxEgYMFfRFj-" target="_blank" rel="noopener noreferrer">PC2_2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Lr0i2udPdsbfA4NuMnNRaqhyg0-b1rfV" target="_blank" rel="noopener noreferrer">PC2_2024_expeJL</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/18V81jFxNvdPAr9uiTki7CVLirCJgWgUVjKQBx1gs9nc/edit#gid=1795025446" target="_blank" rel="noopener noreferrer">Expe_JL
+- Fisher</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23453" target="_blank" rel="noopener noreferrer">PC2
+2022 (A)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23657" target="_blank" rel="noopener noreferrer">PC2
+2022 (C)</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=18037" target="_blank" rel="noopener noreferrer">Para
+sacar docus para PC1</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PAST COURSES — 2023
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/18znmq_FOAm2j_LlcgNSUZg3MdXhGCY6h" target="_blank" rel="noopener noreferrer">PC1
+2023</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1Ey7aSeXEXakPawBlWMgRfqr5GLVypwFE" target="_blank" rel="noopener noreferrer">PC1_2023_expeJL</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1EsbDsKbL1Px3Dlxijtk4ICh0WXJphcmU" target="_blank" rel="noopener noreferrer">Expe9_seguimiento_estudiantes</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLGMVCsud2sqX1F5BkUp7yiIFcGtFjb1hZ" target="_blank" rel="noopener noreferrer">CrashCourse
+- Psychology</a>
+</li>
+<li>
+<a href="https://open.spotify.com/episode/1GGFyHySRWNmgjM29IrYS5" target="_blank" rel="noopener noreferrer">¿Cómo
+suena la música en nuestro cerebro? • Hoy en el mundo</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=28872" target="_blank" rel="noopener noreferrer">PC1
+A</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=22798" target="_blank" rel="noopener noreferrer">PC1
+B</a>
+</li>
+<li>
+<a href="https://lms.educandus.cl/course/view.php?id=23114" target="_blank" rel="noopener noreferrer">PC1
+C</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1rkwuvwtRFkosovg9iBXyBjJUBGycPm0g" target="_blank" rel="noopener noreferrer">PC2_2023</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1SORKzKE_yTOMJWKgr2XWrtrsP1acfb0z" target="_blank" rel="noopener noreferrer">PC2_2023_expeJL</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+POSTGRADUATE TEACHING
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1hmb3nLZNW5dYXk_uA8E9A9u60likb5a8" target="_blank" rel="noopener noreferrer">R.Vis.2025</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1cLONWwGBelm0ew-eClbVsGHm1hJ_Vgww" target="_blank" rel="noopener noreferrer">R.Vis.2024</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1iBZkJ1tc7mCYklshHpyDz8ktfX6_HHcP" target="_blank" rel="noopener noreferrer">R2023</a>
+</li>
+<li>
+<a href="https://github.com/fabiolasalas/task_switching_eeg" target="_blank" rel="noopener noreferrer">fabiolasalas/task_switching_eeg</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/0/folders/1etkZZYfCJ0Sc3qvxpouRUzJPUDK1ELJA" target="_blank" rel="noopener noreferrer">Marco
+Diaz</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola
+Salas</a>
+</li>
+<li>
+<a href="https://postgrados.educandus.cl/my/" target="_blank" rel="noopener noreferrer">Área
+personal</a>
+</li>
+<li>
+<a href="https://postgrados.educandus.cl/course/view.php?id=443" target="_blank" rel="noopener noreferrer">[DocPsychol]
+Tesis 1 (A)</a>
+</li>
+<li>
+<a href="https://postgrados.educandus.cl/course/view.php?id=417" target="_blank" rel="noopener noreferrer">[MPSS]
+ANOVA (A)</a>
+</li>
+<li>
+<a href="https://postgrados.educandus.cl/course/view.php?id=2270" target="_blank" rel="noopener noreferrer">Curso:
+OPTATIVO ESPECIALIZADO 1 (OE 1) - Sección A</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+ETHICS &amp; CEFP
+</h3>
+<ul>
+<li>
+<a href="https://drive.google.com/drive/folders/1NV2ILt-_gO3qr4bWGb8TBDaYYkqVWfWr" target="_blank" rel="noopener noreferrer">Comite_Etica_Facultad</a>
+</li>
+<li>
+<a href="https://docs.google.com/spreadsheets/d/1dh7-7O7a9IbUddHNPUhQeRfGtZQ5ioB76g2zcZrTFWw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Lista
+de revisiones 2026</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/1gZMPtOtWnAO-tWFDaiXatgKEHz8gaatRcR_5t9H_rdM/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Lista
+de revisiones 2026</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1HnLkiKdexWTS6WnBifYZ44rmdXbaqdou" target="_blank" rel="noopener noreferrer">CEC_UTalca_info</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/16zI9K5dc0gYAlLo_xwr8IONn5a53PXxDXEh1HSpW1bo/edit" target="_blank" rel="noopener noreferrer">Lista
+de revisión - CEFP</a>
+</li>
+<li>
+<a href="https://docs.google.com/document/d/1gX99sd-qrAfBU0LRbscrunJlBWQ0tWxb76Ww1Fm2zx4/edit" target="_blank" rel="noopener noreferrer">Requerimientos
+CEFP</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+TEACHING TOOLS
+</h3>
+<ul>
+<li>
+<a href="https://www.wooclap.com/" target="_blank" rel="noopener noreferrer">Wooclap</a>
+</li>
+<li>
+<a href="https://www.zipgrade.com/" target="_blank" rel="noopener noreferrer">Zipgrade</a>
+</li>
+<li>
+<a href="https://www.pollev.com/" target="_blank" rel="noopener noreferrer">Poll
+Everywhere</a>
+</li>
+<li>
+<a href="https://b.socrative.com/teacher/#launch" target="_blank" rel="noopener noreferrer">Socrative</a>
+</li>
+<li>
+<a href="https://www.techsmith.com/tutorial-camtasia.html" target="_blank" rel="noopener noreferrer">Camtasia
+Tutorials | TechSmith</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+JOURNALS
+</h3>
+<ul>
+<li>
+<a href="https://www.newscientist.com/" target="_blank" rel="noopener noreferrer">New
+Scientist</a>
+</li>
+<li>
+<a href="https://psycnet-apa-org.utalca.idm.oclc.org/search/basic" target="_blank" rel="noopener noreferrer">APA</a>
+</li>
+<li>
+<a href="https://www.cambridge.org/core/journals/psychological-medicine" target="_blank" rel="noopener noreferrer">Psychological
+Medicine</a>
+</li>
+<li>
+<a href="https://journals.sagepub.com/home/pps" target="_blank" rel="noopener noreferrer">Perspectives
+on Psychological Science</a>
+</li>
+<li>
+<a href="https://www-nature-com.utalca.idm.oclc.org/nrn/" target="_blank" rel="noopener noreferrer">Nature
+Reviews Neuroscience</a>
+</li>
+<li>
+<a href="https://www.nature.com/nrn/" target="_blank" rel="noopener noreferrer">Nature
+Reviews Neuroscience</a>
+</li>
+<li>
+<a href="https://science-sciencemag-org.utalca.idm.oclc.org/" target="_blank" rel="noopener noreferrer">Science</a>
+</li>
+<li>
+<a href="https://www.springer.com/journal/40167" target="_blank" rel="noopener noreferrer">Culture
+and Brain</a>
+</li>
+<li>
+<a href="https://www.journals.elsevier.com/current-opinion-in-psychology" target="_blank" rel="noopener noreferrer">Current
+Opinion in Psychology</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/trends-in-cognitive-sciences" target="_blank" rel="noopener noreferrer">Trends
+in Cognitive Sciences</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/cognition" target="_blank" rel="noopener noreferrer">Cognition</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/neuron" target="_blank" rel="noopener noreferrer">Neuron</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/neuropsychologia" target="_blank" rel="noopener noreferrer">Neuropsychologia</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/consciousness-and-cognition" target="_blank" rel="noopener noreferrer">Consciousness
+and Cognition</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/neuroimage" target="_blank" rel="noopener noreferrer">NeuroImage</a>
+</li>
+<li>
+<a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/psiquiatria-biologica" target="_blank" rel="noopener noreferrer">Psiquiatría
+Biológica</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+RESEARCH SEARCH
+</h3>
+<ul>
+<li>
+<a href="https://sci-hub.se/" target="_blank" rel="noopener noreferrer">Sci-Hub</a>
+</li>
+<li>
+<a href="https://annas-archive.org/scidb" target="_blank" rel="noopener noreferrer">🧬
+SciDB - Anna’s Archive</a>
+</li>
+<li>
+<a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener noreferrer">Library
+Genesis</a>
+</li>
+<li>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" rel="noopener noreferrer">Pubmed</a>
+</li>
+<li>
+<a href="https://login.utalca.idm.oclc.org/menu" target="_blank" rel="noopener noreferrer">Database
+Menu</a>
+</li>
+<li>
+<a href="https://www-scopus-com.utalca.idm.oclc.org/search/form.uri?display=basic#basic" target="_blank" rel="noopener noreferrer">Scopus
+- Document search</a>
+</li>
+<li>
+<a href="http://sfx-56utalca.hosted.exlibrisgroup.com/56utalca/journalsearch" target="_blank" rel="noopener noreferrer">Buscador
+UTalca</a>
+</li>
+<li>
+<a href="https://www.mindmeister.com/" target="_blank" rel="noopener noreferrer">Mindmeister</a>
+</li>
+<li>
+<a href="https://downmagaz.net/" target="_blank" rel="noopener noreferrer">Download
+PDF magazines</a>
+</li>
+<li>
+<a href="https://joseluisulloafulgeri.github.io/website/toolkit.html" target="_blank" rel="noopener noreferrer">Web-Toolkit</a>
+</li>
+<li>
+<a href="https://12ft.io/" target="_blank" rel="noopener noreferrer">12ft</a>
+</li>
+<li>
+<a href="https://www.removepaywall.com/" target="_blank" rel="noopener noreferrer">RemovePaywall</a>
+</li>
+<li>
+<a href="https://www.spreeder.com/app.php" target="_blank" rel="noopener noreferrer">Reader</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+ACADEMIC TOOLS
+</h3>
+<ul>
+<li>
+<a href="https://www.onlinedoctranslator.com/es/" target="_blank" rel="noopener noreferrer">Traductor
+de docus</a>
+</li>
+<li>
+<a href="http://www.calculatehours.com/Time_Calculator.html" target="_blank" rel="noopener noreferrer">Time
+Calculator</a>
+</li>
+<li>
+<a href="https://www.onlinedoctranslator.com/" target="_blank" rel="noopener noreferrer">Traductor
+docs</a>
+</li>
+<li>
+<a href="https://online-audio-converter.com/es/" target="_blank" rel="noopener noreferrer">Conversor
+de audio online</a>
+</li>
+<li>
+<a href="https://academia.stackexchange.com/" target="_blank" rel="noopener noreferrer">Academia</a>
+</li>
+<li>
+<a href="http://www.lilsubs.com/#" target="_blank" rel="noopener noreferrer">LilSubs</a>
+</li>
+<li>
+<a href="https://www.online-convert.com/" target="_blank" rel="noopener noreferrer">Online
+converter</a>
+</li>
+<li>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a>
+</li>
+<li>
+<a href="https://sites.google.com/new" target="_blank" rel="noopener noreferrer">Google
+Sites</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/" target="_blank" rel="noopener noreferrer">Google
+Sites</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/dreamwalkerinparis/" target="_blank" rel="noopener noreferrer">Dreamwalker
+in Paris</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/psicologiautalca2020/" target="_blank" rel="noopener noreferrer">PsicologiaUTalca</a>
+</li>
+<li>
+<a href="https://sites.google.com/site/memoristaspsicol/" target="_blank" rel="noopener noreferrer">MemoristasPsicol</a>
+</li>
+<li>
+<a href="https://onedrive.live.com/about/en-gb/signin/" target="_blank" rel="noopener noreferrer">One
+Drive</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+WRITING &amp; LANGUAGE
+</h3>
+<ul>
+<li>
+<a href="https://dictation.io/speech" target="_blank" rel="noopener noreferrer">Dicta</a>
+</li>
+<li>
+<a href="https://www.speechtexter.com/" target="_blank" rel="noopener noreferrer">SpeechTexter</a>
+</li>
+<li>
+<a href="https://turboscribe.ai/dashboard" target="_blank" rel="noopener noreferrer">Audio-to-text</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=ybTWPIJA5ME" target="_blank" rel="noopener noreferrer">Rain</a>
+</li>
+<li>
+<a href="https://www.visualthesaurus.com/" target="_blank" rel="noopener noreferrer">Visual
+Thesaurus</a>
+</li>
+<li>
+<a href="http://www.wordreference.com/" target="_blank" rel="noopener noreferrer">WordReference</a>
+</li>
+<li>
+<a href="https://colab.research.google.com/drive/1sn-ML9Ki2jUbWXu0OPdUvuwAsV-5NgMC" target="_blank" rel="noopener noreferrer">highlight_in_pdf</a>
+</li>
+<li>
+<a href="https://www.publicationcoach.com/research-diary/" target="_blank" rel="noopener noreferrer">Research
+diary</a>
+</li>
+<li>
+<a href="https://www.publicationcoach.com/" target="_blank" rel="noopener noreferrer">Daphne
+Gray-Grant</a>
+</li>
+<li>
+<a href="https://jell.com/app/organizations/1110923234951299594/home" target="_blank" rel="noopener noreferrer">Jell</a>
+</li>
+<li>
+<a href="http://www.phrasebank.manchester.ac.uk/" target="_blank" rel="noopener noreferrer">Phrases</a>
+</li>
+<li>
+<a href="https://www.online-utility.org/english/readability_test_and_improve.jsp" target="_blank" rel="noopener noreferrer">Tests
+Document Readability</a>
+</li>
+<li>
+<a href="http://www.hemingwayapp.com/" target="_blank" rel="noopener noreferrer">Hemingway
+Editor</a>
+</li>
+<li>
+<a href="https://prowritingaid.com/en/Appclick/Extension/Analysis/WebEditor/Go?postChrome=true" target="_blank" rel="noopener noreferrer">PWA</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PDF TOOLS
+</h3>
+<ul>
+<li>
+<a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">Online
+PDF tools</a>
+</li>
+<li>
+<a href="https://smallpdf.com/" target="_blank" rel="noopener noreferrer">Smallpdf</a>
+</li>
+<li>
+<a href="https://draftable.com/compare" target="_blank" rel="noopener noreferrer">Compare
+pdfs</a>
+</li>
+<li>
+<a href="https://simplypdf.com/" target="_blank" rel="noopener noreferrer">Convert
+PDF to Word - SimplyPDF</a>
+</li>
+<li>
+<a href="https://online2pdf.com/en/convert-pdf-to-pptx#" target="_blank" rel="noopener noreferrer">Convert
+PDF to PPTX online &amp; free</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+AUDIO &amp; SUBTITLE TOOLS
+</h3>
+<ul>
+<li>
+<a href="https://amp4.cc/" target="_blank" rel="noopener noreferrer">YouTube
+to MP4 converter (No ads) - AMP4</a>
+</li>
+<li>
+<a href="https://cnvmp3.com/v54" target="_blank" rel="noopener noreferrer">Youtube
+to MP3 Converter (Ad-free)</a>
+</li>
+<li>
+<a href="https://ytmp3.nu/DyzH/" target="_blank" rel="noopener noreferrer">YtMp3:
+YouTube to MP3 Converter</a>
+</li>
+<li>
+<a href="https://ytmp3.cc/" target="_blank" rel="noopener noreferrer">YouTube
+to Mp3 Converter</a>
+</li>
+<li>
+<a href="https://y2mate.com/es" target="_blank" rel="noopener noreferrer">Descargador
+de videos</a>
+</li>
+<li>
+<a href="https://online-video-cutter.com/" target="_blank" rel="noopener noreferrer">Video
+Trimmer - Cut Video Online for Free - MP4, AVI, MPG, 3GP</a>
+</li>
+<li>
+<a href="https://gotranscript.com/subtitle-converter" target="_blank" rel="noopener noreferrer">Subtitle
+Converter | Free tool | GoTranscript</a>
+</li>
+<li>
+<a href="https://subshifter.bitsnbites.eu/" target="_blank" rel="noopener noreferrer">SubShifter
+- Online SRT Subtitle Resync Tool</a>
+</li>
+<li>
+<a href="https://restream.io/tools" target="_blank" rel="noopener noreferrer">Online
+Video &amp; Audio Tools: Free, Easy to Use | Restream</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+COMMUNICATION
+</h3>
+<ul>
+<li>
+<a href="https://web.telegram.org/a/" target="_blank" rel="noopener noreferrer">Telegram</a>
+</li>
+<li>
+<a href="https://www.instagram.com/estudio_psiquis/" target="_blank" rel="noopener noreferrer">estudio_psiquis</a>
+</li>
+<li>
+<a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+</li>
+<li>
+<a href="https://www.instagram.com/joseluisblues/" target="_blank" rel="noopener noreferrer">Instagram</a>
+</li>
+<li>
+<a href="https://web.facebook.com/messages" target="_blank" rel="noopener noreferrer">Facebook</a>
+</li>
+<li>
+<a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Discord</a>
+</li>
+<li>
+<a href="https://linktr.ee/admin" target="_blank" rel="noopener noreferrer">Linktree</a>
+</li>
+<li>
+<a href="https://linktr.ee/cognitive.games" target="_blank" rel="noopener noreferrer">Juegos
+cognitivos</a>
+</li>
+<li>
+<a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">Twitter</a>
+</li>
+<li>
+<a href="https://app.slack.com/client/T03QTPSGA1E/C03Q41HNUBC" target="_blank" rel="noopener noreferrer">Exp
+Psychol &amp; Neuroscience</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+AI TOOLS
+</h3>
+<ul>
+<li>
+<a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer">DeepSeek</a>
+</li>
+<li>
+<a href="https://chat.openai.com/chat" target="_blank" rel="noopener noreferrer">ChatGPT</a>
+</li>
+<li>
+<a href="https://notebooklm.google/" target="_blank" rel="noopener noreferrer">NotebookLM</a>
+</li>
+<li>
+<a href="https://claude.ai/chats" target="_blank" rel="noopener noreferrer">Claude</a>
+</li>
+<li>
+<a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">Perplexity</a>
+</li>
+<li>
+<a href="https://evernote.com/ai-transcribe" target="_blank" rel="noopener noreferrer">AI
+Transcribe by Evernote</a>
+</li>
+<li>
+<a href="https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo" target="_blank" rel="noopener noreferrer">Conversational
+voice</a>
+</li>
+<li>
+<a href="https://sora.com/" target="_blank" rel="noopener noreferrer">Sora</a>
+</li>
+<li>
+<a href="https://consensus.app/" target="_blank" rel="noopener noreferrer">Consensus</a>
+</li>
+<li>
+<a href="https://invideo.io/" target="_blank" rel="noopener noreferrer">Invideo
+AI</a>
+</li>
+<li>
+<a href="https://you.com/" target="_blank" rel="noopener noreferrer">You</a>
+</li>
+<li>
+<a href="https://pdf.ai/" target="_blank" rel="noopener noreferrer">PDF.ai</a>
+</li>
+<li>
+<a href="https://jenni.ai/" target="_blank" rel="noopener noreferrer">Jenni</a>
+</li>
+<li>
+<a href="https://www.rayyan.ai/" target="_blank" rel="noopener noreferrer">Rayyan</a>
+</li>
+<li>
+<a href="https://elicit.org/" target="_blank" rel="noopener noreferrer">Elicit</a>
+</li>
+<li>
+<a href="https://deepmind.google/" target="_blank" rel="noopener noreferrer">Google
+DeepMind</a>
+</li>
+<li>
+<a href="https://www.openread.academy/" target="_blank" rel="noopener noreferrer">OpenRead</a>
+</li>
+<li>
+<a href="https://community.openai.com/t/chatgpt-asked-me-to-talk-to-open-ai-about-this/24239/2" target="_blank" rel="noopener noreferrer">ChatGPT
+asked me to talk to open AI about this - General API discussion - OpenAI
+API Community Forum</a>
+</li>
+<li>
+<a href="https://labs.openai.com/" target="_blank" rel="noopener noreferrer">DALL·E</a>
+</li>
+<li>
+<a href="https://typeset.io/" target="_blank" rel="noopener noreferrer">SciSpace</a>
+</li>
+<li>
+<a href="https://character.ai/" target="_blank" rel="noopener noreferrer">character.ai</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+AI COURSES
+</h3>
+<ul>
+<li>
+<a href="https://learn.deeplearning.ai/courses/reasoning-with-o1" target="_blank" rel="noopener noreferrer">o1
+chatGPT reasoning</a>
+</li>
+<li>
+<a href="https://learn.deeplearning.ai/courses/chatgpt-prompt-eng" target="_blank" rel="noopener noreferrer">Prompting</a>
+</li>
+<li>
+<a href="https://learn.deeplearning.ai/courses/building-toward-computer-use-with-anthropic" target="_blank" rel="noopener noreferrer">Anthropic</a>
+</li>
+<li>
+<a href="https://learn.deeplearning.ai/courses/ai-python-for-beginners/" target="_blank" rel="noopener noreferrer">Python</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+METHODS &amp; LEARNING
+</h3>
+<ul>
+<li>
+<a href="https://doing-meta.guide/" target="_blank" rel="noopener noreferrer">Welcome!
+| Doing Meta-Analysis in R</a>
+</li>
+<li>
+<a href="https://www.udemy.com/course/dimension-reduction-and-source-separation-in-neuroscience/" target="_blank" rel="noopener noreferrer">Multivariate
+signal processing</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1FO_yzufPMQaJdQftFnX0fZi9aYIH90Xq" target="_blank" rel="noopener noreferrer">Multivariate
+signal processing</a>
+</li>
+<li>
+<a href="https://www.udemy.com/course/solved-challenges-ants" target="_blank" rel="noopener noreferrer">Complete
+neural signal processing</a>
+</li>
+<li>
+<a href="https://app.datacamp.com/" target="_blank" rel="noopener noreferrer">Datacamp</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+EEG COURSES
+</h3>
+<ul>
+<li>
+<a href="https://www.udemy.com/solved-challenges-ants/learn/v4/overview" target="_blank" rel="noopener noreferrer">MXC
+(Udemy)</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@cuttingeeg4866" target="_blank" rel="noopener noreferrer">cutting
+EEG</a>
+</li>
+<li>
+<a href="https://neuroimage.usc.edu/brainstorm/" target="_blank" rel="noopener noreferrer">Brainstorm</a>
+</li>
+<li>
+<a href="http://docs.openbci.com/Tutorials/00-Tutorials" target="_blank" rel="noopener noreferrer">Tutorials</a>
+</li>
+<li>
+<a href="http://mikexcohen.com/lectures.html" target="_blank" rel="noopener noreferrer">MXC
+lectures</a>
+</li>
+<li>
+<a href="https://livemeeg2020.org/" target="_blank" rel="noopener noreferrer">LiveMEEG
+2020</a>
+</li>
+<li>
+<a href="https://cuttingeeg2021.lpl-aix.fr/" target="_blank" rel="noopener noreferrer">CuttingEEG
+2021</a>
+</li>
+<li>
+<a href="https://cuttingeegx.org/" target="_blank" rel="noopener noreferrer">CuttingEEG
+X | Evolution / REvolution</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+ONLINE COURSES
+</h3>
+<ul>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus" target="_blank" rel="noopener noreferrer">Statistical
+Rethinking 2023</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLUjkffE6WaSLu4gR1dpCMMeQm4Kma-aao" target="_blank" rel="noopener noreferrer">CuttingGardens2023</a>
+</li>
+<li>
+<a href="https://socviz.co/index.html#preface" target="_blank" rel="noopener noreferrer">R:
+data visualization</a>
+</li>
+<li>
+<a href="https://lindeloev.github.io/tests-as-linear/" target="_blank" rel="noopener noreferrer">R:
+statistical tests are linear models</a>
+</li>
+<li>
+<a href="https://ccs-lab.github.io/hBayesDM/articles/getting_started.html" target="_blank" rel="noopener noreferrer">Getting
+Started • hBayesDM</a>
+</li>
+<li>
+<a href="https://runestone.academy/runestone/books/published/thinkcspy/index.html" target="_blank" rel="noopener noreferrer">Computer
+Science</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI&amp;list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" target="_blank" rel="noopener noreferrer">Machine
+Learning</a>
+</li>
+<li>
+<a href="https://www.youtube.com/c/3blue1brown/videos?view=0&amp;sort=da&amp;flow=grid" target="_blank" rel="noopener noreferrer">3Blue1Brown</a>
+</li>
+<li>
+<a href="https://www.youtube.com/c/joshstarmer/playlists" target="_blank" rel="noopener noreferrer">StatQuest</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr" target="_blank" rel="noopener noreferrer">Statistics</a>
+</li>
+<li>
+<a href="https://www.youtube.com/c/OnlineLearningSharePointonlineDataScience/playlists" target="_blank" rel="noopener noreferrer">Data
+Science</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@elcerebroyyo5186/videos" target="_blank" rel="noopener noreferrer">El
+Cerebro y Yo</a>
+</li>
+<li>
+<a href="https://www.coursera.org/learn/fundamentos-de-la-electronica-analogica" target="_blank" rel="noopener noreferrer">Electrónica
+analógica</a>
+</li>
+<li>
+<a href="https://www.coursera.org/learn/ai-for-everyone" target="_blank" rel="noopener noreferrer">AI
+For Everyone</a>
+</li>
+<li>
+<a href="https://www.coursera.org/specializations/practical-data-science-matlab" target="_blank" rel="noopener noreferrer">Practical
+Data Science with MATLAB</a>
+</li>
+<li>
+<a href="https://www.coursera.org/learn/emprendimiento-social-negocios-sustentable-canvas-sociales" target="_blank" rel="noopener noreferrer">Diseño
+y Creación de un Emprendimiento Social</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+WATCH / READ LATER
+</h3>
+<ul>
+<li>
+<a href="https://open.uchile.cl/courses/course-v1:openuchile+VTI-DU+2026_1/course/" target="_blank" rel="noopener noreferrer">Course
+| VTI-DU | Open UChile</a>
+</li>
+<li>
+<a href="https://www.brainpickings.org/" target="_blank" rel="noopener noreferrer">Brain
+Pickings</a>
+</li>
+<li>
+<a href="https://youarenotsosmart.com/" target="_blank" rel="noopener noreferrer">You
+Are Not So Smart</a>
+</li>
+<li>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=schizophrenia%2C+motor%2C+action" target="_blank" rel="noopener noreferrer">schizophrenia,
+motor, action</a>
+</li>
+<li>
+<a href="http://pdf-giant.com/tags/new%20scientist" target="_blank" rel="noopener noreferrer">new
+scientist | PDF Giant | download free pdf magazine</a>
+</li>
+<li>
+<a href="http://www.da.ugent.be/school2014/index.php?position=1x2x0" target="_blank" rel="noopener noreferrer">Training
+School 2014</a>
+</li>
+<li>
+<a href="https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention" target="_blank" rel="noopener noreferrer">Tristan
+Harris: How a handful of tech companies control billions of minds every
+day | TED Talk</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1368XaTlqDrFeVx5CvZwqmTsmXQRnSD3q" target="_blank" rel="noopener noreferrer">BrainM</a>
+</li>
+<li>
+<a href="https://groups.google.com/g/jspsych" target="_blank" rel="noopener noreferrer">jsPsych
+- Google Groups</a>
+</li>
+<li>
+<a href="https://drive.google.com/drive/folders/1v1lBeSp0w6OQz76XAMf0ziWquhr0ShiU" target="_blank" rel="noopener noreferrer">Fondecyt
+2019 PSYMO</a>
+</li>
+<li>
+<a href="https://www.quora.com/" target="_blank" rel="noopener noreferrer">Quora</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+RADIO &amp; MUSIC
+</h3>
+<ul>
+<li>
+<a href="https://envivo.radiounochile.cl/" target="_blank" rel="noopener noreferrer">Radio
+Uno</a>
+</li>
+<li>
+<a href="https://www.toromondo.com/" target="_blank" rel="noopener noreferrer">Retrolatina
+Radio</a>
+</li>
+<li>
+<a href="http://envivo.rockandpop.cl/" target="_blank" rel="noopener noreferrer">Rock
+&amp; Pop</a>
+</li>
+<li>
+<a href="https://www.duna.cl/player/" target="_blank" rel="noopener noreferrer">Duna</a>
+</li>
+<li>
+<a href="https://www.fip.fr/" target="_blank" rel="noopener noreferrer">FIP</a>
+</li>
+<li>
+<a href="https://www.kexp.org/" target="_blank" rel="noopener noreferrer">KEXP
+90.3 FM</a>
+</li>
+<li>
+<a href="https://www.portaldisc.com/artista/ELCRUCE" target="_blank" rel="noopener noreferrer">El
+Cruce - PortalDisc</a>
+</li>
+<li>
+<a href="https://rainymood.com/" target="_blank" rel="noopener noreferrer">Rainy
+Mood</a>
+</li>
+<li>
+<a href="http://thenostalgiamachine.com/" target="_blank" rel="noopener noreferrer">The
+Nostalgia Machine</a>
+</li>
+<li>
+<a href="https://musiclab.chromeexperiments.com/Experiments" target="_blank" rel="noopener noreferrer">Chrome
+Music Lab</a>
+</li>
+<li>
+<a href="https://www.ultimate-guitar.com/explore" target="_blank" rel="noopener noreferrer">Ultimate-Guitar</a>
+</li>
+<li>
+<a href="https://www.anyonecanplayguitar.co.uk/a-robert-johnson-style-acoustic-blues/" target="_blank" rel="noopener noreferrer">Robert
+Johnson-Style blues</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+MEDIA
+</h3>
+<ul>
+<li>
+<a href="https://mubi.com/" target="_blank" rel="noopener noreferrer">MUBI</a>
+</li>
+<li>
+<a href="https://www.ultimate-guitar.com/" target="_blank" rel="noopener noreferrer">Ultimate
+Guitar</a>
+</li>
+<li>
+<a href="https://open.spotify.com/collection/podcasts" target="_blank" rel="noopener noreferrer">Spotify</a>
+</li>
+<li>
+<a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">Home</a>
+</li>
+<li>
+<a href="https://www.youtube.com/@MindAmend/playlists" target="_blank" rel="noopener noreferrer">Jason
+Lewis</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=7qJFyxZkTuU" target="_blank" rel="noopener noreferrer">Heavy
+Rain and Wind Sounds Black Screen</a>
+</li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PLveg0IEcZWN6o9A_PNCF2x32j8KhlK2iL" target="_blank" rel="noopener noreferrer">Gamma
+Wave Isochronic Tones</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=fUgETrwW3kM" target="_blank" rel="noopener noreferrer">Giraffe
+Mix</a>
+</li>
+<li>
+<a href="https://www.youtube.com/feed/library" target="_blank" rel="noopener noreferrer">Library</a>
+</li>
+<li>
+<a href="https://www.soundslice.com/slices/-vdYc/edit/" target="_blank" rel="noopener noreferrer">Edit:
+Blues 1 | Soundslice</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+NEWS
+</h3>
+<ul>
+<li>
+<a href="https://www.latercera.com/" target="_blank" rel="noopener noreferrer">La
+Tercera</a>
+</li>
+<li>
+<a href="https://www.lun.com/" target="_blank" rel="noopener noreferrer">Lun</a>
+</li>
+<li>
+<a href="http://www.elmostrador.cl/" target="_blank" rel="noopener noreferrer">Mostrador</a>
+</li>
+<li>
+<a href="http://www.pauta.cl/pauta/site/tax/port/all/taxport_1_21__1.html" target="_blank" rel="noopener noreferrer">Pauta</a>
+</li>
+<li>
+<a href="https://elpais.com/elpais/portada_america.html" target="_blank" rel="noopener noreferrer">EL
+PAÍS</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PRACTICAL LEARNING
+</h3>
+<ul>
+<li>
+<a href="https://www.youtube.com/@DrAndyStapleton/videos" target="_blank" rel="noopener noreferrer">Andy
+Stapleton</a>
+</li>
+<li>
+<a href="https://aprende.org/cursos/view/36" target="_blank" rel="noopener noreferrer">Mecánica
+automotriz</a>
+</li>
+<li>
+<a href="https://www.youtube.com/c/TipsdelProfe/playlists" target="_blank" rel="noopener noreferrer">Mecánica
+- Tips del Profe</a>
+</li>
+<li>
+<a href="https://aprende.org/cursos/view/201" target="_blank" rel="noopener noreferrer">Barista</a>
+</li>
+<li>
+<a href="https://aprende.org/cursos/view/95" target="_blank" rel="noopener noreferrer">Cosecha
+y cultivo de agua</a>
+</li>
+<li>
+<a href="https://aprende.org/cursos/view/50" target="_blank" rel="noopener noreferrer">Técnico
+en electrónica</a>
+</li>
+<li>
+<a href="https://aprende.org/cursos/view/184" target="_blank" rel="noopener noreferrer">Fundamentos
+de electrónica digital</a>
+</li>
+<li>
+<a href="https://aprende.org/pages.php?r=.cfcs_course&amp;tagID=7930" target="_blank" rel="noopener noreferrer">Programador
+de microcontroladores</a>
+</li>
+<li>
+<a href="https://aprende.org/pages.php?r=.cfcs_course&amp;tagID=936" target="_blank" rel="noopener noreferrer">Curador
+de datos</a>
+</li>
+<li>
+<a href="https://aprende.org/pages.php?r=.cfcs_course&amp;tagID=4066" target="_blank" rel="noopener noreferrer">Administrador
+de bases de datos</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+DOMESTIC UTILITIES
+</h3>
+<ul>
+<li>
+<a href="https://www.google.com/maps" target="_blank" rel="noopener noreferrer">Maps</a>
+</li>
+<li>
+<a href="https://www.planvital.cl/" target="_blank" rel="noopener noreferrer">AFP
+PlanVital</a>
+</li>
+<li>
+<a href="https://www.consorcio.cl/web/cela" target="_blank" rel="noopener noreferrer">Consorcio</a>
+</li>
+<li>
+<a href="https://www.mercadolibre.cl/" target="_blank" rel="noopener noreferrer">Mercado
+Libre Chile</a>
+</li>
+<li>
+<a href="https://www.google.com/maps/about/mymaps/" target="_blank" rel="noopener noreferrer">My
+Maps</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+PERSONAL
+</h3>
+<ul>
+<li>
+<a href="https://www.bancoestado.cl/" target="_blank" rel="noopener noreferrer">Banco
+Estado</a>
+</li>
+<li>
+<a href="https://ww3.bancochile.cl/wps/wcm/connect/Personas/Portal/Inicio" target="_blank" rel="noopener noreferrer">Banco
+de Chile</a>
+</li>
+<li>
+<a href="https://seguros.sura.cl/acceso/clientes" target="_blank" rel="noopener noreferrer">SURA</a>
+</li>
+<li>
+<a href="https://miwom.wom.cl/home/" target="_blank" rel="noopener noreferrer">WOM</a>
+</li>
+<li>
+<a href="https://www.evernote.com/client/web?login=true" target="_blank" rel="noopener noreferrer">Evernote</a>
+</li>
+<li>
+<a href="https://m.uber.com/looking" target="_blank" rel="noopener noreferrer">Uber</a>
+</li>
+<li>
+<a href="https://me.houm.com/landlord" target="_blank" rel="noopener noreferrer">Houm</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+COVID ARCHIVE
+</h3>
+<ul>
+<li>
+<a href="https://www.enquefase.cl/" target="_blank" rel="noopener noreferrer">En
+qué fase</a>
+</li>
+<li>
+<a href="https://www.worldometers.info/coronavirus/#countries" target="_blank" rel="noopener noreferrer">Worldometer</a>
+</li>
+<li>
+<a href="https://medium.com/@joschabach/flattening-the-curve-is-a-deadly-delusion-eea324fe9727" target="_blank" rel="noopener noreferrer">Don’t
+“Flatten the Curve</a>
+</li>
+<li>
+<a href="https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses" target="_blank" rel="noopener noreferrer">OMS</a>
+</li>
+<li>
+<a href="https://alhill.shinyapps.io/COVID19seir/" target="_blank" rel="noopener noreferrer">Modeling
+COVID-19 Spread vs Healthcare Capacity</a>
+</li>
+<li>
+<a href="https://virginiabehm.maps.arcgis.com/apps/opsdashboard/index.html#/12165595ee004f8c84ecba5f89c702fc" target="_blank" rel="noopener noreferrer">COVID19
+por regiones de Chile</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+FIREFOX
+</h3>
+<ul>
+<li>
+<a href="https://support.mozilla.org/products/firefox" target="_blank" rel="noopener noreferrer">Get
+Help</a>
+</li>
+<li>
+<a href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" target="_blank" rel="noopener noreferrer">Customize
+Firefox</a>
+</li>
+<li>
+<a href="https://www.mozilla.org/contribute/" target="_blank" rel="noopener noreferrer">Get
+Involved</a>
+</li>
+<li>
+<a href="https://www.mozilla.org/about/" target="_blank" rel="noopener noreferrer">About
+Us</a>
+</li>
+</ul>
+</div>
+<div class="toolkit-box">
+<h3>
+OTHER BOOKMARKS
+</h3>
+<ul>
+<li>
+<a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkQxqnmDRJGhbQzQDTzxJXfn" target="_blank" rel="noopener noreferrer">Participantes
+Experimentos ML - <a href="mailto:joseluisblues@gmail.com"
+class="email">joseluisblues@gmail.com</a> - Gmail</a>
+</li>
+<li>
+<a href="file:///C:/Users/Usuario/Desktop/ordenar">Unnamed local-folder
+bookmark</a>
+</li>
+</ul>
+</div>
 </div>
 
 
