@@ -56,7 +56,6 @@ title: "Toolkit"
 ### MAIN
 
 - <a href="obsidian://open">Obsidian</a>
-- <a href="file:///C:/Users/Usuario/Desktop/NOW.md">NOW (Notepad++)</a>
 - <a href="https://mail.google.com/mail" target="_blank">Gmail</a>
 - <a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a>
 - <a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a>\
