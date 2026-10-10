@@ -63,6 +63,38 @@ title: "Toolkit"
 <h3>IN STUDY NOW</h3>
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63quuKvMHCt3cmTmt0O2qpv" target="_blank" rel="noopener noreferrer">Economic Applications of Game Theory</a></li>
+  <li><a href="https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2025/lists/lecture-notes/" target="_blank" rel="noopener noreferrer">Economic Applications of Game Theory (Lecture Notes)</a></li>  
+  <li><a href="https://play.google.com/books/reader?id=K9b4CAAAAEAJ&pg=GBS.PA24_293" target="_blank" rel="noopener noreferrer">Strategy</a></li>  
+  
+</ul>
+</div>
+
+
+
+
+<div class="toolkit-box">
+<h3>FONDECYT 2026</h3>
+<ul>
+  <li><a href="https://drive.google.com/drive/folders/1pT7i3PNUvK3I-T88TyzDrPIRfeJlg18r" target="_blank" rel="noopener noreferrer">Main Drive</a></li>
+  <li><a href="https://forms.office.com/Pages/DesignPagev2.aspx" target="_blank" rel="noopener noreferrer" >Form (TD)</a></li>
+  <li><a href="https://udetalca-my.sharepoint.com/:x:/r/personal/joulloa_utalca_cl/_layouts/15/doc2.aspx?sourcedoc=%7BABAA4972-E43F-4CE3-8D45-3DEA7069965D%7D&file=Inscripci%C3%B3n%20Estudio%20Toma%20de%20Decisiones.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=6c843621-5a56-4394-9f3a-575718ccc181" target="_blank" rel="noopener noreferrer" >Responses(TD)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1ORkFe4KUloAVZSnS7cx-EgErfOep2Ddq" target="_blank" rel="noopener noreferrer">Pre-registr</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1ErPC0z8ImI-DPmer71Yi4svWLrn4xJUw" target="_blank" rel="noopener noreferrer">Pre-registr</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1noUd7WIvIhYp3sJ31DUiOlTxpgPghNcZ" target="_blank" rel="noopener noreferrer">Fondecyt (shared)</a></li>
+</ul>
+</div>
+
+
+
+
+<div class="toolkit-box">
+<h3>NEWS</h3>
+<ul>
+  <li><a href="https://www.latercera.com/" target="_blank" rel="noopener noreferrer">La Tercera</a></li>
+  <li><a href="https://www.lun.com/" target="_blank" rel="noopener noreferrer">Lun</a></li>
+  <li><a href="http://www.elmostrador.cl/" target="_blank" rel="noopener noreferrer">Mostrador</a></li>
+  <li><a href="http://www.pauta.cl/pauta/site/tax/port/all/taxport_1_21__1.html" target="_blank" rel="noopener noreferrer">Pauta</a></li>
+  <li><a href="https://elpais.com/elpais/portada_america.html" target="_blank" rel="noopener noreferrer">EL PAÍS</a></li>
 </ul>
 </div>
 
@@ -80,6 +112,9 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1g7wQR9Auuq6NrOka90EyV0NjYKbMhbAj" target="_blank" rel="noopener noreferrer">CognitionRun JSFiles</a></li>
 </ul>
 </div>
+
+
+
 
 <div class="toolkit-box">
 <h3>PSYMO</h3>
@@ -218,17 +253,7 @@ title: "Toolkit"
 </ul>
 </div>
 
-<div class="toolkit-box">
-<h3>FONDECYT 2026</h3>
-<ul>
-  <li><a href="https://drive.google.com/drive/folders/1pT7i3PNUvK3I-T88TyzDrPIRfeJlg18r" target="_blank" rel="noopener noreferrer">2026_1_Fondecyt</a></li>
-  <li><a href="https://forms.office.com/Pages/DesignPagev2.aspx" target="_blank" rel="noopener noreferrer" title="Also saved as: Microsoft Forms (Bookmarks Toolbar / Work / Projects / Fondecyt_2026)">Forms2</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1irhZgPVm4Ef8YrV1QPzExFuzUtEZo3DL" target="_blank" rel="noopener noreferrer">Fondecyt_2026_finanzas</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1ORkFe4KUloAVZSnS7cx-EgErfOep2Ddq" target="_blank" rel="noopener noreferrer">EEG_preregistration</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1ErPC0z8ImI-DPmer71Yi4svWLrn4xJUw" target="_blank" rel="noopener noreferrer">Pre_registro</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1noUd7WIvIhYp3sJ31DUiOlTxpgPghNcZ" target="_blank" rel="noopener noreferrer">2026_1_Fondecyt_Ulloa (internal group)</a></li>
-</ul>
-</div>
+
 
 <div class="toolkit-box">
 <h3>GUIOMAR / FOVI</h3>
@@ -838,16 +863,7 @@ title: "Toolkit"
 </ul>
 </div>
 
-<div class="toolkit-box">
-<h3>NEWS</h3>
-<ul>
-  <li><a href="https://www.latercera.com/" target="_blank" rel="noopener noreferrer">La Tercera</a></li>
-  <li><a href="https://www.lun.com/" target="_blank" rel="noopener noreferrer">Lun</a></li>
-  <li><a href="http://www.elmostrador.cl/" target="_blank" rel="noopener noreferrer">Mostrador</a></li>
-  <li><a href="http://www.pauta.cl/pauta/site/tax/port/all/taxport_1_21__1.html" target="_blank" rel="noopener noreferrer">Pauta</a></li>
-  <li><a href="https://elpais.com/elpais/portada_america.html" target="_blank" rel="noopener noreferrer">EL PAÍS</a></li>
-</ul>
-</div>
+
 
 <div class="toolkit-box">
 <h3>PRACTICAL LEARNING</h3>
