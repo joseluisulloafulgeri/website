@@ -55,11 +55,14 @@ title: "Toolkit"
 
 ### MAIN
 
+- <a href="obsidian://open">Obsidian</a>
+- <a href="file:///C:/Users/Usuario/Desktop/NOW.md">NOW (Notepad++)</a>
 - <a href="https://mail.google.com/mail" target="_blank">Gmail</a>
 - <a href="https://calendar.google.com/calendar/u/0/r" target="_blank">Calendar</a>
 - <a href="https://drive.google.com/drive/my-drive" target="_blank">Drive</a>\
 - <a href="https://www.evernote.com/client/web?login=true" target="_blank">Evernote</a>
 - <a href="https://dictation.io/speech" target="_blank">Dictation</a>
+- <a href="https://translate.google.com/?sl=en&tl=es&op=translate" target="_blank">Translate</a>
 - My Zoom: https://reuna.zoom.us/j/99816229969 \
 
 </div>
@@ -100,6 +103,10 @@ title: "Toolkit"
 - <a href="https://www.zipgrade.com/" target="_blank">Zipgrade</a>
 - <a href="https://thebestpdf.com/" target="_blank">TheBestPDF (do many things)</a>
 - <a href="https://www.youtube-transcript.io/" target="_blank">Youtube-trasncript (transcripts from YouTube)</a>
+- <a href="https://www.opensubtitles.org/en/search/subs" target="_blank">Get subtitles</a>
+- <a href="https://downsub.com/" target="_blank">Get subtitles</a>
+- <a href="https://my-subs.co/" target="_blank">Get subtitles</a>
+- <a href="https://subtitletools.com/" target="_blank">Subtitle tools</a>
 
 </div>
 
