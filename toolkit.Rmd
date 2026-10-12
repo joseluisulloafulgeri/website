@@ -34,11 +34,12 @@ title: "Toolkit"
 <div class="toolkit-grid">
 
 <div class="toolkit-box">
-<h3>START</h3>
+<h3>START HERE</h3>
 <ul>
   <li><a href="obsidian://open">Obsidian</a></li>
   <li><a href="https://calendar.google.com/calendar/u/0/r" target="_blank" rel="noopener noreferrer" >Calendar</a></li>
   <li><a href="https://dictation.io/speech" target="_blank" rel="noopener noreferrer">Dictation</a></li>
+  <li><a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>  
 </ul>
 </div>
 
@@ -46,7 +47,7 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>MAIN</h3>
+<h3>EVERYDAY</h3>
 <ul>
   <li><a href="https://mail.google.com/mail" target="_blank" rel="noopener noreferrer">Gmail</a></li>
   <li><a href="https://drive.google.com/drive/my-drive" target="_blank" rel="noopener noreferrer">Drive</a></li>
@@ -60,7 +61,7 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>IN STUDY NOW</h3>
+<h3>STUDY NOW</h3>
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63quuKvMHCt3cmTmt0O2qpv" target="_blank" rel="noopener noreferrer">MIT Game Theory</a></li>
   <li><a href="https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2025/lists/lecture-notes/" target="_blank" rel="noopener noreferrer">MIT Game Theory (Lecture Notes)</a></li>  
@@ -74,8 +75,8 @@ title: "Toolkit"
 <div class="toolkit-box">
 <h3>FONDECYT 2026</h3>
 <ul>
-  <li><a href="https://drive.google.com/drive/folders/1pT7i3PNUvK3I-T88TyzDrPIRfeJlg18r" target="_blank" rel="noopener noreferrer">Main Drive</a></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1wT3F_IKhQXrQTMJv3-AYSNaIaTXcODDnFG4paUZYEvY/edit?gid=510800394#gid=510800394" target="_blank" rel="noopener noreferrer">Base datos UNBIND</a></li>  
+  <li><a href="https://drive.google.com/drive/folders/1pT7i3PNUvK3I-T88TyzDrPIRfeJlg18r" target="_blank" rel="noopener noreferrer">Drive</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1wT3F_IKhQXrQTMJv3-AYSNaIaTXcODDnFG4paUZYEvY/edit?gid=510800394#gid=510800394" target="_blank" rel="noopener noreferrer">Database Phase 1</a></li>  
   <li><a href="https://forms.office.com/Pages/DesignPagev2.aspx" target="_blank" rel="noopener noreferrer" >Form (TD)</a></li>
   <li><a href="https://udetalca-my.sharepoint.com/:x:/r/personal/joulloa_utalca_cl/_layouts/15/doc2.aspx?sourcedoc=%7BABAA4972-E43F-4CE3-8D45-3DEA7069965D%7D&file=Inscripci%C3%B3n%20Estudio%20Toma%20de%20Decisiones.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=6c843621-5a56-4394-9f3a-575718ccc181" target="_blank" rel="noopener noreferrer" >Responses(TD)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1ORkFe4KUloAVZSnS7cx-EgErfOep2Ddq" target="_blank" rel="noopener noreferrer">Pre-registr</a></li>
@@ -89,10 +90,10 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>CINE YOUTUBE</h3>
+<h3>CINE COURSES</h3>
 <ul>
   <li><a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Bookdown</a></li>
-  <li><a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">YT StudioBinder</a></li>
+  <li><a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">StudioBinder</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj" target="_blank" rel="noopener noreferrer">MIT The Film Experience</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLrwUnL23zrPvip0v2HuFysocXdw8Ut_k8" target="_blank" rel="noopener noreferrer">Hitchcock-Truffaut Interview</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX" target="_blank" rel="noopener noreferrer">Film History</a></li>
@@ -721,7 +722,6 @@ title: "Toolkit"
 <ul>
   <li><a href="https://web.telegram.org/a/" target="_blank" rel="noopener noreferrer">Telegram</a></li>
   <li><a href="https://www.instagram.com/estudio_psiquis/" target="_blank" rel="noopener noreferrer">estudio_psiquis</a></li>
-  <li><a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>
   <li><a href="https://www.instagram.com/joseluisblues/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
   <li><a href="https://web.facebook.com/messages" target="_blank" rel="noopener noreferrer">Facebook</a></li>
   <li><a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Discord</a></li>
