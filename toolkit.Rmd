@@ -49,7 +49,7 @@ title: "Toolkit"
 <h3>EVERYDAY</h3>
 <ul>
   <li><a href="https://mail.google.com/mail" target="_blank" rel="noopener noreferrer">Gmail</a></li>
-  <li><a href="https://outlook.office.com/mail/" target="_blank" rel="noopener noreferrer">Outlook</a></li>  
+  <li><a href="https://outlook.cloud.microsoft/mail/" target="_blank" rel="noopener noreferrer">Outlook</a></li>  
   <li><a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer">WhatsApp</a></li>    
   <li><a href="https://drive.google.com/drive/my-drive" target="_blank" rel="noopener noreferrer">Drive</a></li>
   <li><a href="https://www.evernote.com/client/web?login=true" target="_blank" rel="noopener noreferrer">Evernote</a></li>
