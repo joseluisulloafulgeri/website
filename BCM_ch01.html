@@ -1705,6 +1705,32 @@ background-color: #333333 !important;
 color: white !important;
 border-color: #777 !important;
 }
+
+@media (max-width: 767px) {
+#TOC.tocify {
+position: fixed !important;
+top: 55px !important;
+left: 5px !important;
+width: 120px !important;
+max-width: 120px !important;
+max-height: calc(100vh - 65px) !important;
+overflow-y: auto !important;
+margin: 0 !important;
+font-size: 11px;
+}
+#TOC .tocify-item {
+display: block !important;
+float: none !important;
+white-space: normal !important;
+line-height: 1.3;
+}
+.toc-content {
+margin-left: 125px !important;
+width: calc(100% - 125px) !important;
+padding-left: 10px !important;
+padding-right: 5px !important;
+}
+}
 </style>
 <script>
 function setDarkMode(dark) {
