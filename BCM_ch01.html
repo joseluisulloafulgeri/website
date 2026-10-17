@@ -1706,29 +1706,47 @@ color: white !important;
 border-color: #777 !important;
 }
 
+#tocToggle {
+display: none;
+}
 @media (max-width: 767px) {
+#tocToggle {
+display: block;
+position: fixed;
+top: 10px;
+left: 10px;
+z-index: 10000;
+padding: 6px 12px;
+border: 1px solid #777;
+border-radius: 5px;
+background: white;
+color: black;
+}
 #TOC.tocify {
+display: none !important;
 position: fixed !important;
 top: 55px !important;
-left: 5px !important;
-width: 120px !important;
-max-width: 120px !important;
-max-height: calc(100vh - 65px) !important;
-overflow-y: auto !important;
+left: 10px !important;
+width: min(300px, calc(100vw - 20px)) !important;
+max-width: none !important;
+max-height: calc(100vh - 75px) !important;
 margin: 0 !important;
-font-size: 11px;
+overflow-y: auto !important;
+background: white;
+z-index: 9999;
+box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
 }
-#TOC .tocify-item {
+body.toc-open #TOC.tocify {
 display: block !important;
-float: none !important;
-white-space: normal !important;
-line-height: 1.3;
 }
 .toc-content {
-margin-left: 125px !important;
-width: calc(100% - 125px) !important;
-padding-left: 10px !important;
-padding-right: 5px !important;
+width: 100% !important;
+margin-left: 0 !important;
+padding: 55px 15px 0 !important;
+}
+body.dark-mode #tocToggle {
+background: #333;
+color: white;
 }
 }
 </style>
@@ -1749,6 +1767,36 @@ function toggleDarkMode() {
 document.addEventListener("DOMContentLoaded", function() {
   const saved = localStorage.getItem("darkMode");
   setDarkMode(saved === "true");
+});
+
+</script>
+<button id="tocToggle" type="button" aria-controls="TOC" aria-expanded="false">
+☰ Contents
+</button>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const button = document.getElementById("tocToggle");
+  const toc = document.getElementById("TOC");
+
+  function setOpen(open) {
+    document.body.classList.toggle("toc-open", open);
+    button.setAttribute("aria-expanded", String(open));
+    button.textContent = open ? "✕ Close" : "☰ Contents";
+  }
+
+  button.addEventListener("click", function () {
+    setOpen(!document.body.classList.contains("toc-open"));
+  });
+
+  toc.addEventListener("click", function (event) {
+    if (event.target.closest(".tocify-item, a")) {
+      setOpen(false);
+    }
+  });
+
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") setOpen(false);
+  });
 });
 </script>
 <div id="the-modelling-problem" class="section level1" number="1">
