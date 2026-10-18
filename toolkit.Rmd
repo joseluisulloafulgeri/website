@@ -67,7 +67,9 @@ title: "Toolkit"
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63quuKvMHCt3cmTmt0O2qpv" target="_blank" rel="noopener noreferrer">MIT Game Theory</a></li>
   <li><a href="https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2025/lists/lecture-notes/" target="_blank" rel="noopener noreferrer">MIT Game Theory (Lecture Notes)</a></li>  
-  <li><a href="https://play.google.com/books/reader?id=K9b4CAAAAEAJ" target="_blank" rel="noopener noreferrer">Strategy (book)</a></li>  
+  <li><a href="https://play.google.com/books/reader?id=K9b4CAAAAEAJ" target="_blank" rel="noopener noreferrer">Strategy (book)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/16F8tD4x7P_U_SsHvzbi87Wg2vLmD3zPW" target="_blank" rel="noopener noreferrer">Bayes (FMR)</a></li>
+  
 </ul>
 </div>
 
@@ -109,35 +111,15 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>CINE</h3>
-<ul>
-  <li><a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Bookdown cine</a></li>
-  <li><a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">StudioBinder</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj" target="_blank" rel="noopener noreferrer">MIT The Film Experience</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLrwUnL23zrPvip0v2HuFysocXdw8Ut_k8" target="_blank" rel="noopener noreferrer">Hitchcock-Truffaut Interview</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX" target="_blank" rel="noopener noreferrer">Film History</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw" target="_blank" rel="noopener noreferrer">Film Criticism</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx" target="_blank" rel="noopener noreferrer">Film Production</a></li>
-  <li><a href="https://www.youtube.com/@enminutos" target="_blank" rel="noopener noreferrer">En Minutos</a></li>
-  <li><a href="https://www.youtube.com/@A24" target="_blank" rel="noopener noreferrer">A24 films</a></li>
-</ul>
-</div>
-
-
-
-
-<div class="toolkit-box">
 <h3>COLLABS 1</h3>
 <ul>
-  <li><a href="https://drive.google.com/drive/folders/1jdOT5kCWi2wg4y9KYZcbQJ4BDTHgcrtA" target="_blank" rel="noopener noreferrer">Xplor FMR</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">EAM & Oliveros 2024</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1jdOT5kCWi2wg4y9KYZcbQJ4BDTHgcrtA" target="_blank" rel="noopener noreferrer">Xplor (FMR)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">EAM (Sarah)</a></li>
   <li><a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola Salas</a></li>
   
-  <li><a href="https://drive.google.com/drive/u/1/folders/1gAJ75tNi9orb_ARipeUBnMih3xj0zYM_" target="_blank" rel="noopener noreferrer">Xplor RC</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1eo9dHuuBzh-ed4Dz9aptpD8NJtanONDY" target="_blank" rel="noopener noreferrer">Xplor RC (Martin)</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1-_X2W-BKSChYKaOA4DX3l9xI2R1N9NTjukWGIYySvSw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Calendario CICC</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1gAJ75tNi9orb_ARipeUBnMih3xj0zYM_" target="_blank" rel="noopener noreferrer">Xplor (RC)</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1eo9dHuuBzh-ed4Dz9aptpD8NJtanONDY" target="_blank" rel="noopener noreferrer">Xplor (RC-Martin)</a></li>
 
-  <li><a href="https://drive.google.com/drive/folders/16F8tD4x7P_U_SsHvzbi87Wg2vLmD3zPW" target="_blank" rel="noopener noreferrer">Bayes w/ FMR</a></li>
   <li><a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank" rel="noopener noreferrer">DM-MEG</a></li>
 
   <li><a href="https://drive.google.com/drive/u/1/folders/11emv1NSX78xywmby9jNHFlXKaL8GzCsw" target="_blank" rel="noopener noreferrer">JC Fondecyt</a></li>
@@ -170,12 +152,14 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>CINE INSTAGRAM</h3>
+<h3>CINE PODCAST</h3>
 <ul>
-  <li><a href="https://www.instagram.com/theblackbarsofficial/" target="_blank" rel="noopener noreferrer">the blackbars official</a></li>
-  <li><a href="https://www.instagram.com/cine.y.psicologia/" target="_blank" rel="noopener noreferrer">cine.y.psicología</a></li>
-  <li><a href="https://www.instagram.com/berightback_productions/" target="_blank" rel="noopener noreferrer"> berightback_productions</a></li>
-  <li><a href="https://www.instagram.com/elenaylalinterna/" target="_blank" rel="noopener noreferrer">elenaylalinterna</a></li>
+  <li><a href="https://open.spotify.com/show/4rgnQa7R5rilttJ0uRft5N" target="_blank" rel="noopener noreferrer">El contador de películas SP</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLIIsBo7aQS3srgTzyEN3A2WMFn99WDXwl" target="_blank" rel="noopener noreferrer">El contador de películas YT</a></li>  
+
+  <li><a href="https://www.youtube.com/@A24" target="_blank" rel="noopener noreferrer">A24 films YT</a></li>  
+  <li><a href="https://www.youtube.com/@enminutos" target="_blank" rel="noopener noreferrer">En Minutos YT</a></li>
+  
 </ul>
 </div>
 
@@ -183,10 +167,30 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>PODCAST</h3>
+<h3>CINE LEARNING</h3>
 <ul>
-  <li><a href="https://open.spotify.com/collection/podcasts" target="_blank" rel="noopener noreferrer">Spotify</a></li>
-  <li><a href="https://open.spotify.com/episode/1GGFyHySRWNmgjM29IrYS5" target="_blank" rel="noopener noreferrer">¿Cómo suena la música en nuestro cerebro? • Hoy en el mundo</a></li>  
+  <li><a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">StudioBinder</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj" target="_blank" rel="noopener noreferrer">MIT The Film Experience</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLrwUnL23zrPvip0v2HuFysocXdw8Ut_k8" target="_blank" rel="noopener noreferrer">Hitchcock Interview</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX" target="_blank" rel="noopener noreferrer">Film History</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw" target="_blank" rel="noopener noreferrer">Film Criticism</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx" target="_blank" rel="noopener noreferrer">Film Production</a></li>
+</ul>
+</div>
+
+
+
+
+<div class="toolkit-box">
+<h3>CINE NEWS</h3>
+<ul>
+  <li><a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Bookdown cine</a></li>
+  <li><a href="https://www.instagram.com/cine.y.psicologia/" target="_blank" rel="noopener noreferrer">cine y psicología</a></li>
+
+  <li><a href="https://www.instagram.com/theblackbarsofficial/" target="_blank" rel="noopener noreferrer">the blackbars</a></li>
+
+  <li><a href="https://www.instagram.com/berightback_productions/" target="_blank" rel="noopener noreferrer"> berightback_productions</a></li>
+  <li><a href="https://www.instagram.com/elenaylalinterna/" target="_blank" rel="noopener noreferrer">elenaylalinterna</a></li>
 </ul>
 </div>
 
