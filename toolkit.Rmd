@@ -55,6 +55,7 @@ title: "Toolkit"
   <li><a href="https://www.evernote.com/client/web?login=true" target="_blank" rel="noopener noreferrer">Evernote</a></li>
   <li><a href="https://translate.google.com/?sl=en&amp;tl=es&amp;op=translate" target="_blank" rel="noopener noreferrer">Translate</a></li>
   <li><a href="https://reuna.zoom.us/j/99816229969" target="_blank" rel="noopener noreferrer" title="My Zoom">My Zoom</a></li>
+<li><a href="https://www.ai-toolbox.co/chatgpt-toolbox" target="_blank" rel="noopener noreferrer" title="My Zoom">A.I. toolbox</a></li>
 </ul>
 </div>
 
@@ -108,26 +109,60 @@ title: "Toolkit"
 
 
 <div class="toolkit-box">
-<h3>CINE COURSES</h3>
+<h3>CINE</h3>
 <ul>
-  <li><a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Bookdown</a></li>
+  <li><a href="https://joseluisulloafulgeri.github.io/website/cine.html" target="_blank" rel="noopener noreferrer">Bookdown cine</a></li>
   <li><a href="https://www.youtube.com/@StudioBinder/videos" target="_blank" rel="noopener noreferrer">StudioBinder</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj" target="_blank" rel="noopener noreferrer">MIT The Film Experience</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLrwUnL23zrPvip0v2HuFysocXdw8Ut_k8" target="_blank" rel="noopener noreferrer">Hitchcock-Truffaut Interview</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX" target="_blank" rel="noopener noreferrer">Film History</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw" target="_blank" rel="noopener noreferrer">Film Criticism</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx" target="_blank" rel="noopener noreferrer">Film Production</a></li>
+  <li><a href="https://www.youtube.com/@enminutos" target="_blank" rel="noopener noreferrer">En Minutos</a></li>
+  <li><a href="https://www.youtube.com/@A24" target="_blank" rel="noopener noreferrer">A24 films</a></li>
 </ul>
 </div>
 
-  
 
-  
+
+
 <div class="toolkit-box">
-<h3>CHECK FILMS</h3>
+<h3>COLLABS 1</h3>
 <ul>
-  <li><a href="https://www.youtube.com/@enminutos" target="_blank" rel="noopener noreferrer">En Minutos</a></li>
-  <li><a href="https://www.youtube.com/@A24" target="_blank" rel="noopener noreferrer">A24 films</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1jdOT5kCWi2wg4y9KYZcbQJ4BDTHgcrtA" target="_blank" rel="noopener noreferrer">Xplor FMR</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">EAM & Oliveros 2024</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola Salas</a></li>
+  
+  <li><a href="https://drive.google.com/drive/u/1/folders/1gAJ75tNi9orb_ARipeUBnMih3xj0zYM_" target="_blank" rel="noopener noreferrer">Xplor RC</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1eo9dHuuBzh-ed4Dz9aptpD8NJtanONDY" target="_blank" rel="noopener noreferrer">Xplor RC (Martin)</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1-_X2W-BKSChYKaOA4DX3l9xI2R1N9NTjukWGIYySvSw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Calendario CICC</a></li>
+
+  <li><a href="https://drive.google.com/drive/folders/16F8tD4x7P_U_SsHvzbi87Wg2vLmD3zPW" target="_blank" rel="noopener noreferrer">Bayes w/ FMR</a></li>
+  <li><a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank" rel="noopener noreferrer">DM-MEG</a></li>
+
+  <li><a href="https://drive.google.com/drive/u/1/folders/11emv1NSX78xywmby9jNHFlXKaL8GzCsw" target="_blank" rel="noopener noreferrer">JC Fondecyt</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1bUYmPFnjizXWnYOzUVc7TJqfEnuCKY_t" target="_blank" rel="noopener noreferrer">JC Fondeyct 2</a></li>
+</ul>
+</div>
+
+
+
+
+<div class="toolkit-box">
+<h3>COLLABS 2</h3>
+<ul>
+  <li><a href="https://drive.google.com/drive/folders/1ihGU5TmsY86uk-R-VvNtVmjF1zIzbptW" target="_blank" rel="noopener noreferrer">emBODY BodilyAnger</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1t01BjxFwpzW_Th5cb0iHEIU_ne_myiNK" target="_blank" rel="noopener noreferrer">emBODY Alejandra</a></li>
+
+  <li><a href="https://docs.google.com/document/d/1XGhaQRMqVDXacjA9t7Dv68fLsi-vOzo3mQb07kQQDxE/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Monica 2026</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1NqYXbKhOP3IYTdltY32ism42lhK2OBqz" target="_blank" rel="noopener noreferrer">Grupo IA</a></li>
+
+  <li><a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank" rel="noopener noreferrer">Camouflage</a></li>
+  <li><a href="https://drive.google.com/drive/u/1/folders/1da7X9BUeFrKLy7W_thQ_hetO24bU25Ec" target="_blank" rel="noopener noreferrer">Inv.Tecnol. </a></li>
+  <li><a href="https://drive.google.com/drive/folders/1Sx6_8g6bh3_aGoCOKrkypX5sZd0QOwkV" target="_blank" rel="noopener noreferrer">MAnalys</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank" rel="noopener noreferrer">EEG St.Tomas</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1CZzg5GfV8b47nKYN02p3BoUVcKkJ_xDq" target="_blank" rel="noopener noreferrer">Innov Escolar 2025</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1Rs3L76Q3qQZ7htDWPX08bDh2AeR8xqOr" target="_blank" rel="noopener noreferrer">Proyecto Martina</a></li>
 </ul>
 </div>
 
@@ -323,44 +358,6 @@ title: "Toolkit"
   <li><a href="https://docs.google.com/document/d/18NS9_YaFbFDRO4JxyY85Sny40hiCq2VEG0eesXrhgUk/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Colaboracion Hispana w Guiomar</a></li>
   <li><a href="https://drive.google.com/drive/folders/1K1meCrjsT5TRrJGi2CnkQZ_-omKOFdmZ" target="_blank" rel="noopener noreferrer">2026_FOVI</a></li>
   <li><a href="https://drive.google.com/drive/folders/1G7BnIhLWIJim4rYAdO0qAjQtTA3x_LXm" target="_blank" rel="noopener noreferrer">2026_Madrid</a></li>
-</ul>
-</div>
-
-
-
-
-<div class="toolkit-box">
-<h3>COLLABORATIONS</h3>
-<ul>
-  <li><a href="https://drive.google.com/drive/folders/16F8tD4x7P_U_SsHvzbi87Wg2vLmD3zPW" target="_blank" rel="noopener noreferrer">Bayesian cognitive modeling [w.FMR]</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">2026_EAM_Oliveros_2024_reanalys</a></li>
-  <li><a href="https://drive.google.com/drive/folders/18j8oyWo2wjIkMgasEVUy4UvYw-zBVgGG" target="_blank" rel="noopener noreferrer">DM-MEG</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1S82gZThqEkvDKlsz__UDTNaC6nXS3wsB" target="_blank" rel="noopener noreferrer">Camouflage</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1ihGU5TmsY86uk-R-VvNtVmjF1zIzbptW" target="_blank" rel="noopener noreferrer">BodilyAnger</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1da7X9BUeFrKLy7W_thQ_hetO24bU25Ec" target="_blank" rel="noopener noreferrer">Daniel_InvTecnol</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1Sx6_8g6bh3_aGoCOKrkypX5sZd0QOwkV" target="_blank" rel="noopener noreferrer">MAnalys</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank" rel="noopener noreferrer">EEG_St.Tomas</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola Salas</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/11emv1NSX78xywmby9jNHFlXKaL8GzCsw" target="_blank" rel="noopener noreferrer">JC Fondecyt</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1bUYmPFnjizXWnYOzUVc7TJqfEnuCKY_t" target="_blank" rel="noopener noreferrer">JC Fondeyct 2</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1CZzg5GfV8b47nKYN02p3BoUVcKkJ_xDq" target="_blank" rel="noopener noreferrer">2025_Innov_Escolar_Valentin_Letelier</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1Rs3L76Q3qQZ7htDWPX08bDh2AeR8xqOr" target="_blank" rel="noopener noreferrer">Proyecto Martina</a></li>
-  <li><a href="https://docs.google.com/document/d/1XGhaQRMqVDXacjA9t7Dv68fLsi-vOzo3mQb07kQQDxE/edit?tab=t.0" target="_blank" rel="noopener noreferrer">Monica_in_Chile_2026</a></li>
-  <li><a href="https://drive.google.com/drive/folders/1t01BjxFwpzW_Th5cb0iHEIU_ne_myiNK" target="_blank" rel="noopener noreferrer">2026_Alejandra_emBODY</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1NqYXbKhOP3IYTdltY32ism42lhK2OBqz" target="_blank" rel="noopener noreferrer">Grupo Investigación IA</a></li>
-</ul>
-</div>
-
-
-
-
-<div class="toolkit-box">
-<h3>CICC</h3>
-<ul>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1gAJ75tNi9orb_ARipeUBnMih3xj0zYM_" target="_blank" rel="noopener noreferrer">Exploracion</a></li>
-  <li><a href="https://drive.google.com/drive/u/1/folders/1eo9dHuuBzh-ed4Dz9aptpD8NJtanONDY" target="_blank" rel="noopener noreferrer">Martin_Schaffernicht</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1-_X2W-BKSChYKaOA4DX3l9xI2R1N9NTjukWGIYySvSw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">Calendario CICC</a></li>
-  <li><a href="https://www.dropbox.com/home/PIA%20Psicolog%C3%ADa%20UTALCA" target="_blank" rel="noopener noreferrer">PIA UTalca</a></li>
 </ul>
 </div>
 
