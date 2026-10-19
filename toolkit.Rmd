@@ -28,23 +28,23 @@ title: "Toolkit"
 }
 </style>
 
-
-
-
 <div class="toolkit-grid">
 
+
+```{r start-here, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>START HERE</h3>
 <ul>
   <li><a href="obsidian://open">Obsidian</a></li>
-  <li><a href="https://calendar.google.com/calendar/u/0/r" target="_blank" rel="noopener noreferrer" >Calendar</a></li>
+  <li><a href="https://calendar.google.com/calendar/u/0/r" target="_blank" rel="noopener noreferrer">Calendar</a></li>
   <li><a href="https://dictation.io/speech" target="_blank" rel="noopener noreferrer">Dictation</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r everyday, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>EVERYDAY</h3>
 <ul>
@@ -58,10 +58,10 @@ title: "Toolkit"
 <li><a href="https://www.ai-toolbox.co/chatgpt-toolbox" target="_blank" rel="noopener noreferrer" title="My Zoom">A.I. toolbox</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r study-now, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>STUDY NOW</h3>
 <ul>
@@ -72,10 +72,41 @@ title: "Toolkit"
   
 </ul>
 </div>
+)--")
+```
+```{r background-sounds, echo=FALSE, results='asis'}
+cat(r"--(
+<div class="toolkit-box">
+<h3>BACKGROUND SOUNDS</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=7qJFyxZkTuU" target="_blank" rel="noopener noreferrer">Heavy rain</a></li>
+  <li><a href="https://www.youtube.com/watch?v=BHA2HtS5p2Y" target="_blank" rel="noopener noreferrer">Airplane noise</a></li>
+  <li><a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank" rel="noopener noreferrer">Nature</a></li>
+  <li><a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank" rel="noopener noreferrer">Cafe music</a></li>
+  <li><a href="https://www.youtube.com/@RelaxingWhiteNoise" target="_blank" rel="noopener noreferrer">White noise</a></li>
+  <li><a href="https://rainymood.com/" target="_blank" rel="noopener noreferrer">Rainy Mood Web</a></li>
 
+  <li><a href="https://www.youtube.com/@MindAmend/playlists" target="_blank" rel="noopener noreferrer">Jason Lewis</a></li>
+  <li><a href="https://www.youtube.com/watch?v=fUgETrwW3kM" target="_blank" rel="noopener noreferrer">Giraffe Mix</a></li>
+</ul>
+</div>
+)--")
+```
+```{r playlists, echo=FALSE, results='asis'}
+cat(r"--(
+<div class="toolkit-box">
+<h3>PLAYLISTS</h3>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLWE7D8DLat0Vl9Q6gspKvulwajpC3U9QA" target="_blank" rel="noopener noreferrer">Shakira viejitas</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLEH_MKt4utKlywUg3gPrnequB24gIrGiq" target="_blank" rel="noopener noreferrer">Shakira: Music Videos</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLiJey_76CkNRu-K9eAfpYQgD9HuC25_v8" target="_blank" rel="noopener noreferrer">Pomplamoose Mashups</a></li>
 
-
-
+</ul>
+</div>
+)--")
+```
+```{r fondecyt-2026, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>FONDECYT 2026</h3>
 <ul>
@@ -89,27 +120,10 @@ title: "Toolkit"
   <li><a href="https://www.instagram.com/estudio_psiquis" target="_blank" rel="noopener noreferrer">estudio_psiquis</a></li> 
 </ul>
 </div>
-
-
-
-
-<div class="toolkit-box">
-<h3>BACKGROUND SOUNDS</h3>
-<ul>
-
-  <li><a href="https://www.youtube.com/@naturezarelaxante2728" target="_blank" rel="noopener noreferrer">Nature</a></li>
-  <li><a href="https://www.youtube.com/@cafemusicbgmchannel/" target="_blank" rel="noopener noreferrer">Cafe music</a></li>
-  <li><a href="https://www.youtube.com/@RelaxingWhiteNoise" target="_blank" rel="noopener noreferrer">White noise</a></li>
-  <li><a href="https://rainymood.com/" target="_blank" rel="noopener noreferrer">Rainy Mood Web</a></li>
-  <li><a href="https://www.youtube.com/watch?v=7qJFyxZkTuU" target="_blank" rel="noopener noreferrer">Heavy Rain</a></li>
-  <li><a href="https://www.youtube.com/@MindAmend/playlists" target="_blank" rel="noopener noreferrer">Jason Lewis</a></li>
-  <li><a href="https://www.youtube.com/watch?v=fUgETrwW3kM" target="_blank" rel="noopener noreferrer">Giraffe Mix</a></li>
-</ul>
-</div>
-
-
-
-
+)--")
+```
+```{r collabs-1, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>COLLABS 1</h3>
 <ul>
@@ -126,10 +140,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1bUYmPFnjizXWnYOzUVc7TJqfEnuCKY_t" target="_blank" rel="noopener noreferrer">JC Fondeyct 2</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r collabs-2, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>COLLABS 2</h3>
 <ul>
@@ -147,10 +161,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1Rs3L76Q3qQZ7htDWPX08bDh2AeR8xqOr" target="_blank" rel="noopener noreferrer">Proyecto Martina</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r cine-podcast, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CINE PODCAST</h3>
 <ul>
@@ -162,10 +176,10 @@ title: "Toolkit"
   
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r cine-learning, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CINE LEARNING</h3>
 <ul>
@@ -177,10 +191,10 @@ title: "Toolkit"
   <li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx" target="_blank" rel="noopener noreferrer">Film Production</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r cine-news, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CINE NEWS</h3>
 <ul>
@@ -193,10 +207,10 @@ title: "Toolkit"
   <li><a href="https://www.instagram.com/elenaylalinterna/" target="_blank" rel="noopener noreferrer">elenaylalinterna</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r news, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>NEWS</h3>
 <ul>
@@ -207,10 +221,10 @@ title: "Toolkit"
   <li><a href="https://elpais.com/elpais/portada_america.html" target="_blank" rel="noopener noreferrer">EL PAÍS</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r stuff, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>STUFF</h3>
 <ul>
@@ -223,10 +237,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1g7wQR9Auuq6NrOka90EyV0NjYKbMhbAj" target="_blank" rel="noopener noreferrer">CognitionRun JSFiles</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r psymo, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PSYMO</h3>
 <ul>
@@ -245,10 +259,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1pCUWqL2ueH7xFca8JTPCcveraI7aTOKh" target="_blank" rel="noopener noreferrer">Explora_Salud_mental_2020</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r utilities, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>UTILITIES</h3>
 <ul>
@@ -261,11 +275,11 @@ title: "Toolkit"
   <li><a href="https://www.psychometrica.de/effect_size.html" target="_blank" rel="noopener noreferrer">Effects size comparisons (14)</a></li>
   <li><a href="https://github.com/giocomai/ganttrify" target="_blank" rel="noopener noreferrer">ganttrify</a></li>
 </ul>
-</div>  
-
-
-
-
+</div>
+)--")
+```  
+```{r utalca, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>UTALCA</h3>
 <ul>
@@ -287,10 +301,10 @@ title: "Toolkit"
   <li><a href="https://hotspot.utalca.cl/login?dst=http%3A%2F%2Fwww.gstatic.com%2Fgenerate_204" target="_blank" rel="noopener noreferrer">Hotspot</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r jluf, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>JLUF</h3>
 <ul>
@@ -310,10 +324,10 @@ title: "Toolkit"
   <li><a href="https://joseluisulloafulgeri.github.io/R_repo/" target="_blank" rel="noopener noreferrer">R repository</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r jluf-bookdowns, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>JLUF bookdowns</h3>
 <ul>
@@ -326,10 +340,10 @@ title: "Toolkit"
   <li><a href="https://github.com/doctoradoenpsicologiautal/estadistica" target="_blank" rel="noopener noreferrer">R stats (GitHub)</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r watch-films-series, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>WATCH FILMS/SERIES</h3>
 <ul>
@@ -339,10 +353,10 @@ title: "Toolkit"
   <li><a href="https://www.youtube.com/@CanalUChileTV" target="_blank" rel="noopener noreferrer">UChile TV</a></li>
 </ul>
 </div>
-  
-  
-
-
+)--")
+```
+```{r cinema-ressources-drive, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CINEMA RESSOURCES DRIVE</h3>
 <ul>
@@ -352,10 +366,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1_QRpz6NxuTNGlo4G80FbU3lWkrZYCMCK" target="_blank" rel="noopener noreferrer">Cine_y_Psicol</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r guiomar-fovi, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>GUIOMAR / FOVI</h3>
 <ul>
@@ -364,10 +378,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1G7BnIhLWIJim4rYAdO0qAjQtTA3x_LXm" target="_blank" rel="noopener noreferrer">2026_Madrid</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r lab-community, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>LAB &amp; COMMUNITY</h3>
 <ul>
@@ -385,10 +399,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1SRFF4a2h8JYfB850CrCma0lZHqkwfHZP" target="_blank" rel="noopener noreferrer">MASH_1</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r eeg-meg, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>EEG &amp; MEG</h3>
 <ul>
@@ -408,10 +422,10 @@ title: "Toolkit"
   <li><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.00284/full" target="_blank" rel="noopener noreferrer">Niso 2019 Brainstorm</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r cutting-gardens-2026, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CUTTING GARDENS 2026</h3>
 <ul>
@@ -420,10 +434,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/10fJB_g7MlRYcGWkITe9ixn0TFHaeCk5t" target="_blank" rel="noopener noreferrer">2026_CTG2026_EEG_workshop</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r manuscripts, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>MANUSCRIPTS</h3>
 <ul>
@@ -433,10 +447,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1QfGntLu5tAToqtpM9ca9CJZPg2sK7lZ9" target="_blank" rel="noopener noreferrer">Paper Percepción del tiempo</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r paper-library, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PAPER LIBRARY</h3>
 <ul>
@@ -451,10 +465,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1I4fcM_7GdGk2hSe-x5j5K9iXapLSPtYN" target="_blank" rel="noopener noreferrer">Emo Maps</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r past-projects, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PAST PROJECTS</h3>
 <ul>
@@ -476,10 +490,10 @@ title: "Toolkit"
   <li><a href="https://github.com/nnapolitx/taller_R" target="_blank" rel="noopener noreferrer">nnapolitx/taller_R: taller_R</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r cutting-gardens-2023, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>CUTTING GARDENS 2023</h3>
 <ul>
@@ -492,10 +506,10 @@ title: "Toolkit"
   <li><a href="https://neuro.udp.cl/gardencl/" target="_blank" rel="noopener noreferrer">CuttingGardens @ Santiago, Chile</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r psa-spam-l, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PSA &amp; SPAM-L</h3>
 <ul>
@@ -504,10 +518,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/folders/1uFY1DuH52sJwVbATKJApqf-wIz3G3bmR" target="_blank" rel="noopener noreferrer">PSA 008 In-Group Biases</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r teaching-2026, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>TEACHING 2026</h3>
 <ul>
@@ -527,10 +541,10 @@ title: "Toolkit"
   <li><a href="https://lms.educandus.cl/my/" target="_blank" rel="noopener noreferrer">Área personal</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r theses-20262027, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>THESES 2026–2027</h3>
 <ul>
@@ -543,10 +557,10 @@ title: "Toolkit"
   <li><a href="https://drive.google.com/drive/u/1/folders/1uVybLSSoe87QJ3-U9z40ToTCQCCLcdl_" target="_blank" rel="noopener noreferrer">Tesis_2027_G2</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r postgraduate-teaching, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>POSTGRADUATE TEACHING</h3>
 <ul>
@@ -562,10 +576,10 @@ title: "Toolkit"
   <li><a href="https://postgrados.educandus.cl/course/view.php?id=2270" target="_blank" rel="noopener noreferrer">Curso: OPTATIVO ESPECIALIZADO 1 (OE 1) - Sección A</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r ethics-cefp, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>ETHICS &amp; CEFP</h3>
 <ul>
@@ -577,10 +591,10 @@ title: "Toolkit"
   <li><a href="https://docs.google.com/document/d/1gX99sd-qrAfBU0LRbscrunJlBWQ0tWxb76Ww1Fm2zx4/edit" target="_blank" rel="noopener noreferrer">Requerimientos CEFP</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r teaching-tools, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>TEACHING TOOLS</h3>
 <ul>
@@ -591,10 +605,10 @@ title: "Toolkit"
   <li><a href="https://www.techsmith.com/tutorial-camtasia.html" target="_blank" rel="noopener noreferrer">Camtasia Tutorials | TechSmith</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r journals, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>JOURNALS</h3>
 <ul>
@@ -616,10 +630,10 @@ title: "Toolkit"
   <li><a href="https://www-sciencedirect-com.utalca.idm.oclc.org/journal/psiquiatria-biologica" target="_blank" rel="noopener noreferrer">Psiquiatría Biológica</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r research-engines, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>RESEARCH ENGINES</h3>
 <ul>
@@ -637,10 +651,10 @@ title: "Toolkit"
   <li><a href="https://www.spreeder.com/app.php" target="_blank" rel="noopener noreferrer">Reader</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r academic-tools, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>ACADEMIC TOOLS</h3>
 <ul>
@@ -660,10 +674,10 @@ title: "Toolkit"
   <li><a href="https://onedrive.live.com/about/en-gb/signin/" target="_blank" rel="noopener noreferrer">One Drive</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r writing-language, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>WRITING &amp; LANGUAGE</h3>
 <ul>
@@ -683,10 +697,10 @@ title: "Toolkit"
   <li><a href="https://prowritingaid.com/en/Appclick/Extension/Analysis/WebEditor/Go?postChrome=true" target="_blank" rel="noopener noreferrer">PWA</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r pdf-tools, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PDF TOOLS</h3>
 <ul>
@@ -697,10 +711,10 @@ title: "Toolkit"
   <li><a href="https://online2pdf.com/en/convert-pdf-to-pptx#" target="_blank" rel="noopener noreferrer">Convert PDF to PPTX online &amp; free</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r video-tools, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>VIDEO TOOLS</h3>
 <ul>
@@ -713,10 +727,10 @@ title: "Toolkit"
   <li><a href="https://restream.io/tools" target="_blank" rel="noopener noreferrer">Online Video &amp; Audio Tools</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r subtitles-transcripts, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>SUBTITLES &amp; TRANSCRIPTS</h3>
 <ul>
@@ -729,10 +743,10 @@ title: "Toolkit"
   <li><a href="https://www.youtube-transcript.io/" target="_blank" rel="noopener noreferrer">Youtube transcripts</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r communication, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>COMMUNICATION</h3>
 <ul>
@@ -747,7 +761,10 @@ title: "Toolkit"
   <li><a href="https://app.slack.com/client/T03QTPSGA1E/C03Q41HNUBC" target="_blank" rel="noopener noreferrer">Exp Psychol &amp; Neuroscience</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r ai-tools, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>AI TOOLS</h3>
 <ul>
@@ -774,7 +791,10 @@ title: "Toolkit"
   <li><a href="https://character.ai/" target="_blank" rel="noopener noreferrer">character.ai</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r ai-courses, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>AI COURSES</h3>
 <ul>
@@ -784,7 +804,10 @@ title: "Toolkit"
   <li><a href="https://learn.deeplearning.ai/courses/ai-python-for-beginners/" target="_blank" rel="noopener noreferrer">Python</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r methods-learning, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>METHODS &amp; LEARNING</h3>
 <ul>
@@ -795,7 +818,10 @@ title: "Toolkit"
   <li><a href="https://app.datacamp.com/" target="_blank" rel="noopener noreferrer">Datacamp</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r eeg-courses, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>EEG COURSES</h3>
 <ul>
@@ -809,7 +835,10 @@ title: "Toolkit"
   <li><a href="https://cuttingeegx.org/" target="_blank" rel="noopener noreferrer">CuttingEEG X | Evolution / REvolution</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r online-courses, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>ONLINE COURSES</h3>
 <ul>
@@ -831,7 +860,10 @@ title: "Toolkit"
   <li><a href="https://www.coursera.org/learn/emprendimiento-social-negocios-sustentable-canvas-sociales" target="_blank" rel="noopener noreferrer">Diseño y Creación de un Emprendimiento Social</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r watch-read-later, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>WATCH / READ LATER</h3>
 <ul>
@@ -848,7 +880,10 @@ title: "Toolkit"
   <li><a href="https://www.quora.com/" target="_blank" rel="noopener noreferrer">Quora</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r radio-music, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>RADIO &amp; MUSIC</h3>
 <ul>
@@ -864,10 +899,10 @@ title: "Toolkit"
   <li><a href="https://www.youtube.com/feed/library" target="_blank" rel="noopener noreferrer">YT Library</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r songs, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>SONGS</h3>
 <ul>
@@ -876,12 +911,12 @@ title: "Toolkit"
   <li><a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank" rel="noopener noreferrer">Daft Punk | Something About Us | Pomplamoose</a></li>
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r do-music, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
-<h3>MUSIC RESSOURCES</h3>
+<h3>DO MUSIC</h3>
 <ul>
   <li><a href="https://www.ultimate-guitar.com/" target="_blank" rel="noopener noreferrer">Ultimate Guitar</a></li>  
   <li><a href="https://www.anyonecanplayguitar.co.uk/a-robert-johnson-style-acoustic-blues/" target="_blank" rel="noopener noreferrer">Robert Johnson-Style blues</a></li>
@@ -889,10 +924,10 @@ title: "Toolkit"
   <li><a href="https://www.soundslice.com/slices/-vdYc/edit/" target="_blank" rel="noopener noreferrer">Edit: Blues 1 | Soundslice</a></li>  
 </ul>
 </div>
-
-
-
-
+)--")
+```
+```{r practical-learning, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>PRACTICAL LEARNING</h3>
 <ul>
@@ -908,7 +943,10 @@ title: "Toolkit"
   <li><a href="https://aprende.org/pages.php?r=.cfcs_course&amp;tagID=4066" target="_blank" rel="noopener noreferrer">Administrador de bases de datos</a></li>
 </ul>
 </div>
-
+)--")
+```
+```{r domestic-utilities, echo=FALSE, results='asis'}
+cat(r"--(
 <div class="toolkit-box">
 <h3>DOMESTIC UTILITIES</h3>
 <ul>
@@ -925,4 +963,7 @@ title: "Toolkit"
   <li><a href="https://m.uber.com/looking" target="_blank" rel="noopener noreferrer">Uber</a></li>
   <li><a href="https://me.houm.com/landlord" target="_blank" rel="noopener noreferrer">Houm</a></li>
 </ul>
+</div>
+)--")
+```
 </div>
