@@ -97,10 +97,11 @@ cat(r"--(
 <div class="toolkit-box">
 <h3>PLAYLISTS</h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=7gtIh5dF9Xk" target="_blank" rel="noopener noreferrer">Jazz noir</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLWE7D8DLat0Vl9Q6gspKvulwajpC3U9QA" target="_blank" rel="noopener noreferrer">Shakira viejitas</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLEH_MKt4utKlywUg3gPrnequB24gIrGiq" target="_blank" rel="noopener noreferrer">Shakira: Music Videos</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLiJey_76CkNRu-K9eAfpYQgD9HuC25_v8" target="_blank" rel="noopener noreferrer">Pomplamoose Mashups</a></li>
-
+  <li><a href="https://www.youtube.com/playlist?list=PLFB2A700B1A28B590" target="_blank" rel="noopener noreferrer">Pomplamoose Covers</a></li>
 </ul>
 </div>
 )--")
@@ -159,6 +160,20 @@ cat(r"--(
   <li><a href="https://drive.google.com/drive/folders/1F4COf1EYqI9oKV3Kx5Ybbpt8fc9Om61M" target="_blank" rel="noopener noreferrer">EEG St.Tomas</a></li>
   <li><a href="https://drive.google.com/drive/folders/1CZzg5GfV8b47nKYN02p3BoUVcKkJ_xDq" target="_blank" rel="noopener noreferrer">Innov Escolar 2025</a></li>
   <li><a href="https://drive.google.com/drive/folders/1Rs3L76Q3qQZ7htDWPX08bDh2AeR8xqOr" target="_blank" rel="noopener noreferrer">Proyecto Martina</a></li>
+</ul>
+</div>
+)--")
+```
+```{r songs, echo=FALSE, results='asis'}
+cat(r"--(
+<div class="toolkit-box">
+<h3>SONGS</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank" rel="noopener noreferrer">Something About Us</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PJ0sdXc4CmI" target="_blank" rel="noopener noreferrer">Material Girl</a></li>
+  <li><a href="https://www.youtube.com/watch?v=tlvpm3Jy5NM" target="_blank" rel="noopener noreferrer">I Try</a></li>
+
+  <li><a href="https://www.youtube.com/@fansoftheconchords" target="_blank" rel="noopener noreferrer">Fan of the Conchords</a></li>
 </ul>
 </div>
 )--")
@@ -897,18 +912,6 @@ cat(r"--(
   <li><a href="https://www.portaldisc.com/artista/ELCRUCE" target="_blank" rel="noopener noreferrer">El Cruce - PortalDisc</a></li> 
   <li><a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YT Home</a></li>  
   <li><a href="https://www.youtube.com/feed/library" target="_blank" rel="noopener noreferrer">YT Library</a></li>
-</ul>
-</div>
-)--")
-```
-```{r songs, echo=FALSE, results='asis'}
-cat(r"--(
-<div class="toolkit-box">
-<h3>SONGS</h3>
-<ul>
-  <li><a href="https://www.youtube.com/@fansoftheconchords" target="_blank" rel="noopener noreferrer">Fan of the Conchords</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLFB2A700B1A28B590" target="_blank" rel="noopener noreferrer">Pomplamoose Covers</a></li>
-  <li><a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank" rel="noopener noreferrer">Daft Punk | Something About Us | Pomplamoose</a></li>
 </ul>
 </div>
 )--")
