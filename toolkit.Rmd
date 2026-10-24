@@ -128,7 +128,8 @@ cat(r"--(
 <div class="toolkit-box">
 <h3>COLLABS 1</h3>
 <ul>
-  <li><a href="https://drive.google.com/drive/folders/1jdOT5kCWi2wg4y9KYZcbQJ4BDTHgcrtA" target="_blank" rel="noopener noreferrer">Xplor (FMR)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1jdOT5kCWi2wg4y9KYZcbQJ4BDTHgcrtA" target="_blank" rel="noopener noreferrer">Xplor1 (FMR)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1JLu_DUvQXqySZdl5cquvlThAyhKaoQfh" target="_blank" rel="noopener noreferrer">Xplor2 (FMR)</a></li>
   <li><a href="https://drive.google.com/drive/folders/1ghUriGILN2rKpj38PoN0YSLomFdRB2tK" target="_blank" rel="noopener noreferrer">EAM (Sarah)</a></li>
   <li><a href="https://drive.google.com/drive/u/1/folders/1S6muZkQK1t9r9t6hoiG4esgmeTC_YF7m" target="_blank" rel="noopener noreferrer">Fabiola Salas</a></li>
   
