@@ -97,6 +97,7 @@ cat(r"--(
 <div class="toolkit-box">
 <h3>PLAYLISTS</h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=0Ssi-9wS1so" target="_blank" rel="noopener noreferrer">Angine de Poitrine (KEXP)</a></li>
   <li><a href="https://www.youtube.com/watch?v=7gtIh5dF9Xk" target="_blank" rel="noopener noreferrer">Jazz noir</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLWE7D8DLat0Vl9Q6gspKvulwajpC3U9QA" target="_blank" rel="noopener noreferrer">Shakira viejitas</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PLEH_MKt4utKlywUg3gPrnequB24gIrGiq" target="_blank" rel="noopener noreferrer">Shakira: Music Videos</a></li>
@@ -170,6 +171,7 @@ cat(r"--(
 <div class="toolkit-box">
 <h3>SONGS</h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=bwLkI5Id6cA" target="_blank" rel="noopener noreferrer">I Say A Little Prayer</a></li>
   <li><a href="https://www.youtube.com/watch?v=2CCNswShJRc" target="_blank" rel="noopener noreferrer">Something About Us</a></li>
   <li><a href="https://www.youtube.com/watch?v=PJ0sdXc4CmI" target="_blank" rel="noopener noreferrer">Material Girl</a></li>
   <li><a href="https://www.youtube.com/watch?v=tlvpm3Jy5NM" target="_blank" rel="noopener noreferrer">I Try</a></li>
